@@ -1,0 +1,5 @@
+# OS / editör
+.DS_Store
+Thumbs.db
+*.log
+desktop.ini

@@ -1,0 +1,1944 @@
+id,ad,porsiyon_adi,gram,kalori,protein,karb,yag
+mercimek-corbasi,Mercimek Çorbası,1 kase,250,150,8.0,22.0,3.5
+ezogelin-corbasi,Ezogelin Çorbası,1 kase,250,160,7.5,24.0,4.0
+tarhana-corbasi,Tarhana Çorbası,1 kase,250,130,5.5,20.0,3.0
+yayla-corbasi,Yayla Çorbası,1 kase,250,140,6.0,18.0,5.0
+domates-corbasi,Domates Çorbası,1 kase,250,120,4.0,17.0,4.0
+tavuk-suyu-corba,Tavuk Suyu Çorba,1 kase,250,110,7.0,12.0,3.5
+iskembe-corbasi,İşkembe Çorbası,1 kase,250,180,12.0,10.0,10.0
+kelle-paca-corbasi,Kelle Paça Çorbası,1 kase,250,200,15.0,6.0,13.0
+dugun-corbasi,Düğün Çorbası,1 kase,250,170,8.0,14.0,9.0
+brokoli-corbasi,Brokoli Çorbası,1 kase,250,130,6.0,14.0,6.0
+mantar-corbasi,Mantar Çorbası,1 kase,250,140,5.0,15.0,7.0
+sehriye-corbasi,Şehriye Çorbası,1 kase,250,120,4.5,20.0,2.5
+domatesli-sehriye-corbasi,Domatesli Şehriye Çorbası,1 kase,250,130,4.5,22.0,3.0
+tavuklu-sehriye-corbasi,Tavuklu Şehriye Çorbası,1 kase,250,150,9.0,18.0,4.0
+sebze-corbasi,Sebze Çorbası,1 kase,250,100,3.5,15.0,3.0
+kremali-mantar-corbasi,Kremalı Mantar Çorbası,1 kase,250,180,5.5,16.0,10.0
+balik-corbasi,Balık Çorbası,1 kase,250,160,14.0,10.0,7.0
+analikizli-corba,Analı Kızlı Çorba,1 kase,250,220,10.0,28.0,7.0
+un-corbasi,Un Çorbası,1 kase,250,140,4.0,20.0,5.0
+bezelye-corbasi,Bezelye Çorbası,1 kase,250,150,7.0,20.0,4.5
+kuru-fasulye-etli,Kuru Fasulye Etli,1 porsiyon,300,320,18.0,35.0,12.0
+nohut-etli,Nohut Yemeği Etli,1 porsiyon,300,340,17.0,40.0,12.0
+karniyarik,Karnıyarık,1 adet,250,290,14.0,18.0,18.0
+izmir-kofte,İzmir Köfte,1 porsiyon,280,350,22.0,15.0,22.0
+tas-kebabi,Tas Kebabı,1 porsiyon,280,340,26.0,14.0,20.0
+et-guvec,Et Güveç,1 porsiyon,300,360,28.0,18.0,20.0
+orman-kebabi,Orman Kebabı,1 porsiyon,300,380,26.0,20.0,22.0
+hunkar-begendi,Hünkar Beğendi,1 porsiyon,300,420,24.0,22.0,26.0
+kiymali-ispanak,Kıymalı Ispanak,1 porsiyon,300,220,15.0,12.0,13.0
+etli-bezelye,Etli Bezelye,1 porsiyon,300,280,16.0,26.0,12.0
+etli-turlu,Etli Türlü,1 porsiyon,300,260,15.0,22.0,12.0
+sac-kavurma,Sac Kavurma,1 porsiyon,250,380,30.0,8.0,26.0
+tavuk-sote,Tavuk Sote,1 porsiyon,280,300,28.0,14.0,15.0
+tavuk-sis,Tavuk Şiş,1 porsiyon,250,320,34.0,4.0,18.0
+adana-kebap,Adana Kebap,1 porsiyon,250,480,28.0,6.0,38.0
+urfa-kebap,Urfa Kebap,1 porsiyon,250,450,29.0,6.0,34.0
+et-doner,Et Döner,1 porsiyon,200,420,26.0,4.0,34.0
+tavuk-doner,Tavuk Döner,1 porsiyon,200,300,28.0,4.0,19.0
+izgara-kofte,Izgara Köfte,1 porsiyon,200,380,26.0,6.0,28.0
+sulu-kofte,Sulu Köfte,1 porsiyon,300,300,20.0,22.0,14.0
+dana-rosto,Dana Rosto,1 porsiyon,250,360,34.0,8.0,22.0
+etli-nohut-pilav,Etli Nohutlu Pilav,1 porsiyon,350,480,22.0,60.0,16.0
+kadinbudu-kofte,Kadınbudu Köfte,2 adet,180,340,20.0,18.0,20.0
+icli-kofte,İçli Köfte,1 adet,120,280,10.0,26.0,15.0
+etli-lahana-sarma,Etli Lahana Sarma,1 porsiyon,300,290,14.0,28.0,14.0
+etli-biber-dolma,Etli Biber Dolma,2 adet,240,300,13.0,26.0,16.0
+etli-kabak-dolma,Etli Kabak Dolma,2 adet,240,270,12.0,24.0,14.0
+patlican-kebabi,Patlıcan Kebabı,1 porsiyon,300,400,24.0,16.0,26.0
+kuzu-tandir,Kuzu Tandır,1 porsiyon,250,440,32.0,4.0,34.0
+et-sote,Et Sote,1 porsiyon,280,360,30.0,14.0,20.0
+mantarli-tavuk,Mantarlı Tavuk,1 porsiyon,280,290,28.0,10.0,15.0
+tavuk-kavurma,Tavuk Kavurma,1 porsiyon,250,320,30.0,6.0,20.0
+kofteli-nohut,Köfteli Nohut,1 porsiyon,300,340,20.0,32.0,14.0
+ciger-tava,Ciğer Tava,1 porsiyon,200,320,26.0,12.0,18.0
+etli-kuru-fasulye-firin,Etli Kuru Fasulye Fırın,1 porsiyon,300,350,20.0,36.0,14.0
+kagit-kebabi,Kağıt Kebabı,1 porsiyon,300,360,26.0,16.0,22.0
+zeytinyagli-fasulye,Zeytinyağlı Fasulye,1 porsiyon,250,180,6.0,20.0,9.0
+imam-bayildi,İmam Bayıldı,1 adet,220,230,4.0,18.0,16.0
+zeytinyagli-taze-fasulye,Zeytinyağlı Taze Fasulye,1 porsiyon,250,170,5.0,18.0,9.0
+zeytinyagli-kabak,Zeytinyağlı Kabak,1 porsiyon,250,150,4.0,16.0,8.0
+zeytinyagli-biber-dolma,Zeytinyağlı Biber Dolma,2 adet,220,240,5.0,30.0,11.0
+zeytinyagli-yaprak-sarma,Zeytinyağlı Yaprak Sarma,4 adet,200,260,5.0,32.0,12.0
+mucver,Mücver,2 adet,150,240,8.0,18.0,15.0
+menemen,Menemen,1 porsiyon,250,220,11.0,12.0,15.0
+ispanak-yemegi,Ispanak Yemeği,1 porsiyon,250,140,6.0,14.0,7.0
+pirasa-yemegi,Pırasa Yemeği,1 porsiyon,250,150,4.0,18.0,7.0
+kereviz-yemegi,Kereviz Yemeği,1 porsiyon,250,130,3.0,16.0,7.0
+zeytinyagli-enginar,Zeytinyağlı Enginar,1 adet,200,160,4.0,18.0,8.0
+zeytinyagli-barbunya,Zeytinyağlı Barbunya,1 porsiyon,250,200,9.0,26.0,7.0
+zeytinyagli-nohut,Zeytinyağlı Nohut,1 porsiyon,250,220,10.0,28.0,8.0
+sebzeli-guvec,Sebzeli Güveç,1 porsiyon,300,180,5.0,22.0,8.0
+zeytinyagli-pazi,Zeytinyağlı Pazı,1 porsiyon,250,140,5.0,14.0,7.0
+zeytinyagli-bakla,Zeytinyağlı Bakla,1 porsiyon,250,170,7.0,20.0,7.0
+firin-sebze,Fırın Sebze,1 porsiyon,300,200,6.0,24.0,9.0
+patlican-musakka,Patlıcan Musakka Etsiz,1 porsiyon,280,220,6.0,20.0,13.0
+kabak-kizartma,Kabak Kızartma,1 porsiyon,200,190,4.0,16.0,12.0
+patlican-kizartma,Patlıcan Kızartma,1 porsiyon,200,210,3.0,18.0,14.0
+sebzeli-bulgur,Sebzeli Bulgur,1 porsiyon,250,240,6.0,42.0,5.0
+zeytinyagli-semizotu,Zeytinyağlı Semizotu,1 porsiyon,250,130,4.0,12.0,7.0
+firin-karnabahar,Fırın Karnabahar,1 porsiyon,250,150,7.0,14.0,7.0
+pirinc-pilavi,Pirinç Pilavı,1 porsiyon,180,290,5.0,52.0,7.0
+bulgur-pilavi,Bulgur Pilavı,1 porsiyon,180,250,7.0,45.0,5.0
+nohutlu-pilav,Nohutlu Pilav,1 porsiyon,200,320,9.0,55.0,8.0
+ic-pilav,İç Pilav,1 porsiyon,200,340,7.0,52.0,11.0
+sehriyeli-pilav,Şehriyeli Pilav,1 porsiyon,180,300,6.0,53.0,7.0
+spagetti-domatesli,Spagetti Domates Soslu,1 porsiyon,300,380,12.0,68.0,7.0
+firin-makarna,Fırın Makarna,1 porsiyon,300,450,18.0,55.0,18.0
+mantı,Mantı,1 porsiyon,250,420,16.0,55.0,15.0
+eriste,Erişte,1 porsiyon,250,360,11.0,58.0,9.0
+kuskus-pilavi,Kuskus Pilavı,1 porsiyon,200,280,8.0,50.0,5.0
+bulgurlu-kofte-pilav,Bulgurlu Köfteli Pilav,1 porsiyon,250,360,14.0,52.0,10.0
+peynirli-makarna,Peynirli Makarna,1 porsiyon,300,420,16.0,58.0,14.0
+domatesli-makarna,Domatesli Makarna,1 porsiyon,300,360,11.0,66.0,6.0
+tavuklu-pilav,Tavuklu Pilav,1 porsiyon,250,400,20.0,52.0,12.0
+sebzeli-makarna,Sebzeli Makarna,1 porsiyon,300,340,10.0,62.0,6.0
+firin-mantı,Fırın Mantı,1 porsiyon,250,440,17.0,54.0,17.0
+beyaz-peynir,Beyaz Peynir,1 dilim,30,80,5.0,1.0,6.5
+kasar-peyniri,Kaşar Peyniri,1 dilim,30,110,7.0,0.5,9.0
+tulum-peyniri,Tulum Peyniri,1 porsiyon,30,105,6.5,0.8,8.5
+lor-peyniri,Lor Peyniri,1 porsiyon,50,70,8.0,2.0,3.5
+cokelek,Çökelek,1 porsiyon,50,75,9.0,2.0,3.5
+sucuk,Sucuk,3 dilim,40,150,8.0,1.0,13.0
+pastirma,Pastırma,3 dilim,30,90,14.0,1.0,3.5
+siyah-zeytin,Siyah Zeytin,7 adet,35,55,0.5,1.5,5.5
+yesil-zeytin,Yeşil Zeytin,7 adet,35,50,0.5,1.5,5.0
+tereyagi,Tereyağı,1 yemek kaşığı,15,110,0.1,0.1,12.0
+bal,Bal,1 yemek kaşığı,20,60,0.1,16.0,0.0
+recel,Reçel,1 yemek kaşığı,20,52,0.1,13.0,0.0
+tahin,Tahin,1 yemek kaşığı,15,90,2.5,3.0,8.0
+pekmez,Pekmez,1 yemek kaşığı,20,58,0.5,14.0,0.0
+tahin-pekmez,Tahin Pekmez,1 yemek kaşığı,20,110,2.0,10.0,7.0
+haslanmis-yumurta,Haşlanmış Yumurta,1 adet,50,72,6.3,0.4,5.0
+omlet,Omlet,2 yumurta,120,220,14.0,2.0,17.0
+sahanda-yumurta,Sahanda Yumurta,2 adet,110,240,13.0,1.0,20.0
+sucuklu-yumurta,Sucuklu Yumurta,1 porsiyon,150,320,18.0,2.0,26.0
+menemen-kahvalti,Menemen Kahvaltı,1 porsiyon,200,190,10.0,10.0,13.0
+simit,Simit,1 adet,100,270,8.0,50.0,4.0
+pogaca,Poğaça,1 adet,70,240,5.0,26.0,13.0
+acma,Açma,1 adet,80,260,6.0,32.0,12.0
+kaymak,Kaymak,1 yemek kaşığı,20,130,1.0,1.0,14.0
+kremali-peynir,Kremalı Peynir,1 yemek kaşığı,20,70,1.5,1.0,6.5
+labne-kahvalti,Labne,1 yemek kaşığı,20,55,1.5,1.5,5.0
+sade-omlet,Sade Omlet,1 yumurta,60,110,7.0,1.0,9.0
+peynirli-omlet,Peynirli Omlet,2 yumurta,150,300,20.0,2.0,24.0
+domatesli-yumurta,Domatesli Yumurta,2 yumurta,150,230,13.0,4.0,18.0
+zeytin-ezmesi,Zeytin Ezmesi,1 yemek kaşığı,15,65,0.5,1.0,6.5
+kayseri-pastirma,Kayseri Pastırması,4 dilim,40,120,18.0,1.0,5.0
+findik-ezmesi,Fındık Ezmesi,1 yemek kaşığı,20,120,2.5,7.0,9.0
+antep-ezmesi,Antep Fıstık Ezmesi,1 yemek kaşığı,20,125,3.0,6.0,10.0
+kavut,Kavut,1 yemek kaşığı,20,80,2.0,14.0,2.0
+sut-recel,Süt Reçeli,1 yemek kaşığı,20,70,1.0,12.0,2.0
+beyaz-ekmek,Beyaz Ekmek,1 dilim,30,80,2.5,15.0,0.5
+tam-bugday-ekmek,Tam Buğday Ekmek,1 dilim,30,75,3.0,13.0,1.0
+lavas,Lavaş,1 adet,60,160,5.0,32.0,1.0
+pide-ekmek,Pide Ekmeği,1 dilim,50,135,4.5,26.0,1.0
+ramazan-pidesi,Ramazan Pidesi,1 dilim,60,160,5.0,31.0,1.5
+bazlama,Bazlama,1 adet,80,220,6.0,42.0,3.0
+yufka,Yufka,1 adet,50,160,5.0,32.0,1.0
+galeta,Galeta,2 adet,30,120,3.5,22.0,2.0
+kraker,Kraker,5 adet,30,140,3.0,20.0,5.5
+grissini,Grissini,4 adet,25,100,3.0,18.0,2.0
+cavdar-ekmek,Çavdar Ekmeği,1 dilim,30,70,2.5,13.0,0.8
+kepekli-ekmek,Kepekli Ekmek,1 dilim,30,72,3.0,13.0,0.8
+misir-ekmegi,Mısır Ekmeği,1 dilim,40,110,2.5,20.0,2.0
+kandil-simidi,Kandil Simidi,2 adet,30,140,3.0,20.0,5.0
+gevrek-ekmek,Gevrek Ekmek,1 dilim,25,65,2.0,12.0,0.5
+tost-ekmegi,Tost Ekmeği,1 dilim,25,70,2.3,13.0,0.6
+tavuk-gogsu-izgara,Tavuk Göğsü Izgara,1 porsiyon,150,240,45.0,0.0,5.5
+tavuk-but-haslanmis,Tavuk But Haşlanmış,1 porsiyon,150,290,38.0,0.0,15.0
+dana-biftek,Dana Biftek,1 porsiyon,150,330,42.0,0.0,17.0
+kuzu-pirzola,Kuzu Pirzola,2 adet,150,420,36.0,0.0,30.0
+kiyma-izgara,Izgara Köfte Kıyma,1 porsiyon,150,360,30.0,0.0,26.0
+hindi-fileto,Hindi Fileto Izgara,1 porsiyon,150,220,44.0,0.0,4.5
+somon-izgara,Somon Izgara,1 porsiyon,150,310,34.0,0.0,19.0
+levrek-izgara,Levrek Izgara,1 porsiyon,150,180,36.0,0.0,3.5
+cipura-izgara,Çipura Izgara,1 porsiyon,150,195,35.0,0.0,5.5
+hamsi-tava,Hamsi Tava,1 porsiyon,150,330,24.0,10.0,22.0
+alabalik-izgara,Alabalık Izgara,1 porsiyon,150,210,30.0,0.0,10.0
+ton-baligi-konserve,Ton Balığı Konserve,1 kutu,80,110,20.0,0.0,3.0
+sardalya,Sardalya Izgara,1 porsiyon,150,290,30.0,0.0,19.0
+tavuk-kanat-izgara,Tavuk Kanat Izgara,4 adet,150,350,28.0,0.0,26.0
+dana-antrikot,Dana Antrikot,1 porsiyon,150,360,38.0,0.0,23.0
+kuzu-sis,Kuzu Şiş,1 porsiyon,150,380,34.0,0.0,27.0
+tavuk-fileto-firin,Tavuk Fileto Fırın,1 porsiyon,150,230,44.0,1.0,5.0
+palamut-firin,Palamut Fırın,1 porsiyon,150,270,32.0,0.0,15.0
+mezgit-tava,Mezgit Tava,1 porsiyon,150,250,26.0,12.0,11.0
+istavrit-firin,İstavrit Fırın,1 porsiyon,150,220,28.0,0.0,12.0
+dil-baligi,Dil Balığı Izgara,1 porsiyon,150,180,33.0,0.0,5.0
+kalkan-izgara,Kalkan Izgara,1 porsiyon,150,200,34.0,0.0,6.5
+dana-kusbasi,Dana Kuşbaşı Pişmiş,1 porsiyon,150,320,36.0,0.0,19.0
+tavuk-nugget,Tavuk Nugget,6 adet,120,300,15.0,20.0,18.0
+hindi-fume,Hindi Füme,3 dilim,40,55,10.0,1.0,1.5
+midye-dolma,Midye Dolma,5 adet,150,220,7.0,32.0,7.0
+karides-izgara,Karides Izgara,1 porsiyon,120,120,24.0,1.0,2.0
+sut-tam-yagli,Süt Tam Yağlı,1 bardak,200,130,6.6,9.6,7.2
+sut-yarim-yagli,Süt Yarım Yağlı,1 bardak,200,96,6.8,9.6,3.2
+yogurt-tam-yagli,Yoğurt Tam Yağlı,1 kase,200,120,8.0,10.0,6.0
+yogurt-light,Yoğurt Light,1 kase,200,90,10.0,12.0,0.5
+ayran,Ayran,1 bardak,200,80,5.0,7.0,3.5
+kefir,Kefir,1 bardak,200,110,7.0,9.0,5.0
+krema,Krema,1 yemek kaşığı,15,45,0.4,0.5,4.5
+suzme-yogurt,Süzme Yoğurt,1 kase,150,140,11.0,7.0,7.5
+yogurt-yagsiz,Yoğurt Yağsız,1 kase,200,75,11.0,8.0,0.2
+sutlu-kahve,Sütlü Kahve,1 fincan,150,60,3.0,6.0,2.5
+comlek-yogurt,Çömlek Yoğurdu,1 kase,200,130,7.5,9.0,7.0
+keci-sutu,Keçi Sütü,1 bardak,200,140,7.5,9.0,8.0
+suzme-peynir-yogurt,Süzme Peynir Yoğurt Karışık,1 kase,150,130,12.0,6.0,6.5
+probiyotik-yogurt,Probiyotik Yoğurt,1 kase,150,100,7.0,9.0,4.0
+tam-yagli-yogurt-ballı,Ballı Yoğurt,1 kase,200,180,7.0,26.0,5.0
+elma,Elma,1 orta boy,180,95,0.5,25.0,0.3
+muz,Muz,1 orta boy,120,105,1.3,27.0,0.4
+portakal,Portakal,1 orta boy,150,70,1.3,18.0,0.2
+mandalina,Mandalina,1 adet,90,45,0.7,11.0,0.2
+uzum,Üzüm,1 porsiyon,150,105,1.0,27.0,0.3
+karpuz,Karpuz,1 dilim,300,90,1.8,23.0,0.4
+kavun,Kavun,1 dilim,250,85,1.5,20.0,0.3
+cilek,Çilek,1 kase,150,50,1.0,12.0,0.4
+kiraz,Kiraz,1 kase,150,90,1.5,22.0,0.3
+visne,Vişne,1 kase,150,75,1.2,18.0,0.3
+seftali,Şeftali,1 adet,150,60,1.4,15.0,0.4
+kayisi,Kayısı,3 adet,120,58,1.4,14.0,0.4
+erik,Erik,3 adet,150,70,1.0,17.0,0.3
+taze-incir,Taze İncir,2 adet,100,74,0.8,19.0,0.3
+kuru-incir,Kuru İncir,3 adet,60,150,2.0,38.0,0.6
+nar,Nar,1 adet,180,125,2.5,30.0,1.5
+armut,Armut,1 orta boy,180,100,0.6,27.0,0.2
+ananas,Ananas,1 dilim,120,60,0.7,16.0,0.1
+kivi,Kivi,1 adet,75,45,0.8,11.0,0.4
+hurma,Hurma,3 adet,60,160,1.0,42.0,0.2
+kuru-uzum,Kuru Üzüm,1 yemek kaşığı,30,90,1.0,23.0,0.1
+kuru-kayisi,Kuru Kayısı,5 adet,50,120,1.5,31.0,0.3
+avokado,Avokado,1 adet,150,240,3.0,12.0,22.0
+greyfurt,Greyfurt,1 adet,200,80,1.5,20.0,0.3
+mango,Mango,1 adet,200,135,1.8,33.0,0.6
+frenk-uzumu,Frenk Üzümü,1 kase,100,56,1.4,14.0,0.4
+bogurtlen,Böğürtlen,1 kase,150,65,2.0,15.0,0.7
+ahududu,Ahududu,1 kase,150,80,1.8,18.0,0.9
+yaban-mersini,Yaban Mersini,1 kase,150,85,1.0,21.0,0.5
+dut,Dut,1 kase,150,65,2.0,14.0,0.5
+kuru-erik,Kuru Erik,4 adet,50,120,1.0,32.0,0.2
+ayva,Ayva,1 adet,200,110,0.8,28.0,0.2
+domates,Domates,1 orta boy,120,22,1.1,4.8,0.2
+salatalik,Salatalık,1 adet,150,24,1.0,5.0,0.2
+marul,Marul,1 porsiyon,100,15,1.4,2.9,0.2
+roka,Roka,1 porsiyon,50,12,1.3,1.8,0.3
+maydanoz,Maydanoz,1 demet,50,18,1.5,3.0,0.4
+yesil-biber,Yeşil Biber,2 adet,100,25,1.0,5.0,0.3
+havuc,Havuç,1 adet,80,33,0.7,8.0,0.2
+turp,Turp,1 porsiyon,100,16,0.7,3.4,0.1
+kuru-sogan,Kuru Soğan,1 adet,100,40,1.1,9.0,0.1
+haslanmis-patates,Haşlanmış Patates,1 orta boy,150,130,2.8,30.0,0.2
+firin-patates,Fırın Patates,1 orta boy,180,160,3.5,37.0,0.3
+patates-kizartma,Patates Kızartması,1 porsiyon,150,430,5.0,50.0,23.0
+mevsim-salata,Mevsim Salata,1 porsiyon,200,90,2.5,12.0,4.5
+coban-salata,Çoban Salata,1 porsiyon,200,110,2.5,10.0,7.0
+mercimek-salata,Mercimek Salata,1 porsiyon,200,180,10.0,26.0,5.0
+patates-salata,Patates Salatası,1 porsiyon,200,220,4.0,32.0,9.0
+yesil-salata,Yeşil Salata,1 porsiyon,150,60,2.0,7.0,3.0
+kisir,Kısır,1 porsiyon,150,240,6.0,40.0,7.0
+rus-salatasi,Rus Salatası,1 porsiyon,150,260,3.5,22.0,18.0
+haydari,Haydari,1 porsiyon,100,130,5.0,6.0,10.0
+acili-ezme,Acılı Ezme,1 porsiyon,100,70,1.5,8.0,4.0
+piyaz,Piyaz,1 porsiyon,200,220,10.0,28.0,8.0
+turşu,Turşu,1 porsiyon,100,20,1.0,4.0,0.2
+kırmızı-lahana-salata,Kırmızı Lahana Salatası,1 porsiyon,150,60,1.5,10.0,2.0
+brokoli-haslanmis,Brokoli Haşlanmış,1 porsiyon,150,50,4.0,8.0,0.6
+findik,Fındık,1 avuç,30,190,4.5,5.0,18.0
+ceviz,Ceviz,1 avuç,30,196,4.5,4.0,19.5
+badem,Badem,1 avuç,30,174,6.0,6.0,15.0
+antep-fistigi,Antep Fıstığı,1 avuç,30,170,6.0,8.0,14.0
+yer-fistigi,Yer Fıstığı,1 avuç,30,170,7.0,5.0,14.0
+kaju,Kaju,1 avuç,30,165,5.0,9.0,13.0
+leblebi,Leblebi,1 avuç,30,110,7.0,18.0,2.0
+ay-cekirdegi,Ay Çekirdeği,1 avuç,30,170,6.0,6.0,14.0
+kabak-cekirdegi,Kabak Çekirdeği,1 avuç,30,160,9.0,4.0,13.0
+kuru-hindistan-cevizi,Kuru Hindistan Cevizi,1 yemek kaşığı,15,100,1.0,3.5,9.5
+findik-fistik-karisik,Karışık Kuruyemiş,1 avuç,30,180,5.0,7.0,15.0
+susam,Susam,1 yemek kaşığı,15,90,3.0,3.5,7.5
+chia-tohumu,Chia Tohumu,1 yemek kaşığı,15,73,2.5,6.0,4.5
+keten-tohumu,Keten Tohumu,1 yemek kaşığı,15,80,2.8,4.5,6.0
+cam-fistigi,Çam Fıstığı,1 yemek kaşığı,15,100,2.0,2.0,10.0
+baklava,Baklava,1 dilim,100,430,6.0,50.0,24.0
+kunefe,Künefe,1 porsiyon,150,540,10.0,60.0,28.0
+sutlac,Sütlaç,1 kase,200,240,6.0,42.0,5.0
+kazandibi,Kazandibi,1 porsiyon,150,230,5.0,40.0,5.5
+revani,Revani,1 dilim,120,360,4.0,58.0,12.0
+sekerpare,Şekerpare,2 adet,100,340,4.0,52.0,13.0
+lokma,Lokma,1 porsiyon,120,380,4.0,55.0,16.0
+tulumba,Tulumba Tatlısı,4 adet,120,400,3.5,58.0,17.0
+kadayif,Tel Kadayıf,1 porsiyon,120,420,5.0,54.0,20.0
+asure,Aşure,1 kase,200,280,5.0,58.0,4.0
+muhallebi,Muhallebi,1 kase,150,200,5.0,34.0,5.0
+dondurma,Dondurma,2 top,100,200,3.5,24.0,10.0
+profiterol,Profiterol,1 porsiyon,120,340,6.0,38.0,18.0
+kek-dilimi,Kek Dilimi,1 dilim,80,290,4.0,38.0,14.0
+brownie,Brownie,1 adet,80,360,4.5,42.0,20.0
+magnolia,Magnolia,1 kase,150,320,5.0,42.0,15.0
+trilece,Trileçe,1 dilim,120,340,6.0,44.0,15.0
+tahin-helvasi,Tahin Helvası,1 dilim,50,270,6.0,25.0,16.0
+irmik-helvasi,İrmik Helvası,1 porsiyon,120,330,4.0,50.0,13.0
+lokum,Lokum,3 adet,45,140,0.3,35.0,0.1
+kabak-tatlisi,Kabak Tatlısı,1 porsiyon,150,220,2.5,44.0,4.0
+ayva-tatlisi,Ayva Tatlısı,1 porsiyon,150,210,1.5,50.0,1.0
+incir-tatlisi,İncir Tatlısı,2 adet,120,260,4.0,48.0,6.0
+supangle,Supangle,1 kase,150,280,6.0,40.0,10.0
+cheesecake,Cheesecake,1 dilim,120,380,7.0,34.0,24.0
+tiramisu,Tiramisu,1 porsiyon,120,350,6.0,38.0,19.0
+firin-sutlac,Fırın Sütlaç,1 kase,200,270,7.0,44.0,6.0
+cay-sekersiz,Çay Şekersiz,1 bardak,200,2,0.0,0.5,0.0
+cay-sekerli,Çay Şekerli,1 bardak,200,40,0.0,10.0,0.0
+turk-kahvesi-sade,Türk Kahvesi Sade,1 fincan,60,5,0.2,1.0,0.0
+turk-kahvesi-sekerli,Türk Kahvesi Şekerli,1 fincan,60,45,0.2,11.0,0.0
+filtre-kahve,Filtre Kahve,1 fincan,200,5,0.3,1.0,0.0
+latte,Latte,1 bardak,300,150,8.0,14.0,7.0
+cappuccino,Cappuccino,1 fincan,180,90,5.0,9.0,4.0
+portakal-suyu,Portakal Suyu,1 bardak,200,90,1.4,21.0,0.3
+visne-suyu,Vişne Suyu,1 bardak,200,110,0.5,27.0,0.1
+kola,Kola,1 kutu,330,140,0.0,35.0,0.0
+salgam,Şalgam Suyu,1 bardak,200,20,0.5,4.0,0.0
+limonata,Limonata,1 bardak,250,110,0.3,28.0,0.1
+soda,Soda,1 şişe,200,0,0.0,0.0,0.0
+enerji-icecegi,Enerji İçeceği,1 kutu,250,115,0.0,28.0,0.0
+maden-suyu,Maden Suyu,1 şişe,200,0,0.0,0.0,0.0
+sicak-cikolata,Sıcak Çikolata,1 bardak,250,220,7.0,32.0,7.0
+sahlep,Sahlep,1 bardak,250,200,5.0,34.0,5.0
+hamburger,Hamburger,1 adet,220,510,25.0,42.0,26.0
+cheeseburger,Cheeseburger,1 adet,240,580,28.0,44.0,32.0
+lahmacun,Lahmacun,1 adet,150,300,13.0,42.0,9.0
+pizza-dilim,Pizza Dilimi,1 dilim,120,300,12.0,34.0,12.0
+tost,Tost,1 adet,150,350,14.0,38.0,15.0
+kasarli-tost,Kaşarlı Tost,1 adet,150,380,16.0,36.0,19.0
+sucuklu-tost,Sucuklu Tost,1 adet,170,450,19.0,38.0,25.0
+et-doner-durum,Et Döner Dürüm,1 adet,300,600,28.0,58.0,28.0
+tavuk-durum,Tavuk Dürüm,1 adet,300,520,30.0,56.0,20.0
+cig-kofte-durum,Çiğ Köfte Dürüm,1 adet,250,360,9.0,62.0,8.0
+su-boregi,Su Böreği,1 dilim,150,360,12.0,38.0,18.0
+kiymali-borek,Kıymalı Börek,1 dilim,150,380,14.0,36.0,20.0
+peynirli-borek,Peynirli Börek,1 dilim,150,360,13.0,36.0,18.0
+sigara-boregi,Sigara Böreği,4 adet,120,320,9.0,32.0,17.0
+gozleme-peynirli,Gözleme Peynirli,1 adet,200,420,15.0,52.0,16.0
+gozleme-kiymali,Gözleme Kıymalı,1 adet,200,450,18.0,50.0,19.0
+patso,Patso,1 adet,250,550,15.0,60.0,27.0
+kumpir,Kumpir,1 adet,350,650,18.0,75.0,30.0
+midye-tava,Midye Tava,10 adet,150,340,14.0,32.0,17.0
+kokorec,Kokoreç,1 porsiyon,150,420,22.0,20.0,28.0
+tantuni,Tantuni,1 adet,250,480,26.0,48.0,20.0
+islak-hamburger,Islak Hamburger,1 adet,150,340,12.0,34.0,18.0
+pilav-ustu-tavuk,Pilav Üstü Tavuk,1 porsiyon,350,520,32.0,60.0,16.0
+pilav-ustu-kuru,Pilav Üstü Kuru Fasulye,1 porsiyon,400,560,22.0,80.0,17.0
+nohutlu-pilav-tavuk,Nohutlu Pilav Tavuklu,1 porsiyon,350,540,28.0,68.0,17.0
+petibor-biskuvi,Petibör Bisküvi,5 adet,30,135,2.5,22.0,4.0
+kremali-biskuvi,Kremalı Bisküvi,3 adet,35,170,2.0,24.0,7.5
+cikolatali-biskuvi,Çikolatalı Bisküvi,3 adet,35,175,2.5,23.0,8.0
+yulafli-biskuvi,Yulaflı Bisküvi,3 adet,36,160,3.0,24.0,6.0
+gofret,Gofret,1 adet,40,210,2.5,26.0,11.0
+cikolata-baton,Çikolata Baton,1 adet,50,250,3.5,30.0,13.0
+patates-cipsi,Patates Cipsi,1 paket,50,270,3.0,27.0,17.0
+misir-cipsi,Mısır Cipsi,1 paket,50,255,3.5,30.0,13.0
+tuzlu-kraker,Tuzlu Kraker,6 adet,30,145,3.0,20.0,5.5
+paket-kek,Paket Kek,1 adet,50,200,3.0,28.0,9.0
+kuru-meyve-karisik,Kuru Meyve Karışımı,1 avuç,40,120,1.0,30.0,0.3
+granola,Granola,1 porsiyon,50,220,5.0,32.0,8.0
+misir-gevregi,Mısır Gevreği,1 kase,40,150,3.0,33.0,1.0
+balli-badem-gevrek,Ballı Bademli Gevrek,1 kase,45,180,4.0,32.0,4.0
+yulaf-ezmesi,Yulaf Ezmesi,1 porsiyon,50,190,6.5,32.0,3.5
+protein-bar,Protein Bar,1 adet,60,230,20.0,22.0,7.0
+kuruyemis-paketi,Kuruyemiş Paketi,1 paket,40,240,7.0,9.0,20.0
+sutlu-cikolata,Sütlü Çikolata,1 kalıp,40,215,3.0,24.0,12.0
+bitter-cikolata,Bitter Çikolata,1 kalıp,40,230,3.0,18.0,16.0
+beyaz-cikolata,Beyaz Çikolata,1 kalıp,40,220,2.5,25.0,12.5
+findikli-cikolata,Fındıklı Çikolata,1 kalıp,40,230,4.0,22.0,14.0
+gul-lokumu,Gül Lokumu,3 adet,45,140,0.3,35.0,0.1
+findikli-lokum,Fındıklı Lokum,3 adet,50,175,1.5,32.0,4.5
+cikolatali-gofret,Çikolatalı Gofret,1 adet,45,235,3.0,28.0,12.0
+findik-kremasi,Fındık Kreması,1 yemek kaşığı,20,110,1.5,12.0,6.5
+misir-patlagi,Mısır Patlağı,1 kase,30,130,3.5,22.0,3.5
+cubuk-kraker,Çubuk Kraker,1 paket,40,180,4.0,28.0,5.5
+findikli-gofret,Fındıklı Gofret,1 adet,45,240,3.5,26.0,13.5
+sekerli-badem-draje,Şekerli Badem Draje,1 avuç,40,200,4.0,24.0,10.0
+karamel-sekeri,Karamel Şekeri,4 adet,30,130,0.5,28.0,2.0
+jelibon,Jelibon,1 avuç,40,140,1.5,33.0,0.1
+marshmallow,Marshmallow,4 adet,30,100,0.8,24.0,0.0
+findikli-baton,Fındıklı Baton,1 adet,50,255,4.5,28.0,13.0
+enerji-bar-muzlu,Muzlu Enerji Bar,1 adet,45,180,4.0,30.0,5.0
+kuru-cilek,Kuru Çilek,1 avuç,30,95,0.6,23.0,0.3
+kaju-paketi,Kaju Paketi,1 paket,35,200,6.0,10.0,16.0
+findik-paketi,Fındık Paketi,1 paket,30,190,4.5,5.0,18.0
+misir-bar,Mısır Bar,1 adet,40,160,2.0,28.0,4.5
+zeytinyagi,Zeytinyağı,1 yemek kaşığı,15,135,0.0,0.0,15.0
+aycicek-yagi,Ayçiçek Yağı,1 yemek kaşığı,15,135,0.0,0.0,15.0
+tereyagi-kasik,Tereyağı Kaşık,1 yemek kaşığı,14,100,0.1,0.1,11.5
+margarin,Margarin,1 yemek kaşığı,14,100,0.1,0.1,11.0
+mayonez,Mayonez,1 yemek kaşığı,15,100,0.2,0.5,11.0
+ketcap,Ketçap,1 yemek kaşığı,17,20,0.2,5.0,0.0
+hardal,Hardal,1 yemek kaşığı,15,15,0.8,1.5,0.7
+ranch-sos,Ranch Sos,1 yemek kaşığı,15,70,0.3,1.5,7.0
+sezar-sos,Sezar Sos,1 yemek kaşığı,15,75,0.5,1.0,7.5
+soya-sosu,Soya Sosu,1 yemek kaşığı,15,10,1.0,1.0,0.0
+domates-salcasi,Domates Salçası,1 yemek kaşığı,20,25,1.2,5.0,0.2
+biber-salcasi,Biber Salçası,1 yemek kaşığı,20,28,1.0,5.5,0.3
+sirke,Sirke,1 yemek kaşığı,15,3,0.0,0.5,0.0
+nar-eksisi,Nar Ekşisi,1 yemek kaşığı,20,50,0.3,12.0,0.0
+tahin-sos,Tahin Sos,1 yemek kaşığı,15,90,2.5,3.0,8.0
+bal-kavanoz,Bal Kavanoz,1 yemek kaşığı,20,60,0.1,16.0,0.0
+uzum-pekmezi,Üzüm Pekmezi,1 yemek kaşığı,20,58,0.5,14.0,0.0
+kayisi-receli,Kayısı Reçeli,1 yemek kaşığı,20,52,0.1,13.0,0.0
+visne-receli,Vişne Reçeli,1 yemek kaşığı,20,54,0.1,13.5,0.0
+cilek-receli,Çilek Reçeli,1 yemek kaşığı,20,52,0.1,13.0,0.0
+fistik-ezmesi,Fıstık Ezmesi,1 yemek kaşığı,16,95,4.0,3.5,8.0
+krem-peynir,Krem Peynir,1 yemek kaşığı,20,70,1.5,1.0,6.5
+barbeku-sos,Barbekü Sos,1 yemek kaşığı,17,30,0.2,7.0,0.1
+aci-sos,Acı Sos,1 yemek kaşığı,15,8,0.3,1.5,0.1
+pesto-sos,Pesto Sos,1 yemek kaşığı,15,80,1.5,1.0,8.0
+kola-normal,Kola Normal,1 bardak,250,105,0.0,27.0,0.0
+kola-light,Kola Light,1 kutu,330,1,0.0,0.3,0.0
+gazoz,Gazoz,1 kutu,330,140,0.0,35.0,0.0
+limonlu-soda,Limonlu Soda,1 şişe,250,5,0.0,1.0,0.0
+elma-suyu,Elma Suyu,1 bardak,200,95,0.2,23.0,0.2
+seftali-suyu,Şeftali Suyu,1 bardak,200,100,0.5,24.0,0.1
+karisik-meyve-suyu,Karışık Meyve Suyu,1 bardak,200,105,0.5,25.0,0.1
+ice-tea-seftali,Ice Tea Şeftali,1 kutu,330,110,0.0,27.0,0.0
+ice-tea-limon,Ice Tea Limon,1 kutu,330,100,0.0,25.0,0.0
+ayran-buyuk,Ayran Büyük,1 bardak,300,120,7.5,10.5,5.0
+kefir-icecek,Kefir İçecek,1 bardak,250,135,8.5,11.0,6.0
+milkshake-cikolatali,Çikolatalı Milkshake,1 bardak,300,360,9.0,52.0,12.0
+smoothie-meyveli,Meyveli Smoothie,1 bardak,300,220,4.0,44.0,3.0
+smoothie-yesil,Yeşil Smoothie,1 bardak,300,160,3.5,32.0,2.0
+ihlamur-cayi,Ihlamur Çayı,1 bardak,200,3,0.0,0.6,0.0
+nane-limon-cayi,Nane Limon Çayı,1 bardak,200,5,0.0,1.2,0.0
+adacayi,Adaçayı,1 bardak,200,2,0.0,0.4,0.0
+kusburnu-cayi,Kuşburnu Çayı,1 bardak,200,6,0.0,1.4,0.0
+yesil-cay,Yeşil Çay,1 bardak,200,2,0.0,0.3,0.0
+protein-shake,Protein Shake,1 bardak,300,180,25.0,12.0,3.0
+sicak-cikolata-buyuk,Sıcak Çikolata Büyük,1 bardak,300,270,8.0,38.0,9.0
+bira,Bira,1 şişe,330,145,1.5,11.0,0.0
+sarap-kirmizi,Kırmızı Şarap,1 kadeh,150,125,0.1,4.0,0.0
+sarap-beyaz,Beyaz Şarap,1 kadeh,150,120,0.1,3.8,0.0
+raki,Rakı,1 kadeh,60,140,0.0,0.0,0.0
+viski,Viski,1 kadeh,45,105,0.0,0.0,0.0
+votka,Votka,1 kadeh,45,100,0.0,0.0,0.0
+enerji-icecegi-sekersiz,Enerji İçeceği Şekersiz,1 kutu,250,10,0.0,2.0,0.0
+soguk-kahve,Soğuk Kahve,1 bardak,300,140,5.0,18.0,5.0
+limonata-taze,Taze Limonata,1 bardak,250,120,0.4,30.0,0.1
+visneli-icecek,Vişneli İçecek,1 bardak,200,115,0.5,28.0,0.1
+cig-kofte,Çiğ Köfte,1 porsiyon,150,220,6.0,44.0,3.0
+mumbar-dolmasi,Mumbar Dolması,1 porsiyon,200,380,16.0,32.0,20.0
+kokorec-porsiyon,Kokoreç Porsiyon,1 porsiyon,150,420,22.0,20.0,28.0
+midye-dolma-porsiyon,Midye Dolma Porsiyon,6 adet,180,260,8.0,38.0,8.0
+midye-tava-porsiyon,Midye Tava Porsiyon,12 adet,180,400,16.0,38.0,20.0
+hamsi-bugulama,Hamsi Buğulama,1 porsiyon,200,280,26.0,6.0,17.0
+karadeniz-pidesi,Karadeniz Pidesi,1 adet,300,620,26.0,68.0,26.0
+kuymak,Kuymak,1 porsiyon,200,480,14.0,24.0,36.0
+mihlama,Mıhlama,1 porsiyon,200,470,14.0,22.0,36.0
+eksili-kofte,Ekşili Köfte,1 porsiyon,300,320,18.0,30.0,14.0
+anali-kizli,Analı Kızlı,1 porsiyon,300,340,16.0,40.0,12.0
+mercimek-koftesi,Mercimek Köftesi,4 adet,150,220,7.0,38.0,4.5
+keskek,Keşkek,1 porsiyon,300,420,24.0,50.0,12.0
+cilbir,Çılbır,1 porsiyon,200,290,15.0,6.0,22.0
+su-boregi-porsiyon,Su Böreği Porsiyon,1 porsiyon,200,480,16.0,50.0,24.0
+kol-boregi,Kol Böreği,1 dilim,150,370,11.0,38.0,19.0
+gozleme-patatesli,Gözleme Patatesli,1 adet,200,400,10.0,56.0,15.0
+gozleme-ispanakli,Gözleme Ispanaklı,1 adet,200,380,11.0,52.0,14.0
+katmer,Katmer,1 porsiyon,150,520,10.0,48.0,32.0
+cag-kebabi,Cağ Kebabı,1 şiş,120,320,26.0,2.0,23.0
+beyti-kebap,Beyti Kebap,1 porsiyon,300,620,32.0,42.0,36.0
+iskender,İskender,1 porsiyon,350,750,34.0,50.0,44.0
+testi-kebabi,Testi Kebabı,1 porsiyon,350,540,34.0,26.0,34.0
+cop-sis,Çöp Şiş,1 porsiyon,200,420,32.0,4.0,30.0
+balik-ekmek,Balık Ekmek,1 adet,250,450,24.0,48.0,18.0
+kokorec-durum,Kokoreç Dürüm,1 adet,250,540,24.0,48.0,28.0
+manti-kayseri,Kayseri Mantısı,1 porsiyon,250,440,17.0,56.0,16.0
+etli-ekmek,Etli Ekmek,1 porsiyon,250,560,26.0,58.0,24.0
+cig-borek,Çiğ Börek,1 adet,120,300,10.0,28.0,17.0
+perde-pilavi,Perde Pilavı,1 porsiyon,300,520,18.0,62.0,22.0
+bici-bici,Bici Bici,1 kase,150,140,1.0,34.0,0.5
+antep-lahmacun,Antep Lahmacun,1 adet,160,320,14.0,42.0,10.0
+soguk-kofte,Soğuk Köfte,4 adet,150,300,16.0,20.0,17.0
+tavuk-sinitzel,Tavuk Şinitzel,1 porsiyon,200,420,32.0,28.0,20.0
+trabzon-hurmasi,Trabzon Hurması,1 adet,150,100,0.8,25.0,0.3
+murdum-erigi,Mürdüm Eriği,4 adet,150,68,1.0,16.0,0.3
+bamya,Bamya,1 porsiyon,100,33,2.0,7.0,0.2
+enginar-cig,Enginar,1 adet,150,70,3.5,15.0,0.2
+bruksel-lahanasi,Brüksel Lahanası,1 porsiyon,100,43,3.4,9.0,0.3
+karnabahar-cig,Karnabahar Çiğ,1 porsiyon,100,25,2.0,5.0,0.1
+brokoli-cig,Brokoli Çiğ,1 porsiyon,100,34,2.8,7.0,0.4
+kuskonmaz,Kuşkonmaz,5 adet,100,20,2.2,4.0,0.1
+mantar-cig,Mantar Çiğ,1 porsiyon,100,22,3.0,3.5,0.3
+kabak-cig,Kabak Çiğ,1 adet,150,25,1.8,5.0,0.3
+patlican-cig,Patlıcan Çiğ,1 adet,150,37,1.4,9.0,0.2
+pancar,Pancar,1 porsiyon,100,43,1.6,10.0,0.2
+salgam-sebze,Şalgam,1 adet,100,28,0.9,6.0,0.1
+taze-sogan,Taze Soğan,1 demet,50,16,0.9,3.5,0.1
+dereotu,Dereotu,1 demet,30,13,1.0,2.0,0.3
+nane-taze,Nane,1 demet,30,21,1.0,4.5,0.3
+semizotu-cig,Semizotu Çiğ,1 porsiyon,100,16,1.3,3.4,0.2
+kereviz-sapi,Kereviz Sapı,2 adet,80,13,0.6,3.0,0.1
+lahana-cig,Lahana Çiğ,1 porsiyon,100,25,1.3,5.8,0.1
+ispanak-cig,Ispanak Çiğ,1 porsiyon,100,23,2.9,3.6,0.4
+kirmizi-biber-cig,Kırmızı Biber Çiğ,1 adet,100,31,1.0,6.0,0.3
+salam,Salam,3 dilim,40,120,7.0,1.0,10.0
+sosis,Sosis,2 adet,80,220,10.0,2.0,19.0
+jambon,Jambon,3 dilim,40,60,9.0,1.0,2.5
+dil-peyniri,Dil Peyniri,1 porsiyon,30,95,7.0,1.0,7.0
+orgu-peynir,Örgü Peynir,1 porsiyon,30,90,6.5,1.0,7.0
+ezine-peyniri,Ezine Peyniri,1 dilim,30,85,5.5,1.0,6.5
+otlu-peynir,Van Otlu Peyniri,1 dilim,30,80,5.5,1.0,6.0
+mihalic-peyniri,Mihaliç Peyniri,1 dilim,30,105,7.5,0.8,8.0
+lor-peyniri-kahvalti,Lor Peyniri Kahvaltı,1 porsiyon,50,70,8.0,2.0,3.5
+suzme-bal,Süzme Bal,1 yemek kaşığı,20,62,0.1,16.5,0.0
+kaymak-kahvalti,Kaymak Kahvaltı,1 yemek kaşığı,20,130,1.0,1.0,14.0
+clotted-cream,Clotted Cream,1 yemek kaşığı,20,120,1.0,1.5,12.5
+menemen-porsiyon,Menemen Porsiyon,1 porsiyon,250,240,12.0,12.0,16.0
+omlet-peynirli,Peynirli Omlet Porsiyon,1 porsiyon,180,320,20.0,3.0,25.0
+granola-yogurt,Granolalı Yoğurt,1 kase,200,280,10.0,38.0,9.0
+muesli,Müsli,1 kase,50,190,5.0,34.0,4.0
+kavurma-kahvalti,Kavurma Kahvaltı,1 porsiyon,100,280,20.0,2.0,22.0
+sigara-boregi-peynirli,Sigara Böreği Peynirli,3 adet,90,250,7.0,24.0,14.0
+pastirmali-yumurta,Pastırmalı Yumurta,1 porsiyon,150,290,20.0,2.0,22.0
+buyuk-hamburger-menu,Büyük Hamburger Menü,1 menü,550,1100,38.0,110.0,52.0
+tavuk-burger,Tavuk Burger,1 adet,240,520,26.0,46.0,26.0
+fish-burger,Fish Burger,1 adet,220,480,22.0,44.0,24.0
+nugget-6,Nugget 6lı,6 adet,110,290,15.0,18.0,17.0
+nugget-9,Nugget 9lu,9 adet,165,430,22.0,27.0,26.0
+baharatli-kanat,Baharatlı Kanat,6 adet,180,420,32.0,4.0,30.0
+sogan-halkasi,Soğan Halkası,1 porsiyon,120,380,5.0,42.0,21.0
+tavuk-wrap,Tavuk Wrap,1 adet,250,450,24.0,44.0,20.0
+taco,Taco,1 adet,120,220,10.0,20.0,12.0
+burrito,Burrito,1 adet,300,580,24.0,64.0,26.0
+pizza-margarita,Pizza Margarita Dilimi,1 dilim,120,270,11.0,34.0,10.0
+pizza-sucuklu,Pizza Sucuklu Dilimi,1 dilim,130,320,13.0,34.0,15.0
+pizza-karisik,Pizza Karışık Dilimi,1 dilim,140,330,14.0,35.0,15.0
+pizza-vejetaryen,Pizza Vejetaryen Dilimi,1 dilim,130,270,10.0,36.0,9.0
+et-doner-porsiyon,Et Döner Porsiyon,1 porsiyon,200,420,26.0,4.0,34.0
+tavuk-doner-porsiyon,Tavuk Döner Porsiyon,1 porsiyon,200,300,28.0,4.0,19.0
+lahmacun-tekli,Lahmacun Tekli,1 adet,150,300,13.0,42.0,9.0
+pide-kasarli,Kaşarlı Pide,1 porsiyon,250,560,22.0,62.0,24.0
+pide-kiymali,Kıymalı Pide,1 porsiyon,250,580,24.0,60.0,26.0
+pide-kusbasili,Kuşbaşılı Pide,1 porsiyon,250,600,28.0,58.0,28.0
+pide-karisik,Karışık Pide,1 porsiyon,280,640,28.0,62.0,30.0
+cig-kofte-porsiyon,Çiğ Köfte Porsiyon,1 porsiyon,150,220,6.0,44.0,3.0
+kasarli-tost-fast,Kaşarlı Tost Fast,1 adet,150,380,16.0,36.0,19.0
+sucuklu-sandvic,Sucuklu Sandviç,1 adet,200,480,20.0,44.0,26.0
+tavuklu-sandvic,Tavuklu Sandviç,1 adet,220,420,24.0,42.0,18.0
+simit-peynirli,Peynirli Simit,1 adet,140,380,13.0,54.0,12.0
+hot-dog,Hot Dog,1 adet,150,330,12.0,32.0,17.0
+kizarmis-tavuk-but,Kızarmış Tavuk But,1 adet,150,340,24.0,12.0,22.0
+patates-kizartma-buyuk,Patates Kızartma Büyük,1 porsiyon,200,560,6.5,66.0,30.0
+misir-tortilla,Mısır Tortilla Wrap,1 adet,250,470,20.0,50.0,20.0
+falafel-durum,Falafel Dürüm,1 adet,280,520,16.0,64.0,22.0
+profiterol-porsiyon,Profiterol Porsiyon,1 porsiyon,120,340,6.0,38.0,18.0
+ekler,Ekler,1 adet,90,290,5.0,30.0,16.0
+san-sebastian,San Sebastian Cheesecake,1 dilim,120,400,8.0,32.0,26.0
+muffin,Muffin,1 adet,90,340,4.5,44.0,16.0
+donut,Donut,1 adet,80,320,4.0,38.0,17.0
+waffle,Waffle,1 adet,120,380,7.0,48.0,17.0
+pankek,Pankek,3 adet,150,350,9.0,52.0,11.0
+kurabiye,Kurabiye,3 adet,60,290,3.5,36.0,15.0
+un-kurabiyesi,Un Kurabiyesi,3 adet,60,300,3.0,34.0,17.0
+pogaca-peynirli,Peynirli Poğaça,1 adet,75,250,6.0,26.0,13.0
+pogaca-zeytinli,Zeytinli Poğaça,1 adet,75,240,5.0,27.0,12.0
+pogaca-patatesli,Patatesli Poğaça,1 adet,80,255,5.0,30.0,12.0
+acma-firin,Açma Fırın,1 adet,80,260,6.0,32.0,12.0
+kruvasan,Kruvasan,1 adet,60,240,5.0,26.0,13.0
+kruvasan-cikolatali,Çikolatalı Kruvasan,1 adet,70,300,5.0,32.0,17.0
+milfoy,Milföy,1 adet,70,290,4.0,28.0,18.0
+dondurma-kulah,Külah Dondurma,1 adet,120,240,4.0,32.0,11.0
+dondurma-kutu,Kutu Dondurma,1 kase,120,250,4.5,28.0,13.0
+sorbet,Sorbet,1 kase,120,130,0.5,32.0,0.2
+maras-dondurmasi,Maraş Dondurması,2 top,110,220,5.0,26.0,11.0
+frambuazli-tart,Frambuazlı Tart,1 dilim,110,320,4.0,40.0,16.0
+limonlu-tart,Limonlu Tart,1 dilim,110,340,4.5,42.0,17.0
+elmali-turta,Elmalı Turta,1 dilim,120,310,3.5,44.0,14.0
+findikli-kek,Fındıklı Kek,1 dilim,90,340,5.0,40.0,18.0
+havuclu-kek,Havuçlu Kek,1 dilim,100,360,5.0,44.0,18.0
+limonlu-kek,Limonlu Kek,1 dilim,90,300,4.0,42.0,13.0
+mozaik-pasta,Mozaik Pasta,1 dilim,100,380,5.0,42.0,21.0
+yas-pasta,Yaş Pasta,1 dilim,120,360,5.0,44.0,18.0
+kadayif-porsiyon,Kadayıf Porsiyon,1 porsiyon,120,420,5.0,54.0,20.0
+gozleme-kiymali-fast,Kıymalı Gözleme,1 adet,200,450,18.0,50.0,19.0
+ohne-zucker-hafer-alpro,Ohne Zucker Hafer Alpro,100 g,100,40,0.2,5.8,1.5
+coca-cola,Coca-Cola,100 g,100,42,0,10.6,0
+original-wasa,Original Wasa,100 g,100,336,9,62,1.5
+tomato-ketchup-heinz,Tomato Ketchup Heinz,100 g,100,102,1.2,23.2,0.1
+sprite,Sprite,100 g,100,13,0,3.1,0
+buono,buono,100 g,100,614,11.1,32.3,47.4
+sesam-wasa,SESAM Wasa,100 g,100,403,13,63,9.5
+milka-mmmax-oreo,Milka MMMAX Oreo,100 g,100,557,4.8,56,34
+off-3800771011154,Сладки времена халва слънчогледова Захарни заводи,100 g,100,554,10,53,33
+crackers-olive-et-thym,Crackers olive et thym,100 g,100,420,9.6,61.6,18
+eti-lifalif-yulaf-ezmesi-500,Eti Lifalif yulaf ezmesi 500,100 g,100,360,14,53,7.5
+peach-juice,Peach juice,100 g,100,51,0,12.6,0
+sauce-crudites-benedicta,Sauce crudités Benedicta,100 g,100,287,0.9,4.4,29
+eti-karam-gurme,Eti Karam Gurme,100 g,100,517,5.5,58,28
+orange-cappy,Orange Cappy,100 g,100,48,0,11.5,0
+domates-salcasi-altunsa,Domates Salçasi Altunsa,100 g,100,115,6,19.7,1.4
+tadelle,Tadelle,100 g,100,571,9.3,53,35
+eti-burcak-sutlu-cikolatali,Eti Burçak Sütlü Çikolatalı,100 g,100,491,7.3,61,23
+cizi-ulker,Çizi Ülker,100 g,100,456,7.7,61,20
+gikolatati,Gikolatati,100 g,100,532,6.3,60.5,29.4
+suzme-peynir-dost,suzme peynir Dost,100 g,100,224,12,3.5,18
+mood-biscolata,Mood Biscolata,100 g,100,527,5.7,59,29
+caffe-latte-starbucks,Caffè Latte starbucks,100 g,100,72,2.8,8.9,2.6
+sauce-crudites-nature-legere-benedicta,Sauce crudités nature légère Bénédicta,100 g,100,153,1,5.8,13.9
+browni-eti,Browni Eti,100 g,100,441,6.2,57,24
+dido-ulker,Dido Ülker,100 g,100,530,7.5,59,29
+penne-rigate-cardella,Penne rigate Cardella,100 g,100,352,11.2,76.5,0.2
+no-1-more-torku,no:1 more Torku,100 g,100,550,9.2,50.6,33.8
+susse-finger-biskuvi,Süsse Finger bisküvi,100 g,100,457,6.9,69.6,15.9
+lifalif-yulaf-ezmesi-eti,Lifalif yulaf ezmesi Eti,100 g,100,360,14,53,7.5
+laviva-ulker,Laviva Ülker,100 g,100,540,7.1,54,32
+fanta-portakal,Fanta Portakal,100 g,100,30,0,7.3,0
+coca-900ml-coca-cola,Coca 900ml Coca-Cola,100 g,100,42,0,10.6,0
+icim-sut-1-litre-laktozsuz,İçim süt 1 litre laktozsuz,100 g,100,44,3,4.7,1.5
+fromage-frais-labne-pinar,Fromage frais Labne Pinar,100 g,100,194,4.5,3.5,18
+dost-ayran,Dost ayran,100 g,100,35,2,2,2
+bulghur-pilaff-legurme,Bulghur pilaff Legurme,100 g,100,154,4.6,26,3
+sarelle-sagra,SARELLE SAGRA,100 g,100,542,5.7,56,32
+haribo-jelly-beans,Haribo jelly beans,100 g,100,372,1.3,91.1,0.1
+cikolatali-gofret-ulker,Cikolatali gofret Ülker,100 g,100,543,6.5,58,31
+risovital-whole-grain-rice-riso-scotti,RisoVital Whole Grain Rice Riso Scotti,100 g,100,347,7,71.6,2.7
+off-20709952,Сладко от зрели смокини Родна стряха,100 g,100,284,0.5,70,0.2
+labne-sutaski,Labne Sutaski,100 g,100,198,4.5,4.5,18
+schweppes-1-lt-mandalina,Schweppes 1 lt mandalina,100 g,100,16,0,4,0
+beyaz-peynir-icim,Beyaz Peynir İçim,100 g,100,215,13,3.5,16.5
+meyveli-sos-kent-boringer,Meyveli Sos Kent Boringer,100 g,100,259,0,64.5,0
+sauce-poivre-benedicta,Sauce poivre Bénédicta,100 g,100,478,0.5,5.8,50.3
+becel-tereyagi-keyfi-bitkisel-margarin-57-yagli,Becel Tereyağı Keyfi Bitkisel Margarin 57% yağlı,100 g,100,515,0.4,0.3,57
+cokonat-ulker,Çokonat Ülker,100 g,100,560,6.8,56,34
+melasse-de-grenade-gunseven,Mélasse de grenade GUNSEVEN,100 g,100,289,0,72.4,0
+sauce-crudite-benedicta,Sauce crudité Bénédicta,100 g,100,287,0.9,4.4,29
+kahvaltilik-sos-bol-bol,kahvaltılık sos bol bol,100 g,100,175,5.4,14.4,9.5
+sutas-labne-400-www-sutas-com-tr,Sütaş labne 400 www.sutas.com.tr,100 g,100,203,4.4,6.5,18
+cikolata-60-bitter-ulker,Çikolata 60% bitter Ülker,100 g,100,534,7.4,41,37
+ulker-bol-sutlu-kare-cikolata,Ülker Bol Sütlü Kare Çikolata,100 g,100,534,8,57,30
+indomie-hot-spicy-flavour,Indomie Hot & Spicy Flavour,100 g,100,478,10,61.3,21.3
+lipton-ice-tea-peach,Lipton ice tea (peach),100 g,100,19,0,4.6,0
+burcak-eti,Burcak Eti,100 g,100,450,6.2,65.8,16.9
+sticks-eti,Sticks Eti,100 g,100,460,10,61,19
+cokodamlali-pasta-biskuvi,Çokodamlalı pasta bisküvi,100 g,100,495,6,71.4,20.6
+hanimeller-ulker-hanimeller,Hanımeller Ülker Hanımeller,100 g,100,488,5.9,65,23
+ikram-ulker,İkram Ülker,100 g,100,481,7.3,64,21
+klasik-lay-s,Klasik Lay's,100 g,100,548,5.9,51.4,34.5
+lay-s-firindan-yogurt-mevsim-yesillikleri-lays,Lay's Fırından Yoğurt Mevsim Yeşillikleri Lays,100 g,100,450,5.4,67,17.2
+tortilla-aly,Tortilla Aly,100 g,100,258,8,51,4.1
+pop-kek-with-chocolate-eti,Pop-kek with chocolate Eti,100 g,100,434,5.5,57,20
+sut-misir-superfresh,Süt Mısır Superfresh,100 g,100,61,1,9,2.5
+kafeinsiz-turk-kahvesi-kahve-dunyasi,Kafeinsiz Türk Kahvesi Kahve Dünyası,100 g,100,321,11.3,15.3,11.4
+big-babol-chupa-chups,big babol - Дъвки с плодов вкус Chupa Chups,100 g,100,33,0,1,1
+rulokat-9kat-tat-ulker,Rulokat 9kat tat Ülker,100 g,100,521,3.9,67.3,26
+hindi-fume-namet,Hindi Füme Namet,100 g,100,92,17,2,1.8
+pismaniye-koska,Pismaniye Koska,100 g,100,443,1.5,85.7,10.2
+hanimeller-ulker,Hanimeller Ülker,100 g,100,500,6.6,62,25
+bim,Дюрюм чий кюфте Bim,100 g,100,229,6.2,33.7,4.8
+dankek-bites-ulker,Dankek Bites ÜLKER,100 g,100,422,6.2,51,21
+labne-kerem,Labne Kerem,100 g,100,198,4.5,4.5,18
+findik-parcacikli-kakaolu-krema-turkiye-tarim-kr,FINDIK PARÇACIKLI KAKAOLU KREMA TÜRKİYE TARIM KREDİ KOOPERAT,100 g,100,601,9.8,57.1,42.8
+cikolata-80-bitter-ulker,Cikolata %80 Bitter Ülker,100 g,100,552,12,24,41
+dost-yogurt,Dost yoğurt,100 g,100,70,4,4.6,4
+pinar-protein-kakaolu-sut,Pınar Protein Kakaolu Süt,100 g,100,49,5.2,6.5,0.3
+saklikoy-ulker,Saklıköy Ülker,100 g,100,485,6.9,62,22
+special-k-cereal-oats-honey-kellogg-s,Special k cereal oats & honey Kellogg's,100 g,100,357,7.1,85.7,2.4
+biscuits-riches-en-vitamines,Biscuits riches en vitamines,100 g,100,468,6.6,69,18
+hafif-sari-hardal-heinz,Hafif Sarı Hardal Heinz,100 g,100,120,5.6,9.4,5.2
+hazir-noodle-indomie,Hazir noodle Indomie,100 g,100,455,10,64,18
+ulker-cokokrem,Ülker Çokokrem,100 g,100,547,5.5,62,30
+altinkilic-kefir-sade,Altınkılıç Kefir Sade,100 g,100,55,3,3.7,3
+ulker-pistachio-white-chocolate,Ülker pistachio white chocolate,100 g,100,577,9.4,51,37
+godiva-masterpieces-bitter-cikolata-tablet,Godiva Masterpieces Bitter Çikolata Tablet,100 g,100,557,6.2,47,37
+tutku-eti,Tutku ETi,100 g,100,518,4.9,61,28
+ulker-kakaolu-biskuvi,Ülker Kakaolu Bisküvi,100 g,100,438,7.4,70,13
+premium-uno,premium uno,100 g,100,223,11.9,37.9,1.4
+et-browni-gold-eti,Et browni gold eti,100 g,100,461,6.4,51,28
+sweet-plus,Бисквити Есенни листа Sweet plus,100 g,100,480,6.2,72,18
+kirmizi-meyveli-tam-bugday-ve-pirinc-gevregi-kel,Kırmızı Meyveli Tam Buğday Ve Pirinç Gevreği Kellogg’s,100 g,100,380,7.5,82.5,1.3
+bar-cake-alpella,Bar cake Alpella,100 g,100,432,5.4,53.6,21.6
+tazej,Tazej,100 g,100,44,0,11,0
+chokella-nestle,Chokella Nestlé,100 g,100,423,7.3,67,13
+coca-cream-toren,Coca cream Toren,100 g,100,488,5.8,62.6,26
+altinbasak-light-ulker,Altınbaşak Light Ülker,100 g,100,409,10,64,11
+dattes-layanna,Dattes Layanna,100 g,100,282,2.5,75,0.3
+eti-canga,eti canga,100 g,100,508,12,53,29
+kek-ulker,kek ülker,100 g,100,442,4.1,56,22
+kellogs-granola-klasik-340,Kellogs granola klasik 340,100 g,100,484,7.2,62,22
+peanut-butter-polmak-gold,Peanut butter Polmak Gold,100 g,100,580,22,30.6,42.8
+noodle-indomie,Noodle indomie,100 g,100,467,10,60,21
+4-x-4-nougat-bar-with-caramel-and-peanut-torku,4 x 4 Nougat Bar with Caramel and Peanut Torku,100 g,100,457,4.2,71.4,17
+lifalif-musli-kuru-meyveli-ve-findikli-eti,Lifalif Müsli Kuru Meyveli ve Fındıklı Eti,100 g,100,369,11,58,8.5
+ulker-probis-sandwich-biscuits-10-pack-280g,Ulker Probis Sandwich Biscuits 10 Pack 280G,100 g,100,492,15.4,51.7,23.9
+schogetten-ciocolata-cu-lapte-cu-bucatele-de-bis,Schogetten Ciocolată cu lapte cu bucățele de biscuiți cu ovă,100 g,100,556,5.5,56,34
+balli-granola-kelly-s-fitness-club,Ballı Granola Kelly:s Fitness Club,100 g,100,466,10.9,59.4,19.1
+yer-fistikli-bar-tadim,Yer Fıstıklı Bar tadım,100 g,100,529,11.8,53.8,29.6
+eker-ayran,Eker Ayran,100 g,100,155,2,2.1,2.3
+yagli-ayran-200-ml,Yağlı Ayran 200 ml,100 g,100,30,2,2.1,1.5
+kefir-cilek-icim,KEFIR CILEK ICIM,100 g,100,61,2.7,9.2,1.5
+loading-nestle,Loading… Nestle,100 g,100,383,7,75,4
+saklikoy-mcvities,Sakliköy McVities,100 g,100,493,6.6,59,25
+nescafe-express-250-milim-karamel,Nescafe express 250 milim karamel,100 g,100,164,9,63,1
+luppo-choco,Luppo choco,100 g,100,157,2,20,8
+milka-oreo-choco,Milka oreo choco,100 g,100,554,6,51,35
+protein-bar-cikolata-coconut-fellas,Protein Bar Çikolata Coconut Fellas,100 g,100,353,33.3,37.8,6
+orage-juice-cappy,Orage juice Cappy,100 g,100,43,0.7,8.9,0
+ulker-ekstra-bitter-cikolatali-gofret,Ülker Ekstra Bitter Çikolatalı Gofret,100 g,100,467,6.7,51.1,24.4
+fit-yasam-hindi-fume-eti-polonez,Fit Yaşam Hindi Füme Eti Polonez,100 g,100,83,17,1,1
+cheerios-nestle,Cheerios Nestlé,100 g,100,376,8.4,75,2.9
+calve-ranch-sos,Calve Ranch Sos,100 g,100,350,1.1,6.1,35
+fuze-peach-ice-tea-330ml,Fuze Peach Ice Tea 330ML,100 g,100,66,85,15.5,0
+ice-tea-limon-lipton,Ice tea limon Lipton,100 g,100,19,0,12,0
+nitrotech-iso-whey-muscletech,Nitrotech iso whey Muscletech,100 g,100,330,77,3,0
+albeni-viva-ulker,Albeni Viva Ülker,100 g,100,517,4.6,61,28
+waffers-strawberry-toren,Waffers Strawberry Toren,100 g,100,495,6.7,63,22.5
+cokokrem-ulker,Çokokrem Ülker,100 g,100,547,5.5,62,30
+altinbasak-grissini-ulker,Altınbaşak Grissini Ülker,100 g,100,447,9.3,73.3,12
+kaymak-kerem,Kaymak Kerem,100 g,100,570,0.8,2.3,62
+eti-maximus,Eti Maximus,100 g,100,480,7.7,59,23
+ulker,Солети дусам Ülker,100 g,100,435,12,63,14
+ketchup-calve,Ketchup Calvé,100 g,100,85,0.8,20,0.3
+kakaolu-findik-cremali-migros,Kakaolu findik cremali Migros,100 g,100,559,6,55,34.8
+dogal-salamura-yagli-siyah-zeytin-inci,Doğal Salamura Yağlı Siyah Zeytin İnci,100 g,100,140,1.8,10.6,10
+nacho-doritos,Nacho Doritos,100 g,100,508,7.2,1.8,26.3
+organic-pomegranate-juice-granti,Organic pomegranate juice granti,100 g,100,60,0.7,15,0
+sonnenblumen-christians-gr-d,sonnenblumen Christians Grød,100 g,100,340,0.5,81,0
+icim-fit-kakaolu,İçim Fit Kakaolu,100 g,100,45,6,5,0.1
+tam-yagli-sut,Tam yağlı süt,100 g,100,57,2.9,4.6,3
+eti-browni-gold,Eti Browni Gold,100 g,100,433,4.5,52,23
+avsar-zwarte-moerbei-en-bes,Avsar zwarte moerbei en bes,100 g,100,40,0,9.6,0
+tost-iki-ekmek-arasi-lezzet-molasi-uno,Tost iki ekmek arası lezzet molası Uno,100 g,100,263,6.8,54.5,2
+damak-gece-nestle,Damak gece Nestlé,100 g,100,528,8.8,40,37
+white-cheese-beyaz-peynir-bahcivan,White cheese (beyaz peynir) Bahçivan,100 g,100,223,14,3.5,17
+cubuk-craker-ulker,Cubuk craker Ülker,100 g,100,403,12,73,6.3
+off-8698720180236,المكسرات الملكية لبناني,100 g,100,562,17.5,30.5,42.2
+eti-popkek-limonlu,Eti Popkek Limonlu,100 g,100,430,3.2,56,20
+eti-karam-bitter,Eti Karam Bitter,100 g,100,534,11,34,36
+sutlu-salep-ulker,Sütlü Salep Ülker,100 g,100,180,0.8,8.7,0.5
+pinar-sut-1-litre-1-yagli,Pınar süt 1 litre %1 yağlı,100 g,100,40,3,4.8,1
+pinar-hindi-salam-75-ac-bitir,Pınar hindi salam 75 aç bitir,100 g,100,185,12,5,13
+kakaolu-tahil-gevregi-nestle-nesquik,Kakaolu Tahıl Gevreği Nestle Nesquik,100 g,100,375,8.4,75,2.9
+lait-demi-ecreme,Lait demi écremé,100 g,100,57,3.1,4.3,3
+eti-cin,Eti Cin,100 g,100,449,4.7,74.3,13.8
+no-1-torku,no:1 Torku,100 g,100,522,7.4,58.4,27.9
+nestle-damak-inci,Nestle Damak inci,100 g,100,567,9.8,51,36
+sutas-kasar-400-sus,Sütaş kaşar 400 suş,100 g,100,325,24,1,25
+daphne-puding-muzlu,Daphne Puding Muzlu,100 g,100,118,2,19.6,3.5
+heinz,Heınz,100 g,100,644,0.8,3,70
+kizarmis-yer-fistigi-amigo,Kızarmış yer fıstığı Amigo,100 g,100,633,24,7,54.5
+caffe-mocha-starbucks,Caffe mocha Starbucks,100 g,100,45,1.6,6.5,1.3
+peanut-butter-fistik-ezmesi-zuber,Peanut Butter(Fıstık Ezmesi) Züber,100 g,100,608,26,12,49
+eti-sutlu-cikolata,Eti. sütlü çikolata,100 g,100,554,8.2,51,22
+cikolata-kaplamah-pismanige-ugurlu,Cikolata Kaplamah Pismanige Uğurlu,100 g,100,470,4.6,77.2,15.6
+dr-oetker-do-whipped-cream-dr-oetker,Dr Oetker Do Whipped Cream Dr. Oetker,100 g,100,188,2.7,21.7,10
+noodles-lucia-mie,Noodles Lucia mie,100 g,100,433,10.1,54.4,17.7
+yogurt-ve-mevsim-yesillikli-patates-cipsi-lay-s,Yoğurt ve Mevsim Yeşillikli Patates Cipsi Lay's,100 g,100,537,6.2,52,33
+balli-granola-cikolata-findik-kelly-s-fitness-cl,Ballı Granola Çikolata . Fındık Kelly's FITNESS Club,100 g,100,466,10.9,59.4,19.1
+yogurt-sutas,Yoğurt Sütaş,100 g,100,73,4,5.8,3.8
+yupo-jelly-ulker,Yupo Jelly ülker,100 g,100,324,5.1,74.9,0.1
+ulker-butun-antep-fistikli-sutlu-kare-cikolata,Ülker Bütün Antep Fıstıklı Sütlü Kare Çikolata,100 g,100,137,0.2,13,8.3
+icim-fit-sut-500-laktozsuz-vanilyali,İçim fit süt 500 laktozsuz vanilyalı,100 g,100,48,6,5.8,0.1
+icim-fit-cilek,Içim fit çilek,100 g,100,48,6,5.8,0.1
+eti-pop-kek-muzlu,Eti Pop kek Muzlu,100 g,100,420,5.6,59,19
+bitter-cikolata-ulker,Bitter Çikolata ülker,100 g,100,552,7.6,41.8,37.2
+dr-oetker-kakao,Dr. Oetker Kakao,100 g,100,226,23.1,9.9,10.5
+soya-soslu-hazir-noodle-indomie,Soya Soslu Hazır Noodle Indomie,100 g,100,475,9,62,21
+ice-tea-deran,ICE tea deran,100 g,100,132,0,8.1,0
+tadim-islenmis-yer-fistigi,Tadım İşlenmiş Yer Fıstığı,100 g,100,608,23,11.9,49.7
+cocoa-cappucino-starbucks,Cocoa cappucino Starbucks,100 g,100,49,0.5,5.2,2.9
+mini-tortilla,Mini tortilla,100 g,100,306,7.8,51,7.6
+teremyag-ulker,Teremyağ Ülker,100 g,100,531,0.5,0.5,59
+pinar-kido-sut-180-cilek,Pınar Kido süt 180 çilek,100 g,100,57,2.8,8.8,1.2
+cizi-vic-ulker,Çizi viç Ülker,100 g,100,507,7.6,55,28
+kellogg-s-granola-beyaz-cikolata-parcacikli-ve-a,Kellogg's® Granola Beyaz Çikolata Parçacıklı ve Antep Fıstık,100 g,100,493,7.1,60,24
+migros-sut,migros süt,100 g,100,58,2.9,4.7,31
+heinz-sarimsakli-mayonez,Heinz Sarımsaklı Mayonez,100 g,100,615,0.8,4.4,66
+tarcinli-zencefilli-kurabiye-bisto,Tarçınlı Zencefilli Kurabiye Bisto,100 g,100,473,6.1,69.3,18.4
+1-5-yarim-yagli-sut-harras,%1 5 yarım yağlı Süt Harras,100 g,100,44,3,4.7,1.5
+catapat-algida,çatapat algida,100 g,100,86,0.2,16.3,1.9
+falim-gum-pasteque,falim gum pasteque,100 g,100,134,0,8,0
+pinar-boisson-melangee-au-lait-ecreme-sans-lacto,Pinar boisson melangee au lait écrémé sans lactose,100 g,100,46,5.2,5.6,0.3
+kefirix-probiyotik-orman-meyveli-altinkilic,Kefirix Probiyotik Orman Meyveli Altınkılıç,100 g,100,76,2.7,10,2.8
+kornison-tursusu-fici,kornişon turşusu fıçı,100 g,100,23,1.6,3.9,0.1
+sekerli-findik-ezmesi-fiskobirlik,şekerli fındık ezmesi Fiskobirlik,100 g,100,579,11,37.9,40.6
+dogal-siyah-zeytin-marmara-birlik,Doğal Siyah Zeytin Marmara Birlik,100 g,100,268,2,30.7,15.4
+icim-suzme-peynir-250-ak-gida,İçim süzme peynir 250 Ak Gıda,100 g,100,241,12,2,20.5
+dardenel-ton-olive-oil-dardanelle,Dardenel Ton Olive Oil Dardanelle,100 g,100,206,23.5,0,12.4
+beef-namet-dana-macar-salam,Beef Namet - Dana Macar Salam,100 g,100,199,10,6,15
+krem-milk-kent,Krem Milk Kent,100 g,100,392,1,87,4.3
+dilimli-burger-peyniri-gonova,Dilimli Burger Peyniri Gonova,100 g,100,331,20,2,27
+eksi-mayali-zeytinli-kekikli-baget-harras,EKŞİ MAYALI ZEYTİNLİ KEKİKLİ BAGET HARRAS,100 g,100,247,6.3,48,2.9
+simbat-kizartilmis-kaju-fistigi,Simbat Kızartılmış Kaju Fıstığı,100 g,100,420,13.1,10.8,36
+dilimli-tost-peyniri-aknaz,Dilimli Tost Peyniri Aknaz,100 g,100,319,22,1.6,25
+mayonez-heinz,Mayonez Heinz,100 g,100,644,0.8,2.7,70
+sour-rope-candy-toybox,Sour Rope Candy Toybox,100 g,100,382,1.7,89.4,1.9
+yarim-yagli-yogurt-dost,Yarım Yağlı Yoğurt Dost,100 g,100,49,4,4.6,1.5
+ruffles-107gr,Ruffles 107gr,100 g,100,549,5.9,51.5,34.6
+skippy-sanitarium,Skippy Sanitarium,100 g,100,372,7.2,82,0.4
+oat-bran,Oat Bran,100 g,100,320,10.9,50.6,3.6
+ikram-gold-black-olives-800g-koy-sefasi,Ikram Gold Black Olives 800G Köy Sefasi,100 g,100,244,2,2.1,23
+kahvaltilik-sos-bolbol,Kahvaltilik sos BolBol,100 g,100,173,5,15.5,9
+cin-cilek-soslu-biskuvi-eti,Cin cilek soslu biskuvi Eti,100 g,100,425,3.4,76.3,11.7
+lays-klasik-mega-193gr-lay-s,Lays Klasik Mega 193gr Lay's,100 g,100,548,5.9,51.4,34.5
+ezogelin-cabuk-corba-knorr,Ezogelin cabuk corba Knorr,100 g,100,42,1.3,7.8,0.8
+coco-pops,Coco pops,100 g,100,393,3.4,81,4.2
+performance,Performance,100 g,100,46,0,11.1,0.1
+tam-yagli-taze-eritme-peyniri-binvezir,Tam Yağlı Taze Eritme Peyniri Binvezir,100 g,100,338,21.8,3.2,26.5
+cikolatali-hindistan-cevizli-puding-toz-karisimi,Çikolatalı Hindistan Cevizli Puding Toz Karışımı Dr. Oetker,100 g,100,132,3.6,20.6,3.9
+chocolat-60-bitter-karadutlu-ulker,Chocolat 60% Bitter Karadutlu Ülker,100 g,100,136,1.9,9.6,9.1
+tatli-biber-salcasi-burcu,tatli biber salçasi Burcu,100 g,100,97,3.7,23.7,0.6
+keyfe-turk-kahvesi,Keyfe Türk Kahvesi,100 g,100,371,0.9,89,0.6
+birsah-kefir,Birşah Kefir,100 g,100,52,2.7,3.2,3.2
+cafe-art-pinar,Cafe Art Pinar,100 g,100,54,2.8,7.6,1.4
+metro-ulker,Metro Ülker,100 g,100,219,3.1,25,12
+pinar-lait,Pinar lait,100 g,100,60,3,4.5,3.3
+ekstra-findikli-gofret-nutymax,Ekstra Fındıklı Gofret Nutymax,100 g,100,516,8.5,53.9,28.5
+hindi-fume-pinar,Hindi füme Pınar,100 g,100,101,18,5,1
+peach-nectar-netto,Peach nectar Netto,100 g,100,221,0.2,12.8,0
+aromali-bitkisel-yagli-sutlu-buz-migros,Aromalı Bitkisel Yağlı Sütlü Buz Migros,100 g,100,149,1.2,25,5
+sauce-pita-heinz,Sauce pita Heinz,100 g,100,371,1.9,11,35
+tadim-findikli-bar,Tadım Fındıklı Bar,100 g,100,517,11.9,40.4,33.6
+biscuit-petit-beurre-susse,Biscuit Petit beurre Süsse,100 g,100,439,8.2,70.3,13
+eti-lifalif-musli-250-k-meyveli,Eti lifalif müsli 250 k meyveli,100 g,100,375,14,55,8.6
+dana-pastirma-emin,Dana pastirma Emin,100 g,100,169,27,4,5
+smoothie-dimes,Smoothie Dimes,100 g,100,56,0.9,13,0
+komagene-ayran,Komagene Ayran,100 g,100,32,2,2.7,1.5
+ton-balik-konservesi-wawa,Ton balık konservesi wawa,100 g,100,190,24.8,0.8,9.3
+milk,Milk,100 g,100,53,3,4.6,2.5
+patito-yogurt-ve-mevsim-cesnili,Patito Yoğurt ve Mevsim Çeşnili,100 g,100,453,3.6,74,16.8
+double-roasted-mixed-nuts,Double roasted mixed nuts,100 g,100,389,1.6,88.5,1.7
+dido-trio-ulker,Dido Trio Ülker,100 g,100,552,7.5,54,34
+ay-cekirgegi-tadim,Ay Çekirgeği Tadim,100 g,100,512,27.8,23.7,31.2
+karam-54-kakaolu-bitter-cikolata-eti,Karam %54 Kakaolu Bitter Çikolata Eti,100 g,100,530,0.7,48,32
+yesil-mercimekli-bulgur-pilavi-yayla,Yeşil Mercimekli Bulgur Pilavı Yayla,100 g,100,170,5.3,25.4,4.7
+cappy-cerise,Cappy Cerise,100 g,100,164,0,39.3,0
+raw-crakers,Raw crakers,100 g,100,574,20,16,45
+lahana-sarma-choux-blancs-farcis-400-gr-burcu,Lahana Sarma / Choux blancs farcis - 400 GR BURCU,100 g,100,165,3,22,7
+light-ton-baligi-migros,Light Ton balığı Migros,100 g,100,120,23.1,0.2,3.3
+instant-noodles-riavia,Instant noodles Riavia,100 g,100,124,3.5,15,5
+nescafe,Nescafe,100 g,100,71,43.8,25,25
+nestle,nestle,100 g,100,372,9.3,74,2.6
+eti-finger-biscuit-g900,Eti Finger Biscuit - g900,100 g,100,447,7.6,70,14
+protein-coffee-milk-pinar,Protein coffee milk Pınar,100 g,100,48,5.2,6.1,0.3
+suzme-yogurt-sutas,Süzme Yoğurt Sütaş,100 g,100,97,8,3.9,5.5
+gofrik-kahve-dunyasi,Gofrik KAHVE DUNYASI,100 g,100,547,10.9,50.2,33
+kerem-taze-surulebilir-peynir,Kerem taze sürülebilir peynir,100 g,100,259,7.5,7.5,22
+activia,Activia,100 g,100,45,3.4,7.6,0
+corn-flakes-kellogg-s,Corn flakes Kellogg's,100 g,100,370,7,84,0.7
+dogal-probiyotik-ananas-activia,Doğal Probiyotik Ananas Activia,100 g,100,66,3.4,9.8,1.4
+eti-form,ETI FORM,100 g,100,409,13.1,59.3,10.8
+bugday-unu-marmara,Buğday unu marmara,100 g,100,344,10,72.3,1
+ayran-ozgullu,Ayran Özgüllü,100 g,100,120,2,1.8,1.5
+cereales-nesquick-nesquik,Cereales Nesquick Nesquik,100 g,100,375,8.4,75,3
+tavuk-suyu-bulyon-bizim-mutfak,Tavuk Suyu Bulyon Bizim Mutfak,100 g,100,232,8.2,29.6,8.9
+mis-puding-cilekli,Mis puding çilekli,100 g,100,118,2,19.6,3.5
+classic-peach-nectar-dimes,Classic Peach Nectar Dimes,100 g,100,49,0.2,12.3,0.2
+cerezya-cig-findik-ici,Çerezya Çiğ Fındık İçi,100 g,100,628,15,16.7,60.7
+cikolata-ulker,Cikolata Ülker,100 g,100,548,7.4,41,37
+dost-dogal-yogurt,Dost Doğal yoğurt,100 g,100,69,4,4.6,3.8
+craw-sticks-eti,Craw sticks Eti,100 g,100,470,9,63,18
+firindan-yogurt-mevsim-yesillikleri-lay-s,Fırından Yoğurt Mevsim Yeşillikleri Lay's,100 g,100,450,5.4,66.7,17.2
+namet-gurme-sucuk,Namet Gurme Sucuk,100 g,100,427,16,0.8,40
+kelebek-farfalle,Kelebek - Farfalle,100 g,100,351,11.5,73,1
+misir-pirinc-loft,misir pirinc loft,100 g,100,439,5.2,65,14
+frappuccino-mocha-starbucks,Frappuccino Mocha Starbucks,100 g,100,65,3,10,1.2
+ayran-sutas,Ayran Sütaş,100 g,100,32,2,2,1.8
+kakaolu-findik-krema-cokokrem,Kakaolu Fındık Krema Çokokrem,100 g,100,547,5.5,62,30
+nesquik-cacao-milk-nestle,Nesquik cacao milk Nestlé,100 g,100,62,2.8,10,1.2
+stick-ceremony-gida,STICK Ceremony Gida,100 g,100,150,0,60.5,0
+poti-ulker,Pöti Ülker,100 g,100,398,5.3,52,18
+aivar-ahinur,Aivar Ahinur,100 g,100,89,2.1,10.1,4.2
+filiz-sade-sehriye-makarna,Filiz Sade Şehriye Makarna,100 g,100,358,11,72.2,2
+taze-peynir-pinar,Taze peynir Pinar,100 g,100,248,6.8,3.5,23
+cheese-and-onion-flavored-corn-chips,Cheese and onion-flavored corn chips,100 g,100,542,4.7,55.7,36.1
+fanta-whatthefanta,Fanta whatthefanta,100 g,100,7,0,0,0
+biscolata,Biscolata,100 g,100,550,5,55,35
+sutas,sütas,100 g,100,291,2.1,3.1,30
+tadimca,Tadimca,100 g,100,520,14,44,32
+dana-eti-aromali-hazir-noodle,Dana eti Aromali Hazir Noodle,100 g,100,448,8.3,60,18.3
+eti-lilalif-kakaolu-kahveli,Eti Lilalif Kakaolu Kahveli,100 g,100,505,11,42,30
+granola-yulafli-kakaolu-migros,Granola yulafli kakaolu Migros,100 g,100,454,10,65.3,15.7
+cube-chocolate,Cube chocolate,100 g,100,506,6.3,61.9,25.6
+bahceden-peyman,Bahçeden Peyman,100 g,100,481,12.5,39.8,28.6
+peynir-helvasi-peysan,Peynir helvasi Peysan,100 g,100,310,6,62,2.8
+susamli-cubuk-kraker-ulker,Susamlı çubuk kraker Ülker,100 g,100,435,12,63,14
+krem-karamel-dr-oetker,Krem Karamel Dr.Oetker,100 g,100,124,2.9,21,3.1
+marshmellowlu-biskuvi-bim,Marshmellowlu bisküvi Bim,100 g,100,357,3.9,69,7.3
+bol-bol-acili,Bol bol acili,100 g,100,96,1,22.4,0.1
+hardal-tat,Hardal Tat,100 g,100,76,4.6,7.3,4.6
+biscolata-stix-choclate-and-bisquit-solen,Biscolata stix choclate and bisquit Şölen,100 g,100,462,9.7,66,16.6
+pepsi,Pepsi,100 g,100,107,8,26.7,0
+sut-dost,Sut Dost,100 g,100,58,2.9,4.7,3.1
+mini-cheetis,Mini cheetis,100 g,100,513,4.8,66.5,24.7
+meysu-seftalili-icecek,meySu Şeftalili içecek,100 g,100,49,0.1,12,0
+saklikoy,Sakliköy,100 g,100,485,6.9,62,22
+chocolatier,Chocolatier,100 g,100,196,3.4,27,7.7
+light-sut,Light Süt,100 g,100,32,3.1,4.7,0.1
+monin-haselnuss-sirup-light,MONIN Haselnuss Sirup Light,100 g,100,16,0,1.3,0
+sut-yorukoglu,Süt Yörükoğlu,100 g,100,44,2.9,4.7,1.5
+ulker-57656,Ülker,100 g,100,556,9.2,38.4,38.4
+yarim-yagli-sut-migros,Yarım Yağlı Süt Migros,100 g,100,44,2.9,4.7,1.5
+firindan-lay-s,Fırından Lay's,100 g,100,452,4.9,67.4,17.4
+choquise-kruidvat,Choquise Kruidvat,100 g,100,560,4,58,35
+denge-laktozsuz-yogurt-pinar,Denge Laktozsuz Yoğurt Pınar,100 g,100,58,4.4,6.8,1.5
+meyve-aromali-minibon-seker-solen,meyve aromalı minibon şeker Şölen,100 g,100,359,0,89.7,0
+adicto,Adicto,100 g,100,529,6,57,30
+1927-sutlu-cikolata-nestle,1927 Sütlü Çikolata Nestle,100 g,100,537,10,53,31
+kellogs-special-k-gurme-300,Kellogs special k gurme 300,100 g,100,408,7.4,74,7.9
+damak-chocolate,damak Chocolate,100 g,100,563,8.6,52,35
+ezine-peyniri-tahsildaroglu,Ezine Peyniri Tahsildaroğlu,100 g,100,310,17.5,1,25.5
+ulker-biskrem-cocoa-biscuit,Ulker Biskrem Cocoa Biscuit,100 g,100,511,5.2,66.4,24.4
+pulpy-meyve-suyu-seftali-cappy,Pulpy meyve suyu şeftali Cappy,100 g,100,50,0,11.8,0
+hindistan-cevizi-dolgulu-sutlu-cikolata-kapli-ba,Hindistan Cevizi Dolgulu Sütlü Çikolata Kaplı Bar Harras,100 g,100,508,4,57.7,29
+lifalif-kuru-meyveli-eti,Lifalif Kuru Meyveli Eti,100 g,100,479,11,45,26
+protein-vanilya-aromali-pinar,Protein Vanilya Aromalı Pınar,100 g,100,47,5.2,5.8,0.3
+boombastic,Boombastic,100 g,100,439,5.8,65.4,16.6
+masola-mayonnaise,Masola mayonnaise,100 g,100,714,0,2.9,78.6
+popping-candy-hleks,Popping Candy Hleks,100 g,100,394,0.3,96.8,0.4
+mayonez-tukas,Mayonez Tukaş,100 g,100,122,1,7,10
+riviera-zeytinyagi-taris,Riviera Zeytinyağı Tariş,100 g,100,900,0,0,100
+kirma-yesil-zeytin-inci,Kırma Yeşil Zeytin İnci,100 g,100,83,1,0.2,8.7
+mis-labne,Mis Labne,100 g,100,189,4.5,4.5,17
+becel-klasik-margarin,Becel Klasik Margarin,100 g,100,515,0.5,0.5,57
+tahin-koska,Tahin Koska,100 g,100,672,22.7,10.5,58
+boom-bastic-burger-solen,Boom bastic burger Şölen,100 g,100,497,5.9,62.2,24.6
+burcak-yulafli-eti,Burçak Yulaflı ETİ,100 g,100,458,7.5,63,18
+al-samir-melon-sma-fro,Al-samir Melon Små Frö,100 g,100,300,10,29,16
+mcvities,McVities,100 g,100,100,2.1,18,7.8
+biscuits-aux-pepites-de-chocolat-riches-en-vitam,Biscuits aux pépites de chocolat riches en vitamines,100 g,100,470,6.6,69,18
+lindt-lindor-dunkel,Lindt Lindor Dunkel,100 g,100,624,4,43,48
+moutarde-de-dijon-french-mustard-petits-gourmets,Moutarde de Dijon - French Mustard - Petits Gourmets,100 g,100,158,8,5.2,11.3
+nestle-nesfit-400-kirmizi-meyveli,Nestle nesfit 400 kırmızı meyveli,100 g,100,374,9,74,2.8
+metro-klasik-ulker,metro klasik Ülker,100 g,100,161,1.4,24,6.3
+chamallows-haribo,Chamallows Haribo,100 g,100,337,5.8,78.4,0.1
+ruffles-ketchup,Ruffles ketchup,100 g,100,535,5.9,52.2,32.7
+nut-master,Nut master,100 g,100,548,6.7,55.9,32.8
+burro-di-arachidi-calve,Burro di arachidi Calvé,100 g,100,645,23,10,56
+tadim-sportif-bar,Tadım Sportif Bar,100 g,100,504,17.1,39.7,29.4
+o-lala-sufle-frambuazli-ulker,O'lala sufle frambuazli Ülker,100 g,100,155,1.3,20,8
+taco-aromali-cesnili-badem-kraker-ulker,TACO AROMALI ÇEŞNİLİ BADEM KRAKER ÜLKER,100 g,100,464,7.5,61,21
+dardanel-aycicek-yagli-ton-konservesi,Dardanel Ayçicek Yağlı Ton Konservesi,100 g,100,193,23.5,0,10.8
+icim-krema-200ml-yemeklik,İçim krema 200ml yemeklik,100 g,100,182,2,3,14
+nut-master-100-yerfistigi-ezmesi,Nut Master %100 Yerfıstığı Ezmesi,100 g,100,620,25.4,12.9,49.9
+cikolatali-sos-kent-boringer,Çikolatalı Sos Kent Boringer,100 g,100,539,3.8,57.2,2.4
+avsar,Avsar,100 g,100,35,0,8.4,0
+mas-fasulye-mung-beans-mungbohnen-dere,Maş fasulye/ Mung beans / Mungbohnen Dere,100 g,100,325,24,46.3,1.2
+nesfit-nestle,Nesfit Nestle,100 g,100,389,0.9,72,5.7
+ulker-bol-sutlu-cikolata,Ülker Bol Sütlü Çikolata,100 g,100,537,7.9,57,30
+alpella-3gen,Alpella 3gen,100 g,100,492,5.6,72,20
+fromage,Fromage,100 g,100,255,14,2.5,21
+collagen-protein-drink,Collagen protein Drink,100 g,100,17,3.5,0,0
+proteinli-sut-27-gram-sek,Proteinli Süt 27 Gram Sek,100 g,100,62,8.2,6.5,0.3
+jus-de-pomme,Jus de pomme,100 g,100,48,0,11.5,0
+badem-sutu-nilky,Badem Sütü Nilky,100 g,100,32,0.6,3.7,1.6
+beyoglu-gazozu,Beyoğlu gazozu,100 g,100,45,0,11.2,0
+immun-smoothie-mivolis,Immun smoothie Mivolis,100 g,100,63,0.5,14,0.5
+halley-mini-ulker,HALLEY MİNİ ÜLKER,100 g,100,440,6.7,66,17
+amada-duomax-solen,Amada Duomax Şölen,100 g,100,498,7,59,25.1
+ogopogo-ozmo,Ogopogo Ozmo,100 g,100,442,5.7,54.6,22
+will-ananas-meyveli-icecek,Will ananas meyveli icecek,100 g,100,55,0,13.5,0
+uludag-limonata-nane-aromali,Uludag limonata nane aromali,100 g,100,53,0,13,0
+cecil-aynes,Çeçil Aynes,100 g,100,345,23,2.5,27
+cicibebe-eti,Cicibebe Eti,100 g,100,443,4.7,74,7.5
+biscolata-nirvana,Biscolata Nirvana,100 g,100,531,7.4,58.9,28.9
+spaghetti-arbella,Spaghetti ARBELLA,100 g,100,350,12.1,72.7,0.7
+petit-beurre-biscuit-milk-flavor-52weeks,Petit beurre biscuit Milk flavor 52weeks,100 g,100,423,8.9,70,11.1
+hazelnut-spread-sarelle,Hazelnut spread sarelle,100 g,100,579,8,51,37
+butun-bademli,Bütün bademli,100 g,100,569,9.4,47,37.5
+schweppes-mandarin,Schweppes Mandarin,100 g,100,26,0,6.1,0
+fistik-ezmesi-peanut,fıstık ezmesi/Peanut,100 g,100,514,18.1,31.6,35
+lomos-de-bacalao-salado,Lomos de bacalao salado,100 g,100,88,22,0,1
+gum-vivident,Gum vivident,100 g,100,121,0,60,0.1
+altinbasak-ulker,Altinbasak ÜLKER,100 g,100,405,11,63,9.5
+sehriyeli-tavuk-corbasi-ulker,Sehriyeli tavuk Çorbasi Ülker,100 g,100,17,0.5,3.6,0.5
+nane-aromali-kent,nane aromali kent,100 g,100,382,0,97,0
+delikatessen-sauerkonserven-sera,Delikatessen Sauerkonserven Sera,100 g,100,23,2.3,3.9,0
+caramels-tendres-au-sel-de-guerande-pinson,Caramels tendres au sel de Guerande Pinson,100 g,100,403,1.9,76,10
+krispi-pops-ulker,Krispi pops Ülker,100 g,100,144,2.2,20,5.8
+doritos,Doritos,100 g,100,382,5.3,44.6,20
+doritos-risk,Doritos Risk,100 g,100,497,6.9,58,26
+bob-cu-bob-linte,Bob cu Bob Linte,100 g,100,317,24.2,49.1,1.3
+le-cola,Le ´cola,100 g,100,46,0,11,0
+kinik-karpuz-cilek-soda-200,Kınık karpuz çilek soda 200,100 g,100,6,0,0,0
+destan-kabartma-tozu,Destan Kabartma Tozu,100 g,100,204,0,50,0.5
+temel-kuru-uzum,Temel Kuru Üzüm,100 g,100,344,2.7,83.5,0.5
+nestle-kahramanim,Nestle Kahramanim,100 g,100,567,9.8,51,36
+master-farm-almonds,Master Farm almonds,100 g,100,590,23,7,51
+buono-katmer,Buono Katmer,100 g,100,568,8.9,49.1,36.9
+icim-krema-200-milim,İçim krema 200 milim,100 g,100,334,1.5,3,35
+sutas-beyaz-peynir-500,Sütaş beyaz peynir 500,100 g,100,211,12,3,17
+tomaten-ketchup-suntat,Tomaten ketchup Suntat,100 g,100,46,1.9,40,0
+tomato-paste-tat,Tomato Paste Tat,100 g,100,103,3.8,23,0
+no-1-hazelnut-torku,no:1 Hazelnut Torku,100 g,100,520,9.7,52,29.5
+suzme-cicek-bali-harras,Süzme Çiçek Balı Harras,100 g,100,329,0,82.3,0
+mentos-you-cilek-muz,Mentos You Çilek & Muz,100 g,100,389,0,92,2
+carottes-rapees,Carottes râpées,100 g,100,32,0.5,5,0.5
+berries-bim,Berries bim,100 g,100,370,3.6,89,0
+catalhoyuk-torku,Catalhoyuk Torku,100 g,100,382,6.7,75.2,1.5
+tereyagli-kurabiye-pastamilan,Tereyağlı Kurabiye PastaMilan,100 g,100,537,0.9,62.4,32.9
+burger-dilimli-peynir-la-vache-quirit,Burger Dilimli Peynir La Vache Quirit,100 g,100,265,15,9,17
+visne-nektari-jucy,Visne nektari Jucy,100 g,100,57,0,13.6,0
+noix-de-cajou-tadim,Noix de Cajou Tadim,100 g,100,599,19.9,18.6,47.2
+digestive-nibbles-milk-chocolate-mcvities,Digestive nibbles milk chocolate Mcvities,100 g,100,509,7.5,64.7,24
+tam-yagli-sut-birsah,Tam yağlı süt Birşah,100 g,100,59,2.8,4.1,3.4
+pepites-tadim,Pépites Tadim,100 g,100,559,27,18,39
+cacoa-idfk,Cacoa Idfk,100 g,100,560,9,53.3,33.3
+haribo-chamallows,HARIBO CHAMALLOWS,100 g,100,337,5.8,78.4,0.1
+icim-sut-180-muzlu,İçim süt 180 muzlu,100 g,100,58,2.8,9.2,1.2
+mini-keks,Mini Keks,100 g,100,414,1,14,14
+probis-ulker,Probis Ulker,100 g,100,493,16,52,24
+pinar-kido-sut-180-kakaolu,Pınar kido süt 180 kakaolu,100 g,100,59,2.8,9.2,1.2
+findux,Findux,100 g,100,598,11.6,37,43.8
+nuga-fiskobirlik,Nuga Fiskobirlik,100 g,100,686,8.6,57.1,31.4
+haribo-happy-cola,Haribo happy cola,100 g,100,367,6.7,83.3,0
+hobby-cikolata-bar-ulker,Hobby çikolata bar Ülker,100 g,100,555,4.9,55,34
+torku-suzme-peynir-850,Torku süzme peynir 850,100 g,100,196,11,2,16
+balik-kraker,Balık kraker,100 g,100,502,8.5,57,26
+tam-yagli-homojenize-yogurt-birsah,Tam Yağlı Homojenize Yoğurt Birşah,100 g,100,109,4.6,14,3.8
+ma-sante-tiramisu,Ma Sante Tiramisu,100 g,100,267,6.1,33.7,12
+icim-fit-protein-kahveli,içim fit protein kahveli,100 g,100,47,6,5.4,0.1
+etsiz-cig-kofte-suntan,Etsiz çig köfte Suntan,100 g,100,212,5.4,33,6.4
+erdnuss-riegel,Erdnuss Riegel,100 g,100,533,11.8,53.8,29.6
+kibris-tatlisi-istanbul-sutlu,Kıbrıs Tatlısı İstanbul Sütlü,100 g,100,327,4,47.6,12.6
+pinar-light-sut,Pınar Light süt,100 g,100,33,3.1,5,0.1
+date-bar-chia,Date bar CHIA,100 g,100,148,4.4,18.5,4.8
+goldbears-haribo,Goldbears Haribo,100 g,100,337,6.7,76.7,0
+ac-bitir-hindi-salam-pinar,Aç Bitir Hindi salam Pinar,100 g,100,185,12,5,13
+sut-xyz,Süt xyz,100 g,100,76,4.5,6.4,5
+baharatli-kraker-ani,Baharatli kraker Ani,100 g,100,376,3.5,68,10
+drueblader-grape-leaves-nawras,Drueblader/Grape Leaves Nawras,100 g,100,70,4,11,3
+halley-ulker,Halley Ülker,100 g,100,437,6.4,65,16
+sutas-sut-1-litre-yarim-yagli,Sütaş süt 1 litre yarım yağlı,100 g,100,44,3,4.7,1.5
+fitnut-100-fistik-ezmesi,FitNut %100 Fıstık Ezmesi,100 g,100,554,29,33,34.3
+calve-kori-sos,Calve Köri Sos,100 g,100,30,0.1,2.1,3
+tutsulenmis-pilic-jumbo-sosis-banvit,Tütsülenmiş piliç jumbo sosis Banvit,100 g,100,221,13.3,4.8,16.5
+dana-macar-salam-maret,Dana Macar Salam Maret,100 g,100,199,10,6,15
+icim-sut-180-kakaolu,İçim süt 180 kakaolu,100 g,100,63,2.9,10.1,1.2
+icim-rahat-laktozsuz-yogurt,İçim Rahat Laktozsuz Yoğurt,100 g,100,48,4,4.7,1.5
+nesfit-bitter-bar-nestle,Nesfit Bitter Bar Nestlé,100 g,100,375,6.6,69,8
+taze-kasar-pinar,Taze Kaşar Pinar,100 g,100,327,24,0.3,25.5
+sarelle-sanset,Sarelle Sanset,100 g,100,549,6.5,53.9,33.5
+sutas-yogurt-kaymaksiz-ozel-seri,Sütaş Yoğurt Kaymaksız Özel Seri,100 g,100,80,4,6,4.5
+hindi-salam-namet,Hindi Salam Namet,100 g,100,248,10,7,20
+new-solitaire,New سوليتير Solitaire,100 g,100,497,4.8,60.2,23.3
+sour-rope-candy-apple-flavour-toybox,Sour Rope Candy Apple Flavour Toybox,100 g,100,382,1.7,89.4,1.9
+ulker-albeni-mini,Ülker Albeni Mini,100 g,100,504,5.8,61,26
+nutella-ferrero,Nutella Ferrero,100 g,100,533,6.3,57.5,30.9
+special-k-kellogg-s,Special K Kellogg's,100 g,100,378,9,80,1.4
+fruit-bar-with-apple-strawberry-and-hazelnut-mix,Fruit Bar With Apple Strawberry and Hazelnut MIXMEY,100 g,100,422,5.5,51,19
+valsoia-granstecco,Valsoia Granstecco,100 g,100,351,2.8,30,23.8
+bonbon,Bonbon,100 g,100,356,5.9,83,0
+icim-krem-peynir-300-icin,İçim krem peynir 300 İçin,100 g,100,187,14,3.5,13
+mixed-fruit-nectar,Mixed Fruit Nectar,100 g,100,54,0.8,13,0
+dimes-7-24-detox,Dimes 7/24 detox,100 g,100,15,0,3.7,0
+alpella-nuga-bar,Alpella Nuga Bar,100 g,100,445,3.5,69,17
+misket-galaxy-tutti-frutti-toybox,Misket Galaxy Tutti Frutti Toybox,100 g,100,360,0,90,0
+sek-protein-sut,SEK protein süt,100 g,100,59,8.2,6,0.2
+sut-migros,Sut Migros,100 g,100,59,3,4.7,3.1
+kraker-kellogs-special-k,Kraker Kellogs spécial k,100 g,100,423,9,67,12
+cerezos-fox,Cerezos fox,100 g,100,483,6.5,57.9,25
+noisettes-migros,Noisettes Migros,100 g,100,635,13.5,24,39.5
+nutymax-solen,Nutymax Şölen,100 g,100,557,7.5,54.3,34.1
+energy-bar-proformance,Energy bar Proformance,100 g,100,394,4.8,72,9.4
+lentil-chips,Lentil chips,100 g,100,446,14.8,55.4,17.3
+nesquik-breakfast-cereal-bars-nestle,Nesquik breakfast cereal bars Nestlé,100 g,100,408,7.3,62.4,14.1
+torku-lia,Torku Lia,100 g,100,532,7.8,54.6,30.9
+maras-usulu,Maras usulu,100 g,100,726,3.6,24,6.5
+melis-melis-waitrose,Melis Melis Waitrose,100 g,100,23,1.6,3.9,0.1
+carambar-la-sucette,Carambar la sucette,100 g,100,101,1.6,93,2.4
+dr-oetker-sekerli-vanilin,Dr. Oetker Şekerli Vanilin,100 g,100,385,0,96,0
+manti-turkische-teigwaren-baktat,Manti Türkische Teigwaren Baktat,100 g,100,360,12,72,1.2
+nestle-classic-sutlu-cikolatali-citir-gofret,Nestlé Classic Sütlü Çikolatalı Çıtır Gofret,100 g,100,521,5.3,64,25
+pastamia-eti,Pastamia Eti,100 g,100,419,6.5,49,22
+pepsi-cola,Pepsi Cola,100 g,100,43,0,10.8,0
+uludag-frutti-soda-200-limon,Uludağ Frutti soda 200 limon,100 g,100,36,0,8.9,0
+fiyonk,Fiyonk,100 g,100,354,11.5,74.5,1.2
+nogger,Nogger,100 g,100,253,3.2,42,7.7
+bread-mix,Bread mix,100 g,100,235,9.4,47.5,1.9
+nimet-kavala,Nimet Kavala,100 g,100,483,6.8,63.6,21.8
+sutlu-cikolata-pernigotti,Sütlü Çikolata Pernigotti,100 g,100,567,8.1,49,37
+doritos-naco-pyenir,Doritos Naco Pyenir,100 g,100,503,7.2,57.4,26.3
+magnum-mini-almond,Magnum mini almond,100 g,100,326,4,32,21
+freeze-dried-strawberry-agrogora,Freeze-Dried Strawberry AgroGora,100 g,100,330,17,50,1.7
+coated-cream-cake-with-coconut-ani-brawo-snow-bo,Coated Cream Cake With Coconut ANI | BRAWO SNOW BOARD,100 g,100,510,4,55.2,29.7
+birsah-sut,Birşah Süt,100 g,100,63,3.2,4.8,3.5
+chocolate-wafers,Chocolate wafers,100 g,100,488,6,63,26
+vivident,Vivident,100 g,100,177,1,71,0.1
+cig-kofte-cinar,Çiğ Köfte Cinar,100 g,100,305,8.6,63.3,1.9
+tropical-visneli-icecek-aroma,Tropical Vişneli Içecek aroma,100 g,100,14,0,3,0
+bitter-damla-cikolata-ulker,Bitter Damla Çikolata Ülker,100 g,100,513,6.7,53,29
+yogurt-harras,Yoğurt Harras,100 g,100,70,4,4.6,4
+wafer-gofret,Wafer Gofret,100 g,100,516,6.3,61,27
+tam-yagli-taze-suzme-peynir-peysan,Tam Yağlı Taze Süzme Peynir Peysan,100 g,100,223,11,5.5,17.5
+yarim-yagli-tost-peyniri-peysan,Yarım Yağlı Tost Peyniri Peysan,100 g,100,264,24,1.7,18
+balmar-sut,Balmar Süt,100 g,100,32,2.9,4.7,0.2
+cavdarli-ekmek-harras,Çavdarlı Ekmek Harras,100 g,100,259,10.2,41,2.1
+coco-pops-kellogg-s,coco pops Kellogg's,100 g,100,392,6,83,3.3
+yoghurt-hindb-r,Yoghurt hindbær,100 g,100,73,4.1,10,1.2
+umran-ulker,umran Ulker,100 g,100,492,2,48,32.4
+kremali-sandvic-biskuvi-ulker,Kremalı sandviç bisküvi Ülker,100 g,100,481,6.9,68,20
+gong-misir-ve-pirinc-patlagi-all,Gong Mısır Ve Pirinç Patlağı all,100 g,100,454,5.5,70,16
+hot-corn-doritos,Hot corn Doritos,100 g,100,484,6.8,0,25.6
+suzme-peynir-teksut,Süzme peynir Teksüt,100 g,100,235,12.5,1.5,20
+labneli-sandvic-krakee-ulker,labneli sandviç krakee Ülker,100 g,100,484,9.7,52,25
+migros-tam-yagli-taze-suzme-peynir,Migros Tam Yağlı Taze Süzme Peynir,100 g,100,215,12,1.2,18
+tadelle-sagra,tadelle sagra,100 g,100,495,5.1,64,23
+granola-cikolata-parcacikli-ve-findikli-kellogg-,Granola çikolata parçacıklı ve fındıklı Kellogg's,100 g,100,493,6.2,61,24
+zeytinli-humus-aila-foods,zeytinli humus aila foods,100 g,100,198,6.1,14.6,12.2
+tam-bugday-kalem-makarna-barilla,Tam buğday kalem makarna Barilla,100 g,100,350,13,65.7,2.5
+gaufrette-a-la-creme-vanille-ahinur,Gaufrette à la Crème Vanille Ahinur,100 g,100,505,3.2,68.8,25.1
+mahmood-rice-basmati,Mahmood Rice Basmati,100 g,100,345,8.6,78,0.4
+kayisi-nektari,Kayisi nektari,100 g,100,234,0.8,13,0
+kuru-fasulye-duru,Kuru Fasulye Duru,100 g,100,285,21,33,2
+karnaval-bahceden,Karnaval Bahçeden,100 g,100,666,17,7.5,60
+apfel-kekse-ciloglu,Apfel Kekse Çiloglu,100 g,100,444,5.7,70,14
+lemon-cake,Lemon cake,100 g,100,400,4,53,12
+light-mayoinnaise-heinz,Light mayoinnaise Heinz,100 g,100,268,0.6,8,26
+sweet-condensed-milk-ganik,Sweet Condensed Milk Ganik,100 g,100,335,7.1,69.2,3.2
+crispy-tavuk,Crispy tavuk,100 g,100,275,18,21,14
+boiked-red-kidney-beans-sera,Boiked red kidney beans Sera,100 g,100,75,5.2,10.7,0.4
+tropifrutti,Tropifrutti,100 g,100,349,4.5,82,0.5
+kirmizi-mercimek-saban,kırmızı mercimek saban,100 g,100,322,26,42,1.6
+fit-protein-vanilla-aromali-sut-icim,Fit protein Vanilla Aromalı Süt İçim,100 g,100,50,6.5,5.8,0.1
+ketcap-tukas,Ketçap Tukaş,100 g,100,96,1,23,0
+pinar-krem-peynir-100,Pınar Krem Peynir 100,100 g,100,190,13,3,14
+vivident-perfetti-van-melle,Vivident Perfetti Van Melle,100 g,100,126,0.2,61,0.6
+kuru-patlican-dolm-tamek,Kuru patlican dolm tamek,100 g,100,114,1.7,16.6,4.5
+kakaolu-findikli-krema-harras,Kakaolu Fındıklı Krema Harras,100 g,100,561,5.3,58.8,33.9
+pizza-tost,Pizza tost,100 g,100,239,9.2,34,7.3
+tek-sut-cream-cheese,Tek Sut Cream Cheese,100 g,100,232,11.4,1.6,20
+harras-findik-ezmesi,Harras findik ezmesi,100 g,100,591,10.5,38.3,42
+perfect-match-m-s,Perfect Match M&S,100 g,100,313,18.6,39.9,6.7
+pao-de-forma-integral-baldini,Pão de forma integral - Baldini,100 g,100,212,13.4,36,1.8
+sumak-bagdat,Sumak Bağdat,100 g,100,375,17,44,22
+pizza-with-cream-cheese,Pizza with cream cheese,100 g,100,513,7.6,58,27
+rice-and-wheat-cereal,Rice and wheat cereal,100 g,100,298,8.8,78,1.2
+vanilla-latte-kentcafe,Vanilla latte Kentcafe,100 g,100,423,7.2,69.7,12.7
+dankek-rulo-pasta,Dankek rulo pasta,100 g,100,354,4.3,64,9.4
+pastorize-edilmis-cikolatali-sut,Pastorize edilmiş çikolatalı süt,100 g,100,66,3,10,1.5
+ton-baligi,Ton balığı,100 g,100,190,22.5,0.8,9.3
+koy-ekmegi,Köy ekmeği,100 g,100,247,11.3,44.5,1.2
+tam-bugdayli-biskuvi-atistirmalik,Tam buğdaylı bisküvi atıştırmalık,100 g,100,230,3.4,26.9,11.6
+tam-bugday-makarna,Tam buğday makarna,100 g,100,345,12,65,2.5
+cavdarli-tava-ekmegi-ibo,Çavdarlı tava ekmeği İbo,100 g,100,231,10.4,43.6,0.7
+leblebi-kremasi,Leblebi kreması,100 g,100,568,10,46,40.7
+helva,Helva,100 g,100,509,11,51,29
+icim-labne,İçim labne,100 g,100,189,4.5,1.5,17
+barbunya-pilaki-yurt,Barbunya pilaki Yurt,100 g,100,133,5.3,11.2,7.5
+gong-pops-eti,Gong Pops Eti,100 g,100,500,4.7,66.7,22.7
+cerezza-dev,Cerezza dev,100 g,100,536,4.7,60,30
+mahlep-ciya-corek-otu-form-kepekli-biskuvi,Mahlep çiya çörek otu form kepekli bisküvi,100 g,100,410,11.5,62.5,11
+eti-burcak-kurabi,Eti burçak kurabi,100 g,100,486,9.3,50,26
+pronot-eti,Pronot Eti,100 g,100,437,7,58,18
+profiterol-eker,Profiterol Eker,100 g,100,172,3.4,22,7.8
+caramio,Caramio,100 g,100,513,6.1,64,25
+glutensiz-kek,Glutensiz kek,100 g,100,440,5.2,52,22
+salatatoping,Salatatoping,100 g,100,165,9.4,20.4,3.1
+coffee-mocha-3-in-1,Coffee mocha 3 in 1,100 g,100,47,0.5,8,1.4
+tam-bugday-unlu-ekmek,Tam buğday ünlü ekmek,100 g,100,252,10.7,43.8,2.9
+iraqi-yogurt,Iraqi yogurt,100 g,100,78,3.4,4.8,5
+blueberry-milk-chocolate-chocovia,Blueberry milk chocolate Chocovia,100 g,100,530,6,61,29
+tam-yagli-olgunlastirilmis-inek-peyniri,Tam yağlı olgunlastirilmis inek peyniri,100 g,100,288,17.1,1.7,22.5
+bebe-biskuvisi-ulker,Bebe bisküvisi Ülker,100 g,100,449,5.8,73,14.6
+papit,Papit,100 g,100,485,6.5,66.3,21.2
+tahinli-kraker-wefood,Tahinli kraker Wefood,100 g,100,289,4.9,26,17
+karisik-cerez,Karışık çerez,100 g,100,526,22.1,26.7,34.1
+9-kat-kat-sekersiz,9 kat kat şekersiz,100 g,100,450,3.2,65,27.5
+but-butter-clif,But butter Clif,100 g,100,451,14,48,21
+citir-kuruyemis,Citir kuruyemis,100 g,100,650,20.2,3.1,58.9
+cereales-nesfit,Céréales Nesfit,100 g,100,393,8.7,72,6.4
+labne-peynir-pinar,Labne peynir Pinar,100 g,100,194,4.5,3.5,18
+nacho,Nacho,100 g,100,528,8.7,66.2,25.3
+hazir-noodle-berona,Hazir noodle Berona,100 g,100,465,9.5,57.6,21
+pinar,قشطة Pinar,100 g,100,298,2.5,4.5,30
+red-lentil-pasta,Red lentil pasta,100 g,100,359,23.5,60.8,1.7
+cikolata-diyarbakir-dan-ilhamla-burma-kadayif-ul,Çikolata Diyarbakır'dan ilhamla Burma Kadayıf Ülker Geleneks,100 g,100,537,9.9,50,36
+tam-bugdayli-lavas-tortilla-unabella,Tam Buğdaylı Lavaş Tortilla Unabella,100 g,100,245,6.2,45.3,4.7
+bonheur-kirmizi-meyveli-bar,Bonheur kırmızı meyveli bar,100 g,100,342,16.1,55,3.6
+croissant,Croissant,100 g,100,448,6,52,24
+soya-sosu-tarihi-odunpazari,Soya sosu TARİHİ ODUNPAZARI,100 g,100,150,15,15,0
+domates-biber-karisik-salca-cokca,Domates & Biber Karışık Salça Çokça,100 g,100,115,4.6,19,0.9
+ezine-beyaz-peynir-altinkilic,Ezine beyaz peynir Altınkılıç,100 g,100,329,20.2,0.5,26
+dried-apricot-mirsan,dried apricot Mirsan,100 g,100,241,3.4,63,0
+nam-nam-snacks-chili-lemone,Nam Nam Snacks Chili & Lemone,100 g,100,543,5.7,48.6,37.1
+yarim-yagli-beyaz-peynir-ahir,yarım yağlı beyaz peynir Ahir,100 g,100,150,14.5,5,8
+weet-bix-sanitarium,Weet-Bix Sanitarium,100 g,100,327,12,67,1.3
+zindelik-pinarim,Zindelik pinarim,100 g,100,7,0,1.5,0
+chickpea-chips,Chickpea chips,100 g,100,482,2.7,53.9,23.6
+gusto-croissant-cici,Gusto Croissant Cici,100 g,100,428,5.9,46.9,24.2
+tortilla-lavalia,Tortilla Lavalia,100 g,100,297,8.2,48.8,1.8
+kavrulmus-tuzlu-yer-fistigi-tadim,Kavrulmuş tuzlu yer fıstığı Tadim,100 g,100,551,22.2,17.3,43.7
+quark-musli-bar-sek,Quark musli bar Sek,100 g,100,348,6.8,52,8.8
+tavuk-erpilic,Tavuk Erpiliç,100 g,100,190,16,11,9
+papita-ozmo,Papita Ozmo,100 g,100,152,5.2,60.9,23.3
+algida-unicornetto,Algida unicornetto,100 g,100,197,2.2,32,6.6
+chia-coconut-bar-life-in,Chia coconut bar Life in,100 g,100,380,18.2,53.8,10.2
+sut-kremali-kek-dostino,Süt Kremalı kek Dostino,100 g,100,337,4.2,57.5,9.5
+chocolat-godiva,Chocolat Godiva,100 g,100,574,9.1,27,26
+simbad-kuru-kayisi,Simbad kuru kayısı,100 g,100,278,2.8,61.7,0.4
+rote-linsen-a-la-ciftci,Rote Linsen A la ciftci,100 g,100,322,25.8,41.9,1.6
+9-kat,9 kat,100 g,100,461,4.8,63,28
+fresa-cplus,Fresa Cplus,100 g,100,30,0.1,7.5,0.1
+yer-fistikli-cezerye-miskos,Yer fistikli cezerye Miskos,100 g,100,370,5.6,76.5,3.2
+kekspir-dankek,Kekspir Dankek,100 g,100,386,4,61.2,13.7
+arpa-sehriye,Arpa şehriye,100 g,100,358,10.5,75,1.5
+form-kakaolu-cok-tahilli-gevrek,Form Kakaolu Çok Tahıllı Gevrek,100 g,100,367,8.2,73,2.3
+sandw-kasar-salam,Sandw kasar salam,100 g,100,225,9.7,27,8.2
+nimet,Nimet,100 g,100,430,10,74.3,11.3
+pasta-susu,Pasta süsü,100 g,100,460,2,77,20
+dogal-yogurt,Doğal Yoğurt,100 g,100,72,3.5,6,3.8
+grune-linsen-yorukogui,Grüne Linsen Yörükogui,100 g,100,358,22.7,55.5,0.9
+breaded-chicken-burger-banvit,Breaded chicken burger Banvit,100 g,100,228,9.3,22,11.4
+roasted-hazelnut-senocak,Roasted Hazelnut Şenocak,100 g,100,707,16.7,4,67.7
+mini-pop-kek-muzlu,Mini pop kek muzlu,100 g,100,440,5.1,59,20
+jody-ani,Jody Ani,100 g,100,446,4.8,69,16.7
+miel-propolis-dr-bal-doktorbal,Miel propolis Dr Bal / doktorbal,100 g,100,300,2.8,68.8,1.1
+mis-yogurt,Mis Yogurt,100 g,100,5,0.3,0.4,0.3
+bulgur-ta-da,Bulgur Ta!da!,100 g,100,159,3.6,22.4,5.3
+sutas-ayran,Sütaş ayran,100 g,100,32,2,2,1.8
+ulker-altinbasak-light-corek-otlu-ve-kinoali-min,Ülker Altınbaşak Light çörek otlu ve kinoalı mini Ülket,100 g,100,407,10,64,10.7
+waspco-portakal-ve-findikli-meyve-bari,WASPco Portakal ve Fındıklı Meyve Barı,100 g,100,442,11.3,49.7,22
+chiali-bulgur-pilavi-yayla,Chialı Bulgur Pilavı Yayla,100 g,100,183,4.8,31.1,4
+sade-makarna-yayla,Sade Makarna Yayla,100 g,100,245,6.1,40.8,6
+etli-bulgur-pilavi-tat,Etli Bulgur Pilavı Tat,100 g,100,133,5,11,6.2
+roasted-eggplant-tulsa,Roasted Eggplant Tulsa,100 g,100,34,1,6,0.2
+biscuit-ulker,Biscuit Ulker,100 g,100,510,5.7,63.3,26
+protein-pancake-mix-dr-oetker,Protein Pancake Mix Dr Oetker,100 g,100,206,10,30,4.3
+dana-kuzu-tekirdag-kofte-harras,Dana-kuzu Tekirdağ Köfte Harras,100 g,100,280,12,1.5,24
+pipas-altintop,Pipas Altintop,100 g,100,666,27,11,58
+mis-bulgur,MIS bulgur,100 g,100,365,11,74,1
+pilic-schnitzel-banvit,PILIC SCHNITZEL Banvit,100 g,100,266,10,23.5,14.3
+dana-fume,Dana füme,100 g,100,92,17,1,2
+dr-oetker-dark-kakao,Dr oetker Dark kakao,100 g,100,342,25,18,11
+tavuk-gogsu-piri-piri-anur,Tavuk göğsü piri piri Anur,100 g,100,94,15,4.7,0.5
+figues-sechees-feigne,Figues séchées Feigne,100 g,100,241,4,53,1
+broccolis,Broccolis,100 g,100,29,3.1,1.1,0.8
+loukoum-tadan,Loukoum Tadan,100 g,100,342,1,83,0.7
+ulker-icim-dogal-sut-1-litre,Ülker İçim Doğal Süt 1 Litre,100 g,100,58,3,4.7,3
+caesar-salad-with-chicken-safeway,Caesar salad with chicken Safeway,100 g,100,170,7,7,14
+chips-mais,Chips mais,100 g,100,513,4.8,66.5,24.7
+turmeric-latte,Turmeric latte,100 g,100,323,10,69,6
+aux-farines-de-ble-mais-graines-la-boulangere,Aux farines de blé & Mais & graines La boulangère,100 g,100,304,12,44,8.1
+resource-disbet,Resource disbet,100 g,100,100,7,10.9,0.6
+jus-au-peche,Jus au pêche,100 g,100,48,0.8,10.9,0
+alaska-frigo-sutlu-cikolatali-eti,Alaska Frigo Sütlü Çikolatalı Eti,100 g,100,328,3.8,36,18
+sogan-halka-feast,Soğan Halka Feast,100 g,100,245,4.6,30.5,11.6
+orange-drink,Orange drink,100 g,100,48,0,12,0
+proteine-a-cuisiner-ng-nutrition,Proteine à cuisiner NG nutrition,100 g,100,368,79,4.3,3.9
+fusetea-lemon,FuseTea Lemon,100 g,100,22,0,5.3,0
+tutku,Tutku,100 g,100,507,5,61,26
+elma-seftali-puresi,Elma seftali puresi,100 g,100,54,0.7,11.4,0.2
+laktozsuz-suzme-peynir-bahcivan,Laktozsuz süzme peynir Bahçıvan,100 g,100,158,14,3,10
+migros-cig-findik,Migros Cig Findik,100 g,100,675,15,5.5,64
+dibek-kahvesi,Dibek Kahvesi,100 g,100,427,5.2,77,10.7
+milk-with-cacao,Milk with cacao,100 g,100,69,2.9,12,1.1
+icim-sut-180-cilek,İçim süt 180 çilek,100 g,100,58,2.8,9,1.2
+tatli-biber-salcasi,Tatlı Biber Salçası,100 g,100,140,3.8,24.3,0.7
+damla-minera,Damla minera,100 g,100,16,0,3.7,0
+caramel-topping-sauce-kent,Caramel Topping Sauce Kent,100 g,100,258,0,64.4,0
+pro-gainer,Pro gainer,100 g,100,394,19,78,0.7
+energy-drink,energy drink,100 g,100,23,0,5,0
+toast-cheese-pinar,Toast cheese Pinar,100 g,100,321,22.2,2.5,24.7
+ekmek-tamkoy,Ekmek Tamköy,100 g,100,260,10,45.6,1.9
+apple-cider-vinegar-fersan,Apple Cider vinegar fersan,100 g,100,26,0,1.5,0
+cevizi-helva-seyidoglu,Cevizi helva Seyidoglu,100 g,100,413,12.4,53,16.8
+organik-yulaf-ezmesi,ORGANIK YULAF EZMESI,100 g,100,357,12.6,60.9,5.5
+splenda,Splenda,100 g,100,231,0.9,55.4,0.2
+sade-bazlama,Sade bazlama,100 g,100,234,8.2,43.5,12
+roasted-salted-peanuts-simbat,Roasted&salted peanuts Simbat,100 g,100,617,23.3,19.8,52.2
+yonca-roasted-red-pepper,Yonca Roasted Red Pepper,100 g,100,33,0.6,6.6,0.2
+traditional-double-roasted-blackberry-flavoured-,Traditional Double Roasted Blackberry Flavoured Turkish Deli,100 g,100,337,2.8,77.6,8
+sana-kase-250-tereyagi-lezzeti,Sana kase 250 tereyağı lezzeti,100 g,100,515,0.5,0.5,57
+mayonnaise,Mayonnaise,100 g,100,687,1,1.3,75.2
+pepsi-max,Pepsi Max,100 g,100,373,9,74,2.8
+sut,Süt,100 g,100,244,2.9,4.5,3.2
+limonlu-dondurma-gundogdu,Limonlu dondurma Gündoğdu,100 g,100,394,4.5,35.2,29.3
+organic-gemlik-siyah-zeytin-cityfarm,Organic Gemlik Siyah zeytin Cityfarm,100 g,100,120,0,8,12.1
+semi-di-canapa-decorticati-probios,Semi di canapa decorticati Probios,100 g,100,567,30.6,10.9,45.9
+potato-and-sausage-rolls-superfresh,Potato and sausage rolls Superfresh,100 g,100,218,9.8,34,4.7
+mr-no,Mr. no,100 g,100,236,10.4,30.2,10.7
+mogyorokremes-ostya,Mogyorókrémes ostya,100 g,100,538,13,45,34
+karamel-patlakli-cikolata,Karamel patlaklı çikolata,100 g,100,522,9.4,56,28
+cappy-apple-juice,Cappy Apple Juice,100 g,100,50,0,12,0
+hummus-chips,Hummus chips,100 g,100,296,18,42.1,7.1
+onigiri-ton-balikli,Onigiri ton balıklı,100 g,100,159,6.2,17.5,7.1
+kahve-beyazlaticisi,Kahve beyazlatıcısı,100 g,100,536,1.7,63.2,30.6
+karisik-sebze,Karışık sebze,100 g,100,30,2.1,4.9,0.3
+crunch,Crunch,100 g,100,535,7.4,64.5,18.1
+tea-biscuits-classic,Tea biscuits Classic,100 g,100,446,11.6,75.8,11.6
+kajulu-frenk-uzumlu-chiali-bar-peyman,Kajulu &frenk üzümlü & chiali bar Peyman,100 g,100,421,11,6.7,16
+1927-bitter-gofret,1927 bitter gofret,100 g,100,514,5.3,59,28
+sandvic-ekmegi,Sandviç ekmeği,100 g,100,268,9.6,47.1,3.7
+tost-peyniri,Tost peyniri,100 g,100,321,22,2,25
+guney-ayran,Güney ayran,100 g,100,110,2,3,0.8
+dogal-sut,Doğal süt,100 g,100,58,3,4.7,32
+cikolatali-sut,Çikolatalı süt,100 g,100,60,2.8,95,1.2
+suzme-peynir-ve-taze-sogan,Süzme peynir ve taze soğan,100 g,100,516,1.7,13,30
+elma-dilim-patates,Elma dilim patates,100 g,100,533,2.3,20,4.2
+cilekli-kefir-icim,Çilekli kefir İçim,100 g,100,252,2.7,8.5,1.5
+light-ekmek,Light ekmek,100 g,100,193,9.1,51.6,0.4
+eriste-selva,Eriste Selva,100 g,100,87,12.3,78,2.3
+harras-suzme-peynir,Harras süzme peynir,100 g,100,224,12,3.5,18
+crax-baharatli,Crax baharatlı,100 g,100,460,10,62,18
+bahcivan-mozzarella-peyniri-tahsildaroglu,Bahçıvan mozzarella peyniri tahsildaroglu,100 g,100,260,18,2,20
+ulker-dido-karamel,Ülker dido karamel,100 g,100,502,6.7,60,26
+coco-pops-kahvaltilik-gevrek-kelloggd,Coco pops kahvaltılık gevrek Kelloggd,100 g,100,398,8,75,4
+activa-quark,Activa quark,100 g,100,79,0.1,10.8,1.2
+cornetto-classico-cikolata,Cornetto classico çikolata,100 g,100,268,4.2,33,13
+yogurt,Yoğurt,100 g,100,61,4,4.6,3
+linser-lentils-nawras,Linser Lentils Nawras,100 g,100,116,9,20,0.4
+krem-peynir-tarsut,Krem Peynir Tarsüt,100 g,100,191,14,4.5,13
+sek-protein-sade-quark,Sek protein sade quark,100 g,100,84,12.1,4,2
+dondurma-karpedo,Dondurma Karpedo,100 g,100,222,5.3,32.2,4.7
+lavas-nimet,Lavaş Nimet,100 g,100,290,7.5,55.2,4.3
+yumurta-l-abali-ciftligi,Yumurta L Abalı Çiftliği,100 g,100,126,11.5,0.5,8.6
+alkolsuz-malt-icecegi-maltana,Alkolsüz malt içeceği Maltana,100 g,100,44,0,11,0
+sriracha-new-king,sriracha new King,100 g,100,76,1,18,0
+dana-pastirma-polonez,Dana Pastirma Polonez,100 g,100,270,31,0.5,16
+tuzlu-karisik-cerezya,Tuzlu Karışık Çerezya,100 g,100,474,16.7,51.6,23.1
+cikolatali-musli-burch,Çikolatalı Müsli Burch,100 g,100,418,8.5,72,12
+meyve-mix,Meyve mix,100 g,100,322,3.2,79.8,1
+torku-keciboynuzlu-sut,Torku Keçiboynuzlu süt,100 g,100,76,2.7,13,1.5
+sutas-cikolatali-sut,Sütaş çikolatalı süt,100 g,100,60,2.8,9.5,1.2
+sek-cilekli-sut,Sek cilekli sut,100 g,100,57,2.8,8,1.5
+turkish-delight,Turkish delight,100 g,100,393,4,76.7,13
+sutas-suzme-peynir-500,Sütaş süzme peynir 500,100 g,100,218,11,3,18
+yulaf-bar-eti,Yulaf Bar Eti,100 g,100,472,11,48,24
+crazy,Crazy,100 g,100,145,2,15,8
+beyaz-leblebi-peyman-bahceden,Beyaz Leblebi Peyman Bahçeden,100 g,100,399,22,61,7.3
+roys,Roys,100 g,100,224,2.3,29.9,10.3
+indian-tonic-water,indian tonic water,100 g,100,37,0,8.9,0
+protein-drink,Protein drink,100 g,100,380,73,6.9,6.9
+piatachio-bitter-chocolate-nestle,Piatachio bitter chocolate Nestlé,100 g,100,554,8.6,44,36
+makademya-findigi,Makademya Fındığı,100 g,100,718,7.9,14,76
+indomie,Indomie,100 g,100,492,10,68,20
+halloumi-pinar,Halloumi Pinar,100 g,100,317,20.2,0.6,26
+peanut-butter-de-lucca,Peanut Butter De Lucca,100 g,100,606,21.2,18.2,48.5
+canned-corn-tat,Canned corn TAT,100 g,100,62,1.8,10.9,1.7
+brownie-gold-visneli-cikolatali-kek-eti,Brownie Gold Vişneli Çikolatalı Kek Eti,100 g,100,431,4.2,52,22
+coudes-rayes-turini,Coudes rayés Turini,100 g,100,355,13,70,1.9
+chocolate-whey-protein-shake,Chocolate Whey Protein Shake,100 g,100,94,13.9,6,1.2
+tortillas-durum-surnaturel,Tortillas Durum Surnaturel,100 g,100,284,8.8,46,5
+krokantli-findikli-krema,Krokantli findikli krema,100 g,100,541,5.5,59.1,31.5
+gruun-organic-keciboynuzu-kremasi,gruun organic keçiboynuzu kremasi,100 g,100,319,6.2,52.1,6.2
+pois-casses-vert,Pois cassés vert,100 g,100,631,24.5,60.4,1.2
+loops-wellmade,Loops Wellmade,100 g,100,444,3.7,66.7,29.6
+yogurt-mevsim-yesillikleri-cesnili-lay-s,Yoğurt & Mevsim Yeşillikleri Çeşnili Lay's,100 g,100,537,6.2,52,33
+wefood-50-kakaolu-hindistan-cevizi-sutlu-vegan-c,Wefood %50 Kakaolu Hindistan Cevizi Sütlü Vegan Çikolata No5,100 g,100,551,9,36,49
+tortilla-protein-aly,Tortilla ( PROTEIN ) Aly,100 g,100,275,10,43.4,5.2
+top-tane,Top Tane,100 g,100,298,19.1,0.1,24
+della-toren,Della Toren,100 g,100,515,3.9,64.2,28
+reis-pilavlik-bulgur-1kg,Reis Pilavlik Bulgur 1KG,100 g,100,340,10,70,0.5
+ac-ye-pilic-fume-lezita,Aç Ye Piliç Füme Lezita,100 g,100,104,13,5,3.5
+nar-eksili-sos,Nar ekşili sos,100 g,100,291,1,63,1
+okra-sultani-bamya-egetad,okra Sultani Bamya egetad,100 g,100,24,1.5,2.4,0.5
+morwa-bia-a-carrefour-bio,Morwa biała Carrefour BIO,100 g,100,360,3.4,83,1.8
+yoresel-zeytinyagli-ve-kekikli-kuruyemis-bahcede,Yöresel zeytinyağlı ve kekikli kuruyemiş Bahçeden,100 g,100,530,25.7,30.1,37.3
+mini-croissants,Mini Croissants,100 g,100,459,7,48,26
+mixed-fruit,MIXED FRUIT,100 g,100,100,0,28,0
+smoothic,Smoothic,100 g,100,57,0.5,14.5,0.1
+hindistan-cevizi-kapli-meyve-toplari,Hindistan cevizi kaplı meyve topları,100 g,100,327,5.4,61,9.6
+hotline,hotline,100 g,100,48,0,12,0
+krema-dost,Krema Dost,100 g,100,333,1.7,3,35
+lor-peyniri-tahsildaroglu,Lor Peyniri Tahsildaroğlu,100 g,100,123,19,3.5,3.8
+fistixx-barbeku-sos-aromali-yer-fistik,Fıstıxx - Barbekü sos aromalı yer fıstık,100 g,100,567,22.1,13.2,47.3
+citir-elma-elmatas,Çıtır Elma Elmataş,100 g,100,364,1.1,77.9,5.3
+nohutlu-bulgur-pilavi-yayla,Nohutlu Bulgur Pilavı Yayla,100 g,100,171,4.4,25.9,5
+fistixx-oil,Fıstıxx Oil,100 g,100,587,23,11.9,49.7
+afghan-connex,Afghan Connex,100 g,100,287,8.5,58.4,3
+labne-cheese,Labne cheese,100 g,100,55,1.4,0.9,5.1
+dana-jambon-polonez,Dana Jambon Polonez,100 g,100,92,13,5,2
+cupido-lemon,Cupido lemon,100 g,100,390,6.1,82.6,3.3
+migros-taze-hellim-peyniri,Migros Taze hellim peyniri,100 g,100,328,22,0.7,26
+2x-bitter-nutymax,2x bitter Nutymax,100 g,100,546,6.5,54.8,32.6
+detox-sirkeli-icecek,Detox Sirkeli İçecek,100 g,100,15,0.2,3.6,0
+piment-rouge-seche,Piment rouge séché,100 g,100,441,12,44,17
+rosy-bifa,Rosy Bifa,100 g,100,501,6.4,58.6,26.8
+broadsted-chicken-classic,Broadsted chicken classic,100 g,100,179,15,17,6
+jsp-tukas,Jsp Tukas,100 g,100,122,4,19,0.3
+rulo-gofret-xroll,Rulo Gofret Xroll,100 g,100,543,3.9,61.5,31
+tahin-halis,Tahin Halis,100 g,100,634,24.5,10.6,63.7
+et-form-unlu-biskuvi-eti,Et form ünlü bisküvi Eti,100 g,100,417,8.6,67,11
+bulgur-pratik,Bulgur Pratik,100 g,100,196,3.4,25.2,8.4
+dost-kakaolu-sut,Dost Kakaolu süt,100 g,100,56,2.8,8,1.5
+kapari-tursusu-berrak,Kapari turşusu Berrak,100 g,100,21,2,4,1
+rende-mozarella-president,Rende Mozarella President,100 g,100,290,22.5,0.5,22
+fantasia-ring,Fantasia ring,100 g,100,249,4.7,30,12
+maras-usulu-kulah-dondurma-algida,Maras usulu kulah dondurma Algida,100 g,100,224,3.6,32,9.2
+sevenup-pepsico,Sevenup Pepsico,100 g,100,19,0,4.6,0
+firin-sutlac-hanimdan,Fırın sütlaç Hanımdan,100 g,100,117,3.3,20,2.6
+peynir-ve-baharat-aromali-cheetos,Peynir ve baharat aromalı Cheetos,100 g,100,528,5.1,62.4,28
+kremali-tavuk-corba-knorr,Kremali tavuk corba Knorr,100 g,100,38,0.5,6.6,1
+bitter-chocolate,bitter chocolate,100 g,100,528,7.4,48,34
+classics-antep-fistik,Classics antep fistik,100 g,100,298,2.7,27.1,19.8
+favorimo,Favorimo,100 g,100,335,5.6,41,16.3
+xbar,Xbar,100 g,100,391,8.3,60.3,12.5
+red-bull,Red bull,100 g,100,45,0,0,11
+busk-g,Busk G,100 g,100,482,6,56,24
+roko-karamill-golf-roko,Roko karamill Golf roko,100 g,100,270,3.3,30.1,15.1
+mozzarellali-dana-jambonlu-sandvic-dardanel,Mozzarellalı Dana Jambonlu Sandviç Dardanel,100 g,100,274,10.7,20.3,16.4
+chips-master,Chips master,100 g,100,526,6.8,48.6,32.9
+richy-cornet,Richy cornet,100 g,100,513,6,62.8,26.5
+jalapeno-turcu,Jalapeno Turcu,100 g,100,12,0.6,2.5,0.1
+kasar-peynir-o,Kasar peynir O,100 g,100,340,27,1,27
+ton-baligi-carrefour,Ton Balığı Carrefour,100 g,100,190,24.8,0.8,9.3
+haslanmis-fasulye-yayla,Haşlanmış Fasulye Yayla,100 g,100,113,7.8,12.6,1.5
+cig-kofte-oncu,Cig Köfte Oncu,100 g,100,294,14.7,62.4,1.6
+chicken-jambon,Chicken jambon,100 g,100,83,13,1,3
+kakaolu-tam-tahilli-bar-nesquik,Kakaolu tam tahilli bar Nesquik,100 g,100,402,7.2,63,6
+coarse-bulgur-with-vermicelli-sera,Coarse bulgur with vermicelli Sera,100 g,100,345,10,74,1
+fuse-tea-330-milim-seftali-pet-coca-cola,Fuse tea 330 milim şeftali pet Coca-Cola,100 g,100,20,4.7,4.7,0
+ac-ye-pilic-fileto,Aç ye piliç fileto,100 g,100,118,20,0.2,4
+lay-s,lay's,100 g,100,542,5.8,51.9,33.7
+salep-ulker,Salep Ulker,100 g,100,43,0.8,8.7,0.5
+black-bruin,black bruin,100 g,100,199,0,11.7,0
+kaju-tadim,Kaju Tadim,100 g,100,591,20,19,46
+eti,Eti,100 g,100,532,8.9,56,30
+croissant-eviza,Croissant Eviza,100 g,100,428,8.9,51.2,20.5
+suzme-yogurt-eker,Süzme Yoğurt Eker,100 g,100,106,8,5,6
+meksika-soslu-fasulye-pilaki-yayla,Meksika Soslu Fasulye Pilaki Yayla,100 g,100,142,6.7,9.6,8
+firinlanmis-patates-cipsi-mlife,Firinlanmis patates cipsi - mlife,100 g,100,388,6.2,66.1,9.3
+salchichas-pollo,Salchichas pollo,100 g,100,200,10.8,4.4,15.6
+mocaroni-cheese-la-grandiosa,Mocaroni & cheese La Grandiosa,100 g,100,18,9,11,12
+mersin,خبز صاج مدعم بالبروتين Mersin,100 g,100,275,10,43.4,5.2
+noodles-turco-mie-noodle,Noodles Turco Mie Noodle,100 g,100,458,11,63,18
+crax-sticks-eti,crax sticks ETI,100 g,100,457,7.9,57.1,21.9
+greta-kraker,Greta Kraker,100 g,100,425,12.8,67.7,10.3
+60-kakaola-bitter-cikolata,60% kakaola bitter çikolata,100 g,100,545,4.9,61,31
+basmati-pilavi-yayla,Basmati Pilavı Yayla,100 g,100,244,5,46.9,5.2
+torku-sut-200-tam-yagli,Torku süt 200 tam yağlı,100 g,100,61,2.9,4.8,3.3
+udon-saveur-crevettes-korean-food-style,Udon saveur crevettes Korean food style,100 g,100,147,4.5,31,0.4
+cerezza-muhabbet,Çerezza muhabbet,100 g,100,507,5.2,68,23
+keciboynuzlu-ve-portakal-aromali-meyve-bari,Keçiboynuzlu ve portakal aromalı meyve barı,100 g,100,273,5.8,51.8,1.8
+harras-yer-fistigi-ezmesi-parcacikli,Harras yer fıstığı ezmesi(parçacıklı),100 g,100,612,26.6,16.6,47.5
+instant-noodle-aninda-noodle-banetti,Instant noodle / aninda noodle Banetti,100 g,100,459,11.5,58.7,20
+yarim-yagli-yogurt,Yarım yağlı yoğurt,100 g,100,47,3,5.4,1.5
+nimet-cavdarli-ekmek,Nimet çavdarlı ekmek,100 g,100,218,9.5,36.9,1.3
+luppo-sufle,Luppo sufle,100 g,100,328,5.8,50,10.3
+tuzlu-karisik,Tuzlu karışık,100 g,100,401,15.6,31.8,23.6
+dare-cocoa-wafer-with-coconut-cream,Dare Cocoa Wafer with coconut cream,100 g,100,509,5.9,63,25
+kanky-tren-gofret,Kanky tren gofret,100 g,100,511,6.9,63,25
+tempo-li-bar-pistachio,Tempo li bar pistachio,100 g,100,507,11,41,32
+puding,Puding,100 g,100,116,3.1,20,2.5
+lays-firindan-lay-s,Lays Fırından Lay's,100 g,100,448,5.3,66.4,17.1
+cizi-citir-tulum-peyniri-koz-biber-aromali,Çizi çıtır tulum peyniri & köz biber aromalı,100 g,100,480,7.3,64.7,20.7
+cereales-granola-lifalif,Céréales Granola Lifalif,100 g,100,429,9.1,58,16
+bc-clif,BC Clif,100 g,100,229,7,24,11
+laviva-limon,Laviva limon,100 g,100,534,8.5,56,30
+cig-karisim,Çiğ karışım,100 g,100,613,21.3,18.6,54
+tatli-aci-nohut-cipsi,Tatlı acı nohut cipsi,100 g,100,411,21.9,51,11.4
+tam-yagli-kasar-icim,Tam yağlı kaşar Içim,100 g,100,335,23.2,1.7,26.2
+eti-form-kepekli,Eti Form Kepekli,100 g,100,415,12,67.5,12.3
+huptrik,Hüptrik,100 g,100,71,1.5,12.8,1.5
+yogurt-ve-mevsim-yesillikli,Yoğurt ve mevsim yeşillikli,100 g,100,517,6.9,52,30
+tambol-bademli-sutlu-cikolata-kahve-dunyasi,Tambol Bademli Sütlü Çikolata Kahve Dünyası,100 g,100,574,12.4,40.6,39.3
+yarim-yagli-sut,Yarım yağlı süt,100 g,100,45,3,4.7,1.5
+ozerhisar-ayran,Ozerhisar ayran,100 g,100,30,2,1.4,1.5
+balli-yer-fistigi-ezmesi-dolgulu-tarcin-kapli-ye,Ballı yer fıstığı ezmesi dolgulu tarçın kaplı yer fıstığı to,100 g,100,573,13.2,38.3,37.9
+cokomel-ulker,Çokomel Ülker,100 g,100,425,4.2,69.2,15
+fresa-karadut-frenk-uzumu,Freşa karadut frenk üzümü,100 g,100,33,0.1,8.3,0.1
+meyveli-yogurt-sutas,Meyveli yoğurt Sütaş,100 g,100,84,3,13.6,2
+sushi,Sushi,100 g,100,162,3.9,25.9,3.9
+clip-pizza-sticks,Clip pizza-sticks,100 g,100,465,8.6,64,19
+tam-yagli-kaymakli-yogurt,Tam yağlı kaymaklı yoğurt,100 g,100,79,5.3,4.5,4.5
+altinkilic-kefir-laktozsuz,Altınkılıç kefir laktozsuz,100 g,100,55,3,3.7,3
+kekspir-waffle-kek,Kekspır waffle kek,100 g,100,428,4.5,54.6,21
+uzun-eriste-yumurtali-filiz,Uzun Erişte Yumurtalı Filiz,100 g,100,359,13.1,69.1,2.7
+karabugdayli-cavdarli-ekmek,Karabuğdaylı çavdarlı ekmek,100 g,100,245,10.2,49.8,0.8
+babytos-misir-cipsi,Babytos mısır cipsi,100 g,100,546,4.3,58.4,33.1
+harras-krokantli-findikli-krema,Harras krokantlı fındıklı krema,100 g,100,563,4.5,59.7,34
+laktozsuz-dilimli-tost-peyniri-bahcivan,Laktozsuz Dilimli Tost Peyniri Bahçıvan,100 g,100,249,24,3.5,15
+karisik-kuruyemis-favori,Karışık kuruyemiş favori,100 g,100,535,18,37,33
+eti-burcak-fistik-ezmeli-kremali,Eti Burçak Fıstık Ezmeli Kremalı,100 g,100,498,15,50,25
+lor-peyniri-tahsildarogullari,Lor peyniri Tahsildaroğulları,100 g,100,222,12,2.8,18
+kunefe-sunsat,Kunefe Sunsat,100 g,100,338,0,81,14
+cream-of-chicken-soup-cup-a-soup,Cream of chicken soup (cup a soup),100 g,100,44,0.4,7.1,1.6
+pilic-fume-namet,Pilic fume Namet,100 g,100,103,14,5,3
+coconut-protein-bar-supreme,Coconut Protein Bar Supreme,100 g,100,186,4.7,22.6,11.4
+filets-de-cabillaud-facon-fish-and-chips-l-ateli,Filets de cabillaud façon fish and chips L’atelier poisonner,100 g,100,214,12,14,12
+cream-of-chicken-soup,Cream of chicken soup,100 g,100,74,0.7,12,2.7
+white-cheese,White cheese,100 g,100,225,15,4,18
+yulaf-ezmesi-turkiye-tarim-kredi-kooperatifleri,Yulaf Ezmesi Türkiye Tarım Kredi Kooperatifleri,100 g,100,357,15.4,52.5,6.6
+tulum-peynir-cebel,Tulum peynir Cebel,100 g,100,268,15,2.6,22
+hurma-ozlu-85-bitter-cikolata-wefood,Hurma Özlü %85 Bitter Çikolata WEFOOD,100 g,100,552,13,23.5,46.4
+yorukoglu,Yörükoglu,100 g,100,228,13,5.7,17
+fistik-esmesi-harras,Fıstık esmesi Harras,100 g,100,560,20.7,29.7,38.7
+bulgur-pilaf-with-garnish-pratik,Bulgur pilaf with garnish Pratik,100 g,100,184,3.2,22,8.3
+quark-sek,Quark Sek,100 g,100,90,8,12.5,1.2
+memphis-bbq-cheddar-popcorn-crave4,Memphis bbq cheddar popcorn Crave4,100 g,100,100,2,8,7
+garnitur,Garnitür,100 g,100,46,3.2,4.8,0.4
+serbest-dolasan-tavuk-yumurtasi,Serbest dolaşan tavuk yumurtası,100 g,100,124,13.2,1.7,7.2
+misirli-ton-dardanel,Mısırlı ton Dardanel,100 g,100,132,8.8,12.5,4.9
+tam-bugdayli-biskuvi-atistirmalik-mc-vitie-s,Tam buğdaylı bisküvi atıştırmalık Mc vitie's,100 g,100,512,7.7,60,26
+cevizli-kahvaltilik-sos-berrak,Cevizli kahvaltılık sos Berrak,100 g,100,45,1,9,1
+meksika-fasulyesi,Meksika fasulyesi,100 g,100,99,7.3,9.8,0.7
+gurme-meyveli-yogurt-dost,Gurme Meyveli Yoğurt Dost,100 g,100,129,2.9,17,5.5
+babeczka-czekoladowa-z-wisniami,Babeczka czekoladowa z wiśniami,100 g,100,421,5.2,55,20
+hamburger-ekmegi-kdjdue,Hamburger Ekmeği kdjdue,100 g,100,260,10.3,44.7,3.5
+kocaman-turk-somon-fume,Kocaman türk somon füme,100 g,100,160,21.7,3.8,6
+eti-susamli-cubuk,Eti susamlı çubuk,100 g,100,463,10,61,19
+antep-fistikli-milfoy,Antep fıstıklı milföy,100 g,100,536,6.8,50,34.6
+wanted-nuts-eti,Wanted nuts ETi,100 g,100,518,10,45,31
+papita-carnival,Papita carnival,100 g,100,442,5.3,67,16
+bitter-pul-cikolata,Bitter pul çikolata,100 g,100,524,5,61.7,28
+cikolata,Çikolata,100 g,100,542,6.2,60,30
+tahilli-ton-super-fresh,Tahıllı ton Super fresh,100 g,100,280,13,18,16
+meyveli-yogurt-dost,Meyveli Yogurt DOST,100 g,100,17,0.6,2.8,0.3
+baklavik-hastel,Baklavik Hastel,100 g,100,356,8.2,82.2,1.2
+gluten-free-granola-mom-s,gluten free granola mom’s,100 g,100,488,12.4,45.4,26.2
+lipton-ice-tea-yesil-cayli-limon-aromali-icecek,Lipton Ice Tea Yeşil Çaylı - Limon Aromalı İçecek,100 g,100,20,0,4.6,0
+president-kasar-peyniri,President Kaşar Peyniri,100 g,100,346,22,3.7,27
+kiri,Kiri,100 g,100,258,9,2,24
+pinar-ayran-300ml,Pinar ayran 300ml,100 g,100,138,2,3.1,1.4
+cips,Cips,100 g,100,411,1,9.9,6.2
+off-8695077084927,Йогурт клубничный,100 g,100,469,4.2,16,3.4
+balkan-sosu-lutenitsa-penguen,Balkan sosu lütenitsa Penguen,100 g,100,118,0.4,3.4,1.3
+incirli-yulafli-yogurt-probiyotik,İncirli yulaflı yoğurt probiyotik,100 g,100,318,3.5,11.5,1.8
+acika-biberes,Acıka Biberes,100 g,100,223,20,20,20
+maras-usulu-sade-dondurna-algida,Maraş Usulü Sade Dondurna Algida,100 g,100,159,30.1,24.1,55.4
+tenders-lexits,Tenders Lexits,100 g,100,843,12,4.6,13
+coffee-nescafe,Coffee Nescafe,100 g,100,435,2.3,16,3.3
+merve,Merve,100 g,100,100,100,100,100
+eti-gong-pops,ETi Gong Pops,100 g,100,469,4.2,68,20
+danke-mousse-dankek,Danke mousse Dankek,100 g,100,415,5.6,48,23
+orman-meyveli-sekizkek,Orman meyveli sekizkek,100 g,100,225,1.9,33,9.9
+tam-bugday-unlu-sandvic-ekmegi,Tam buğday unlu sandviç ekmeği,100 g,100,243,8.9,46.9,1.4
+browni-classic,Browni classic,100 g,100,443,6.8,48,26
+leblebi-helva,Leblebi helva,100 g,100,441,9.9,61.4,18.8
+lavas-ekmekcik,Lavas Ekmekcik,100 g,100,292,7.5,52.3,5
+tortilla-hastel,Tortilla Hastel,100 g,100,297,8.2,56.5,5.1
+browni-klasik,Browni klasik,100 g,100,433,6.8,48,26
+keskul,Keşkül,100 g,100,131,2.5,20,4.5
+kiymali-manti,Kıymalı mantı,100 g,100,276,10.5,47.3,5
+eti-crax-cubuk-kraker,Eti Crax Çubuk Kraker,100 g,100,400,11,73,6.8
+antep-fistigi-antepsan-keyifce,Antep Fıstığı Antepsan Keyifçe,100 g,100,643,17.5,5.8,58
+hindi-gogus-fume-pinar,Hindi Göğüs Füme Pınar,100 g,100,101,18,5,1
+yaban-mersinli-kuruyemisli-fellas,Yaban Mersinli & Kuruyemişli Fellas,100 g,100,446,14.3,42.4,20.4
+fomilk-coconut-milk,Fomilk coconut milk,100 g,100,34,0.3,2.8,2.4
+banvit-pilic-yaprak-doner,Banvit piliç yaprak döner,100 g,100,184,21,3,9.6
+fermente-dana-sucuk-torku,Fermente Dana Sucuk Torku,100 g,100,427,16,0.9,39.9
+makarna-bendo,Makarna Bendo,100 g,100,358,10.5,75,1.5
+krem-peynir-sutas,Krem Peynir Sütaş,100 g,100,195,11,4,15
+dilimli-burger-peyniri-icim,Dilimli Burger Peyniri İçim,100 g,100,363,23,3.7,28.5
+citir-leblebi-cerezya,Çıtır leblebi Çerezya,100 g,100,363,14.5,65.9,2
+smooth-organic-peanut-butter-unsalted-woodstock,Smooth Organic Peanut Butter Unsalted Woodstock,100 g,100,667,26.7,23.3,53.3
+confiture-de-cerises-visne-receli,Confiture de cerises Visne Reçeli,100 g,100,300,0.3,73.7,0.2
+jasmine-pirinc-yayla,Jasmine Pirinç Yayla,100 g,100,349,8,78,0.6
+yemek-ve-soslara-ozel-krema-icim,Yemek ve Soslara Özel Krema İçim,100 g,100,182,2,3,18
+halloumi-cheese-burger-reha,Halloumi cheese burger - Reha,100 g,100,320,20.2,0.6,26
+cecil,Çeçil,100 g,100,335,23.5,3.6,25.3
+lentilles-corail,Lentilles corail,100 g,100,322,25.8,41.9,1.6
+halloumi-cheese-chef-s-choice,Halloumi cheese Chef’s choice,100 g,100,320,20,1.7,25
+karabiberli-hindi-but-fume-yayla-turk,Karabiberli hindi but füme Yayla Türk,100 g,100,126,18,1,5.5
+sucuk-emin,Sucuk Emin,100 g,100,351,14.2,3,31.4
+caramel-bar-papita,Caramel bar Papita,100 g,100,474,5.4,66.3,20
+puding-chocolat-noisette-dr-oetker,Puding chocolat noisette Dr. oetker,100 g,100,128,3.6,20.4,3.7
+gaufrette,Gaufrette,100 g,100,521,6.2,58.4,28.7
+beyaz-peynir-pinar,Beyaz Peynir Pınar,100 g,100,248,6.8,3.5,23
+citir-pane-harci-ciloglu,Çıtır Pane Harcı Çiloğlu,100 g,100,415,9.5,74.5,9
+mediterranean-bowl-legurme,Mediterranean bowl Legurme,100 g,100,140,7.7,20,2
+biscolata-veni-wafer,Biscolata veni wafer,100 g,100,494,9,61.3,22.6
+green-peas-tukas,Green peas Tukas,100 g,100,55,6.2,2.5,0.3
+dankek-lokmalik-ulker,Dankek lokmalık Ülker,100 g,100,409,4.9,53,19
+icim-suzme-peynir-500-icin,İçim süzme peynir 500 İçin,100 g,100,219,11,2,18.5
+no-on-torku,No on Torku,100 g,100,38,0.1,9.6,0
+dried-mango,Dried Mango,100 g,100,303,2.2,72,0.6
+white-cabbage-pickle,White cabbage pickle,100 g,100,23,1,5,0
+wei-e-bohnen-sera,Weiße Bohnen Sera,100 g,100,95,6.1,12.6,0.6
+guneste-kurutulmus-kayisi-tadim,Güneşte Kurutulmuş Kayısı Tadım,100 g,100,305,2.9,70.4,0.2
+chicken-schnitzel-gedik,Chicken Schnitzel Gedik,100 g,100,240,12.1,16.5,14
+kepekli-makarna-nuh-un,Kepekli Makarna NUH’un,100 g,100,353,12.5,67.6,2.1
+ayran-eker,Ayran Eker,100 g,100,34,2,3,1.5
+pismaniye-ciloglu-ciloglu,Pişmaniye - Çiloğlu - Çiloğlu,100 g,100,456,4,82,12
+bohnen-rot-tat,Bohnen rot TAT,100 g,100,58,10,3.6,0.4
+pirinac,Pirinac,100 g,100,354,6.7,80,0.5
+tam-bugdayli-ve-ciya-tohumlu-ekmek-uno,Tam buğdaylı ve ciya tohumlu ekmek Uno,100 g,100,243,12.2,40.2,2.2
+bazlama-nimet,Bazlama Nimet,100 g,100,283,10.7,52.6,3.3
+kahveli-ve-vanilyali-dondurma,Kahveli ve vanilyalı dondurma,100 g,100,324,5.9,32,19
+tahilli-tohumlu-hindi-bahar,Tahıllı tohumlu hindi Bahar,100 g,100,159,12.6,12.1,5.9
+tavuk-etli-nohut-dardanel,Tavuk etli nohut Dardanel,100 g,100,142,6.6,11.2,8.9
+crepe-wafer-master,Crepe (wafer master),100 g,100,491,3.9,69.2,21.8
+laktozsuz-kefir,Laktozsuz kefir,100 g,100,41,2.7,2.4,2.3
+roll-bread-emy,Roll bread Emy,100 g,100,353,10,70,2.5
+olives-noires-bagci,Olives noires Bağcı,100 g,100,284,2.4,25.5,20.1
+probiyotik-suzme-peynir-bahcivan,Probiyotik süzme peynir Bahçıvan,100 g,100,212,14,3,16
+barilla-makarna,Barilla makarna,100 g,100,359,12.5,71,2
+tekirdag-kofte,Tekirdağ köfte,100 g,100,301,15,5,25
+kinoa-tohumu,Kinoa tohumu,100 g,100,310,13,60,5
+1,1,100 g,100,139,7.7,19.5,2
+yer-fistigi-ezmesi-parcacikli-harras,Yer fıstığı ezmesi(parçacıklı) Harras,100 g,100,612,26.6,16.6,47.5
+extra-ulker-sjokolade,Extra Ulker sjokolade,100 g,100,509,8.4,60,26.7
+tane-misir-konservesi-cokca-a101,tane mısır konservesi çokça (a101),100 g,100,117,3,23,1
+dolce-natale-probios,Dolce Natale Probios,100 g,100,361,6.3,49,15
+chou-marine,Chou mariné,100 g,100,5,0.3,2.5,0.1
+erdnusskerne-mit-gewurz-cips-yer-fistigi-aydede,Erdnusskerne mit Gewürz cips yer Fistigi Aydede,100 g,100,453,12,65,16
+55,55,100 g,100,112,3,20,3
+surtida,Surtida,100 g,100,511,14,48,29
+jus-de-pomme-cappy,Jus de pomme Cappy,100 g,100,43,0,11,0
+protein-bar-muscle-station,Protein Bar Muscle Station,100 g,100,408,33,47.4,15.3
+acma-nimet,Acma Nimet,100 g,100,324,11.1,51.5,8.2
+veloute-de-crabes-pointe-de-penmarc-h,Velouté de crabes Pointe de Penmarc’h,100 g,100,46,4.9,2.1,2
+26-toren,26 Toren,100 g,100,513,3.7,65,27.7
+nescafe-xpress-original,Nescafe xpress original,100 g,100,39,1,6.2,1
+kaymaksiz-yogurt-icim,Kaymaksız yoğurt İçim,100 g,100,61,4,4.6,3
+stevia-tatlandiricili-80-bitter-cikolata,Stevia Tatlandırıcılı %80 Bitter Çikolata,100 g,100,480,12,9,46
+krokanli-findik-kremasi,Krokanli findik kremasi,100 g,100,522,6,48,35
+x2-kat-tahilli-tava-ekmegi-uno,X2 kat tahilli tava ekmegi Uno,100 g,100,281,12.1,42.4,5.8
+lingua-de-gato-zero-kopenhagen,Língua de gato zero Kopenhagen,100 g,100,160,2.4,8.9,11
+3kat-tat-karmen,3kat tat Karmen,100 g,100,551,5.5,52.6,34.5
+chickapea-sticks,Chickapea sticks,100 g,100,369,22,55,6.8
+chocolat-noir-pistache-bolci,Chocolat noir pistache Bolçi,100 g,100,544,8,38,37
+kahvaltilik-aci-sos-tamek,kahvaltılık acı sos tamek,100 g,100,105,3.7,8.4,5.5
+rillettes-de-sardines-comtesse-du-barry,Rillettes de sardines Comtesse du Barry,100 g,100,273,15,3,22
+zartbitterschokolade-madame-cheri,Zartbitterschokolade Madame Chêri,100 g,100,553,9.4,41.8,34.9
+boncuk-pasta-gilda,Boncuk pasta Gilda,100 g,100,360,10.5,78.2,0.5
+jus-de-fruits-cappy,Jus de fruits Cappy,100 g,100,43,0,10.1,0
+lomo-de-dinde-extra-tendre-marine-a-l-ail-persil,Lomo de dinde extra tendre mariné à l’ail & persil Aldelis,100 g,100,82,18.2,1.1,0.6
+sour-tubes,Sour tubes,100 g,100,372,2.1,86,2.2
+migros-ceviz-ici,Migros ceviz içi,100 g,100,689,14.4,8.4,64.8
+cubuk-kraker-markasiz,Çubuk kraker Markasız,100 g,100,427,10.7,71.1,11.9
+balilimix-kakolu-balparmak,Balilimix kakolu Balparmak,100 g,100,440,9,57.7,20
+mini-pits-with-3-cheese-superfresh,Mini pits with 3 Cheese Superfresh,100 g,100,253,10.8,34.1,8.2
+mado,Mado,100 g,100,173,4.6,27.7,5.4
+fair-kakao-vanilya-bugido,Fair Kakao vanilya Bugido,100 g,100,85,1.3,12,3.5
+taze-light-kasar-peynir-icim,Taze Light kaşar peynir İçim,100 g,100,240,30.5,2.1,12.2
+kalem-borek-ispanak-nimet,Kalem börek ıspanak Nimet,100 g,100,235,8.2,29.1,9
+uzum-pekmezi-torku,Üzüm Pekmezi Torku,100 g,100,280,1.8,67.7,1
+algida-ole,Algida Ole,100 g,100,150,2.7,22,5.3
+cerezza-popcorn,Çerezza Popcorn,100 g,100,530,9.6,63,24
+ekstra-geleneksel-cilek-receli,Ekstra Geleneksel Çilek Reçeli,100 g,100,284,0,71,0
+umit-roasted-mix-kernels-umit-kuruyemis,Ümit Roasted Mix Kernels Ümit Kuruyemiş,100 g,100,728,20.9,20.7,61.3
+mixed-cocktail-tadim,Mixed Cocktail Tadim,100 g,100,512,15.9,35.1,32.5
+invite-donut-cake,Invite donut cake,100 g,100,387,4.5,56.4,16.1
+ozmo-space-corn-flakes,Ozmo space corn flakes,100 g,100,391,7.1,77,4.5
+muzlu-protein-bar-performans,Muzlu protein bar Performans,100 g,100,350,25,42.5,7
+frigola-algida,Frigola Algida,100 g,100,204,3.1,20,12
+aytac-sipsak-hindi-fume,Aytaç şipşak hindi füme,100 g,100,70,13,0.5,1.8
+taze-lor-peyniri-unal,Taze Lor Peyniri Ünal,100 g,100,173,16.9,10.7,3.6
+soyulmus-badem-li-beyaz-cikolata,Soyulmuş badem li Beyaz çikolata,100 g,100,554,7.4,55.1,33.5
+strigo-soguk-kahve,Strigo soguk kahve,100 g,100,80,1.4,7.5,0.5
+bembeyaz-light-bahcivan,Bembeyaz light Bahçıvan,100 g,100,153,19,1.4,8
+white-cow-evaporated-milk,White cow evaporated milk,100 g,100,550,4.5,11.5,7.5
+truffelsmaak-selection-carrefour,truffelsmaak sélection Carrefour,100 g,100,900,0.5,0.5,100
+ege-gluten-free-bread,Ege Gluten Free Bread,100 g,100,223,4,49,1.2
+roti-de-b-uf-marque-repere,Rôti de bœuf Marque repère,100 g,100,104,20,0.3,2.4
+saumon-leclerc,Saumon Leclerc,100 g,100,230,21,1,16
+wafer-rolls-with-hazelnut-cream-ulker,Wafer rolls with hazelnut cream Ülker,100 g,100,127,0.9,16,6.4
+nohut-saban,Nohut Saban,100 g,100,334,18.6,41.4,5.3
+salted-peanuts-ranch-flavor-tadium,Salted Peanuts Ranch Flavor Tadium,100 g,100,584,21.9,13.8,46.7
+activia-mix-go,Activia mix&go,100 g,100,91,4.2,14,1.7
+almond-icecream-magnum,Almond Icecream Magnum,100 g,100,352,5.4,32,22
+cerezos-hupmisir,Çerezos Hüpmısır,100 g,100,485,6.2,59,25
+olives-vertes-denoyautees-a-l-ail,Olives vertes dénoyautées à l’ail,100 g,100,179,1,8.5,15
+tadim-ceviz-ici,Tadım Ceviz İçi,100 g,100,630,16.5,8,55.8
+migros-kayisi-nektari,Migros kayisi nektari,100 g,100,50,0.2,12,0
+raw-cacao-coconut-healthy-and-happy,Raw cacao coconut Healthy and Happy,100 g,100,322,4.2,68.5,2.3
+extra-vitaminli,Extra vitaminli,100 g,100,30,0.9,7.6,0.1
+seftali-cappy,Seftali Cappy,100 g,100,51,0,12.6,0
+buttermilk,Buttermilk,100 g,100,89,7,39,49
+coconuy-water-with-pulp,Coconuy water with pulp,100 g,100,40,0,0,0
+vegetable-with-lemon-flavor-instant-noodles,Vegetable with lemon flavor instant noodles تركيا,100 g,100,450,11,62,17
+bitter-cikolata-kapli-hindistan-cevizli-leblebi-,Bitter Çikolata Kaplı Hindistan Cevizli Leblebi Miskets Chic,100 g,100,426,11.8,48.3,21.2
+fruchteriegel-banane-kirsch-babydream,Früchteriegel Banane-Kirsch Babydream,100 g,100,360,5.1,65,2
+pretties,Pretties,100 g,100,420,6.9,80.4,7.7
+veloute-de-legumes-anciens-picard,Velouté de légumes anciens Picard,100 g,100,43,0.5,3.9,2.5
+mexicano-doritos,Mexicano Doritos,100 g,100,500,6.7,58,26
+tomato-soup-yayla,Tomato Soup Yayla,100 g,100,39,0.7,4.4,2.1
+chocolat-noir-extra-pur-beurre-de-cacao-poulain,Chocolat noir extra pur beurre de cacao Poulain,100 g,100,508,5,55,28
+ntakos-tsanos-ntakos,Ntakos Tsanos ntakos,100 g,100,368,12.6,68.9,2.1
+ozmo-cool,Ozmo cool,100 g,100,453,6.7,43.3,27
+cizivic-zeytinyagli-ve-kekikli,Çiziviç zeytinyağlı ve kekikli,100 g,100,505,7.9,54,28
+tam-bugday-ekmegi,Tam buğday ekmeği,100 g,100,224,11.8,39.2,0.4
+bahcivan-rende-mozarella-peyniri,Bahçıvan Rende Mozarella Peyniri,100 g,100,316,23,2,24
+cream-of-rice-protein-ocean,Cream of rice Protein ocean,100 g,100,174,0.8,37.9,0.4
+off-8695504168763,Вафла Нз,100 g,100,500,6.5,63,23
+antep-fistikli-tahin-helvasi,Antep fıstıklı tahin helvası,100 g,100,550,14.1,38.8,36.4
+lifalif-granola,Lifalif granola,100 g,100,429,9.1,58,16
+cokomel-cilekli,Çokomel çilekli,100 g,100,427,4.2,69,15
+mas-fasulyesi-yayla,Maş fasulyesi Yayla,100 g,100,183,9.6,25,1.2
+dardanel,Dardanel,100 g,100,262,10.7,18.3,15
+butter,Butter,100 g,100,741,0.3,0.4,82
+sari-leblebi,Sarı leblebi,100 g,100,380,23.7,45.7,7
+tatlandirici-yuksek-proteinli-kahveli-spor-gidas,Tatlandırıcı yüksek proteinli kahveli spor gıdası,100 g,100,183,30,9,3
+truffle-mayo-calve,Truffle Mayo Calvé,100 g,100,541,0.7,3.8,59
+pickled-gherkins-berrak,Pickled gherkins Berrak,100 g,100,12,0.6,2,0.1
+cok-tahilli-ekmek,Çok tahıllı ekmek,100 g,100,373,10.8,63.6,5.4
+marinuoti-agurkai,Marinuoti agurkai,100 g,100,49,0.7,10,0.6
+manda-yogurdu-harras,Manda yoğurdu Harras,100 g,100,97,5,8.5,4.5
+keltainen-kikherne-gulcan,Keltainen kikherne Gulcan,100 g,100,392,20,56.1,7
+mayonnaise-benedicta,Mayonnaise Benedicta,100 g,100,653,1.2,2.1,71
+kars-kasar-peyniri,Kars kaşar peyniri,100 g,100,377,27.6,0.5,29.4
+zeytinyagli-ton-baligi,Zeyti̇nyağli ton baliği,100 g,100,212,24,0.1,12
+eti-karam-antep-fistikli-cilekli,Eti karam antep fıstıklı çilekli,100 g,100,531,8.9,43,35
+exotic-sikma-portakal-nar-suyu,Exotic sıkma portakal nar suyu,100 g,100,47,0.6,10.5,0.2
+aktif-probiyotik-cilekli-kefir-sek,Aktif probiyotik çilekli kefir Sek,100 g,100,63,2.7,9.6,1.5
+gun-arasi,Gün arası,100 g,100,338,6,49.9,12.7
+suzme-peynir-ekici,Süzme peynir Ekici,100 g,100,216,12,4.1,17
+manti-manti-ye,Manti Manti-ye,100 g,100,245,9.4,53,1.4
+cig-badem,Çiğ badem,100 g,100,649,17.3,23.2,56
+yesil-zeytin-cem,Yeşil zeytin Cem,100 g,100,110,0.7,0.5,11
+kruvasan-7-days,Kruvasan 7 days,100 g,100,455,5.7,43,19
+grissuno,Grissuno,100 g,100,430,13.7,71,12
+tatli-kirmizi-biber-diyar-baharat,Tatlı Kırmızı Biber Diyar Baharat,100 g,100,218,14.6,8.5,14
+sek-laktozsuz-yogurt,Sek laktozsuz yoğurt,100 g,100,48,4,4.7,1.5
+laktozsuz-sut-aynes,Laktozsuz süt Aynes,100 g,100,44,2.9,4.7,1.5
+yarim-yagli-30-daha-az-tuzlu-suzme-peynir-pinar,Yarım Yağlı %30 Daha Az Tuzlu Süzme Peynir Pınar,100 g,100,159,12,5.3,10
+dried-figs-ciloglu,Dried Figs Ciloglu,100 g,100,284,3.5,60.5,0.6
+tam-bugdayli-unlu-koy-ekmegi-nimet,tam buğdaylı unlu köy ekmeği Nimet,100 g,100,198,9.7,49.2,1.2
+biber-domates-karisik-salca-tukas,Biber & Domates Karışık Salça Tukaş,100 g,100,122,4,19,0.3
+icim-organik-sut,İçim Organik Süt,100 g,100,58,3,4.7,3
+sek-kasar-peyniri,SEK Kaşar Peyniri,100 g,100,331,25,1.7,25
+kuru-patlican-ve-biber-dolma,Kuru patlıcan ve biber dolma,100 g,100,193,3,20,11
+bamies,Bamies,100 g,100,53,3,8,1
+xroll-petit-beurre,Xroll petit beurre,100 g,100,427,7,78,9.7
+dare,Dare,100 g,100,488,5.8,59,27
+laviva-selection-bitter,Laviva selection bitter,100 g,100,513,7.3,57.8,28.9
+namet,NAMET,100 g,100,93,13,8,1
+maximus,Maximus,100 g,100,497,7.6,60,25
+wapps,Wapps,100 g,100,473,6.4,53,25
+haribo-altin-ayicik,Haribo altın ayıcık,100 g,100,330,7.1,75.2,0.1
+canga-cookie,Canga cookie,100 g,100,483,5.2,62,25
+surulebilir-lor-peyniri,Sürülebilir lor peyniri,100 g,100,691,12,2.5,12
+borek-rolls-wih-cheese,Borek rolls wih cheese,100 g,100,247,8,28,11
+bosnak-boregi,Boşnak böreği,100 g,100,235,8.6,41,10
+lemon-cheesecake-tartlets-mcvities,Lemon cheesecake tartlets Mcvities,100 g,100,490,6,60,24
+keskinoglu-mexico-shots,Keskinoğlu mexico shots,100 g,100,208,14,16.5,9.6
+popkek-eti,Popkek Eti,100 g,100,423,5,55,22
+tonla,Tonla,100 g,100,190,22.5,0.8,9.3
+chicken-breast-lezita,Chicken breast Lezita,100 g,100,442,21,0.8,2.1
+soslu-hindi-sote,Soslu hindi sote,100 g,100,508,16,2,5
+minimix,Minimix,100 g,100,300,1.5,12.8,1.5
+milk-sutas,Milk Sütaş,100 g,100,185,3,4.7,1.5
+bezelye,Bezelye,100 g,100,59,6,11,0.4
+superfresh,Superfresh,100 g,100,144,2.5,15,2
+tortilla-aly-aly,Tortilla - Aly - Aly,100 g,100,258,8,5.3,4.1
+chocolat-kumquats-madame-cheri,Chocolat Kumquats Madame Chéri,100 g,100,348,7.2,50.4,30.4
+lor-peyniri-altinkilic,Lor peyniri Altınkılıç,100 g,100,173,16.9,2.7,3.6
+activia-dogal-probiyotik-sade,Activia doğal probiyotik sade,100 g,100,260,3.7,4,3.5
+sheep-yogurt-rotas,Sheep yogurt Rotas,100 g,100,83,4,7,7
+biscolata-mood-caramel-macchiato,Biscolata Mood caramel macchiato,100 g,100,506,5.3,55.5,28.3
+tambol-findikli-sutlu-cikolata,Tambol fındıklı sütlü çikolata,100 g,100,588,11.2,39.4,42.6
+crax-eti,Crax Eti,100 g,100,433,7,68,13
+korili-noodle,Körili noodle,100 g,100,450,9,55.3,20.9
+tarhana-corbasi-hayma-ana,Tarhana çorbası Hayma ana,100 g,100,60,2.3,5,3.3
+musli-kelly-s-fitness-club,müsli kelly's fitness club,100 g,100,349,8.9,60.6,5.6
+kizilcahamam-bazlama-ekmek-dunyasi,Kızılcahamam Bazlama Ekmek Dünyası,100 g,100,273,10.7,52.6,2.3
+cekme-helva-ciloglu,Çekme Helva Ciloglu,100 g,100,458,5.7,75,17
+suda-kaykisiz-fide,Suda Kaykisiz Fide,100 g,100,95,21.7,0.8,0.4
+cevizli-yaz-helvasi-koska,Cevizli Yaz Helvası Koska,100 g,100,522,7.5,57.4,29.6
+durumu-lavas-nimet,Dürümü Lavaş Nimet,100 g,100,271,8.8,54,2.2
+knoblauch-sauce-suntat,Knoblauch sauce SUNTAT,100 g,100,290,0.5,7,29
+donmus-karides,Donmuş Karides,100 g,100,78,18.1,0,0.6
+dana-kokteyl-sosis-torku,Dana Kokteyl Sosis Torku,100 g,100,205,10.3,5.7,15.7
+ispanakli-borek-nimet,Ispanaklı börek Nimet,100 g,100,198,5.4,21.7,10
+konserve-ton-baligi-dardanel,Konserve Ton Balığı Dardanel,100 g,100,193,23.5,0,10.8
+sade-dovme-yasal-olarak-dondurma-diyemiyorlar-al,Sade Dövme (Yasal olarak Dondurma diyemiyorlar) Algida,100 g,100,153,2.5,22,5.7
+granola-kelly-s,Granola Kelly's,100 g,100,460,10,62.5,17.4
+b12-vitamin,B12 vitamin,100 g,100,100,0,0,0
+boisson,Boisson,100 g,100,182,0,10.7,0
+hashas-ezmesi-arabacioglu,Haşhaş ezmesi Arabacıoğlu,100 g,100,487,17,6.5,37.6
+alpella-sut-180-cikolatali,Alpella süt 180 çikolatalı,100 g,100,80,2.9,12.5,2
+chicken-shawarma-lezita,Chicken shawarma Lezita,100 g,100,204,21.6,2.3,12
+milfoy-hamuru,Milföy hamuru,100 g,100,328,6.5,35,18
+jalapeno,Jalapeno,100 g,100,5,0,5.3,0
+roasted-almonds-peyman,Roasted almonds Peyman,100 g,100,594,27.3,18,48.6
+ac-bitir-pinar,Aç Bitir Pınar,100 g,100,185,12,5,13
+kefirix-altinkilic,Kefirix Altınkılıç,100 g,100,79,2.7,10.3,3
+papita-strawberry-donut,Papita strawberry Donut,100 g,100,180,1.7,25,8.1
+chia-tohumu-yayla-gurme,Chia tohumu Yayla gurme,100 g,100,446,23.2,1.6,31.4
+dolce-portakal-cubuk-buono,Dolce portakal cubuk Buono,100 g,100,414,3.9,65,14.4
+ket-kut,KET KUT,100 g,100,512,4.1,47,29.6
+fineikli-lokum-berme,Fineikli lokum Berme,100 g,100,387,2,79,7.7
+melange-sec-grilles-can-besler,Mélange sec grilles Can besler,100 g,100,491,18,45,25
+chicken-dippers-roosters,Chicken dippers Roosters,100 g,100,230,15,16,11
+selection-du-moment-fruit,Sélection du moment fruit,100 g,100,37,0.7,7,0.5
+dost-gurme-yaban-mersinli-yogurt,Dost gurme yaban mersinli yogurt,100 g,100,129,2.9,17,5.5
+sarelle,Sarelle,100 g,100,571,8.3,54,35
+marshmallows,Marshmallows,100 g,100,345,4.5,81.5,0
+sutlu-cikolatali-cilek-draje-patiswiss,Sütlü Çikolatalı Çilek Draje Patiswiss,100 g,100,432,6.4,53.3,25
+savane-max-de-sensations-brossard,Savane max de sensations Brossard,100 g,100,429,5.6,54,20
+karam-bitter-cikolata-eti,Karam bitter çikolata Eti,100 g,100,510,1.4,64.3,18.6
+meyveli-yogurt-birsah,Meyveli yogurt Birşah,100 g,100,79,3.4,13.6,1.5
+siyah-zeytin-ezmesi,Siyah zeytin ezmesi,100 g,100,281,3.1,4.4,28
+detoks-kefir,Detoks kefir,100 g,100,52,2.7,5,2.3
+tuzlu-kavrulmus-badem,Tuzlu kavrulmuş badem,100 g,100,552,21.2,6.8,48.9
+karisik-pizza-pinat,Karışık pizza Pinat,100 g,100,199,1.5,25,7
+favorimo-sade-kek,Favorimo sade kek,100 g,100,408,5.9,57.4,16.6
+salata-hazir-aci-miks-yayla,Salata hazır acı miks Yayla,100 g,100,163,5.7,12,6.1
+dilimli-tost-peyniri,Dilimli tost peyniri,100 g,100,307,22,3,23
+cig-karisik-kuruyemis-pasa,Çiğ karışık kuruyemiş Paşa,100 g,100,516,15,23.5,37
+lactose-free-milk-sek,Lactose-free milk Sek,100 g,100,44,3,4.7,1.5
+acili-fistik,Acılı fıstık,100 g,100,570,25,24,44
+tek-porsiyonluk-granola,Tek porsiyonluk granola,100 g,100,450,11,51,21
+kanky-ulker,Kanky Ülker,100 g,100,538,9,54,31
+kirmizi-biber-cesnili-patates-cipsi-acili,Kırmızı biber çeşnili patates cipsi acılı,100 g,100,511,7.7,54.7,30
+sade-patates-cipsi,Sade patates cipsi,100 g,100,494,4.4,59,27.4
+pilic-kofte-chicken-meatball,Piliç köfte chicken meatball,100 g,100,217,12.5,12.8,12.8
+ton,Ton,100 g,100,190,22.5,0.8,9.3
+kakaolu-yer-fistikli-protein-bar-bonheur,Kakaolu yer fıstıklı protein bar Bonheur,100 g,100,376,22,45,10.1
+balli-yer-fistigi-ezmesi,Ballı yer fıstığı ezmesi,100 g,100,560,20.7,29.7,38.7
+tam-bi-citir,Tam bi çıtır,100 g,100,540,6.1,57.6,31.1
+crema-di-mandorle-bianca-bio-la-finestra-sul-cie,Crema di mandorle bianca bio La Finestra sul Cielo,100 g,100,658,22,6.9,58
+veggi-grill,Veggi grill,100 g,100,354,2.4,7.7,35
+burcak-hashasli-biskuvi-eti,Burçak haşhaşlı bisküvi Eti,100 g,100,469,9,62,20
+danone-mix-yogurt,Danone mix yoğurt,100 g,100,77,3.1,14.7,0.7
+sari-hashas-ezmesi,Sarı haşhaş ezmesi,100 g,100,611,21.9,19,52.2
+activia-shot,Activia shot,100 g,100,45,3.4,7.6,0.1
+suzme-peynir-peynes,Süzme peynir Peynes,100 g,100,202,10.5,4,16
+yer-fistigi-muz-protein-bar-zbarz,Yer fıstığı & muz protein bar Zbarz,100 g,100,511,20.6,36.6,29.7
+yer-fistik-krokan-koska,Yer fıstık krokan Koska,100 g,100,554,15.5,33,37.4
+hurmali-mamul,Hurmalı mamül,100 g,100,447,6.2,58.2,21.2
+bidolu,Bidolu,100 g,100,524,8.2,53,30
+cay-keyfi,Çay keyfi,100 g,100,451,6.7,64,18
+tam-bugday-sandvic-ekmegi,Tam buğday sandviç ekmeği,100 g,100,241,9.5,43.8,2.7
+tam-bugday-spagetti,Tam buğday spagetti,100 g,100,320,12,68,1.8
+pizza-tost-superfresh,Pizza tost Superfresh,100 g,100,277,9.3,39,13.8
+sutlu-cikolatali-gofret,Sütlü çikolatalı gofret,100 g,100,516,4.6,63.5,27.1
+sade-kefir,Sade kefir,100 g,100,48,2.7,3.2,2.7
+yengec-aromali-surimi,Yengeç aromalı surimi,100 g,100,127,7.8,18,3.1
+dev-yer-fistikli,Dev yer fıstıklı,100 g,100,528,1.8,59,28
+cevizli-sucuk,Cevizli sucuk,100 g,100,379,3.1,71,9.2
+petito,Petito,100 g,100,552,8,52,34
+hamburger-kofte,Hamburger köfte,100 g,100,220,18,1.4,17
+balli-hardalli-cips,Ballı hardallı cips,100 g,100,502,5,65.5,26
+yulaf-ezmesi-ince-ogutulmus,Yulaf ezmesi (i̇nce öğütülmüş),100 g,100,380,16.8,55,8
+tandir-lavas,Tandır lavaş,100 g,100,338,9.1,55.5,8.5
+turkish-delight-devtat,Turkish delight Devtat,100 g,100,437,3,84,15
+suzeme-peynir-tek-sut,Süzeme peynir Tek süt,100 g,100,146,12.2,2.9,9.5
+lokmalik-kakaolu-ulker-dankek,Lokmalik kakaolu Ülker Dankek,100 g,100,419,6.2,51,21
+off-8690504634409,Суп,100 g,100,19,0.5,4.1,0.5
+hazir-turk-kahvesi-alltincezve,Hazir Türk Kahvesi Alltincezve,100 g,100,46,0.8,6.8,0.8
+kinoali-yayla,Kinoali Yayla,100 g,100,57,2.6,7.8,1.7
+hot-ajvar-tinas,Hot Ajvar Tinas,100 g,100,70,1,7,2.5
+dudi-cikolata-kaymak-kornet-dondurma-bugido,Dudi Çikolata Kaymak Kornet Dondurma Bugido,100 g,100,196,3.9,26,8.3
+teigblatter,Teigblätter,100 g,100,260,9.3,55,1.2
+off-8690504659334,بوشار,100 g,100,368,9.1,72,2.1
+balik-kraker-eti,Balik Kraker Eti,100 g,100,484,6.5,63,0
+off-8697426454191,لبن سفن يوروك سوت,100 g,100,292,2.5,5.8,5
+otto-nuts,Otto nuts,100 g,100,552,21,7,49
+kahve-toplari,Kahve Topları,100 g,100,292,4.2,55,2.5
+basmati-pirinc-lezzet-i-efsane,basmati pirinç lezzet-i efsane,100 g,100,365,7.1,80,0.7
+dare-eti,Dare ETI,100 g,100,522,7.7,54,30
+classic-chocolate-slate,Classic chocolate Slate,100 g,100,31,6.2,1.2,0.3
+liaflif-puffed-granola,Liaflif puffed granola,100 g,100,447,11,51,20
+sushida-philadelphia-roll,Sushida philadelphia roll,100 g,100,149,6.4,21,3.9
+organik-tam-bugday-ekmegi-istanbul-halk-ekmek,Organik Tam Buğday Ekmeği İstanbul Halk Ekmek,100 g,100,224,8.8,39.6,1.8
+eker-yogurt,Eker yoğurt,100 g,100,54,4,6.2,1.5
+cifte-kavrulmus-leblebi-peyman,Çifte kavrulmuş leblebi Peyman,100 g,100,377,24,63,6.9
+sarimsakli-mayonez,Sarımsaklı mayonez,100 g,100,314,1.4,5.3,31.8
+cekirdeksiz-kuru-erik,Çekirdeksiz kuru erik,100 g,100,225,1.9,60.5,0.1
+red-velvet-kek,Red velvet kek,100 g,100,469,3.9,52.3,27
+tadim-sultaniye-kuru-uzum,Tadım Sultaniye Kuru Üzüm,100 g,100,331,2.7,78,0.5
+pilic-nugget,Piliç nugget,100 g,100,270,10,24.3,14.5
+zuber-lokma-orman-meyveli-kakaolu-fistik-ezmeli-,Züber Lokma Orman Meyveli Kakaolu Fıstık Ezmeli Meyve Topu,100 g,100,356,7.1,59,6.7
+naturali-san-pellegrino,Naturali San Pellegrino,100 g,100,38,0.1,8.9,0
+susamli-ve-corek-otlu-kraker-ulker,Susamli ve çorek otlu kraker Ulker,100 g,100,469,8.4,59,22
+zeytin-ezmesi-marmara-birlik,Zeytin Ezmesi Marmara Birlik,100 g,100,320,3,34,19.7
+dimes-sourcherry,Dimes sourcherry,100 g,100,47,0,11.8,0
+domates-corbasi-ustasindan,Domates Corbasi Ustasindan,100 g,100,24,0.5,4.8,0.1
+lay-s-firindan,Lay's Fırından,100 g,100,449,4.8,66.9,17.3
+labne-bahcivan,Labne Bahçıvan,100 g,100,198,6,3,18
+freeze-dried-strawberry-dragee,Freeze dried strawberry dragee,100 g,100,515,6.4,53.3,30.3
+cokomilk-ulker,Çokomilk Ülker,100 g,100,110,0.1,16,4.5
+kayisi-nektari-cappy,kayisi nektari Cappy,100 g,100,52,0,12.7,0
+limonata-cappy,Limonata Cappy,100 g,100,55,0,13.2,0
+ice-tea-lipton,Ice tea Lipton,100 g,100,12,0,4.6,0
+ice-tea-mangue-passion-lipton,Ice tea mangue passion Lipton,100 g,100,25,0,6.2,0
+tahinier,Tahinier,100 g,100,676,20.3,3.5,62.2
+sicak-cikolatali-icecek-tozu,Sıcak çikolatalı İçecek Tozu,100 g,100,406,7.3,73.9,7.7
+bitter-cikolatali-gofret-ulker,Bitter Cikolatali Gofret Ülker,100 g,100,531,6.1,56,30
+bal-badem-karamel-kaymak-carte-d-or,Bal badem karamel kaymak Carte d'or,100 g,100,180,3.1,24,7.7
+extra-virgin-olive-oil,Extra virgin olive oil,100 g,100,819,0,0,91
+tahin-helvat,Tahin helvat,100 g,100,531,12,51,31
+makarnali-ton-dardanel,Makarnalı Ton Dardanel,100 g,100,211,11,15.6,11.3
+seafood-salad,Seafood salad,100 g,100,240,7,11,19
+poelee-a-la-parisienne-leclerc-marque-repere,Poêlée à la parisienne Leclerc Marque Repère,100 g,100,85,2.8,6.5,4.7
+knacks-pur-porc-marque-repere,Knacks pur porc Marque Repère,100 g,100,246,11,2.5,22
+farfalle-65-barilla,Farfalle #65 Barilla,100 g,100,359,12.5,71.2,2
+flux,Flux,100 g,100,167,0,70,0
+proteinli-icecek,Proteinli icecek,100 g,100,25,3,2.6,0.1
+portakal-et-nar,Portakal et nar,100 g,100,47,0.6,10.5,0.2
+bitter-cikolata-torku,Bitter cikolata Torku,100 g,100,542,8.2,53.9,34.1
+crack-it-can-beslet,Crack it Can Beslet,100 g,100,491,29.6,40,25.8
+classic-light-carte-dor,Classic Light Carte Dor,100 g,100,110,3.1,17,3.7
+green-bean-stew-with-meat-homemade,Green Bean Stew with meat Homemade,100 g,100,59,3.6,3.6,3.6
+misir,Mısır,100 g,100,477,9.1,67.3,19.7
+yogurtlu-yarim-yagli-dondurma-danone,Yogurtlu yarim yagli dondurma Danone,100 g,100,153,3.7,22,5.6
+cicek-bamya-sera,Çiçek Bamya Sera,100 g,100,22,2,4,0
+100-fruit-cube,100% fruit cube,100 g,100,238,2.8,41,5
+sek-quark,Sek Quark,100 g,100,90,4.5,12.5,2.4
+salatalik-tursusu-galle,Salatalik tursusu Galle,100 g,100,23,1.6,3.9,0.1
+r-sk-5-0-doritos,R!SK 5.0 Doritos,100 g,100,497,6.9,58,26
+visneli-islak-kek-dankek,Visneli islak kek Dankek,100 g,100,389,4,55,17
+mini-sutlu-rulo-pasta-alpella,Mini sutlu rulo pasta Alpella,100 g,100,379,3.5,52,17
+loukoum,Loukoum,100 g,100,367,0.7,81.2,1.6
+erpilick-wings,Erpilick Wings,100 g,100,198,20,1,12
+clubwich,Clubwich,100 g,100,263,10.4,30,10.7
+white-quinoa-yayla,White Quinoa Yayla,100 g,100,317,14.5,64.4,6.8
+karisik,Karisik,100 g,100,54,0,13,0
+iced-mocha,Iced Mocha,100 g,100,47,1.4,8.5,0.6
+dardanelles-tuna,Dardanelles tuna,100 g,100,95,21.4,0.8,0.4
+ekici-kasar-600,Ekici Kaşar 600,100 g,100,322,20,5,26.7
+dogal-siyah-zeytin-oncu,Doğal Siyah Zeytin ONCU,100 g,100,370,1.7,5.7,32
+sebzeli-et-cesnili-noodle-knorr,Sebzeli Et Çeşnili Noodle Knorr,100 g,100,452,11.1,64.4,16.5
+hellim-peyniri-bahcivan,Hellim Peyniri Bahçıvan,100 g,100,319,22,1.6,25
+sutas-kasar-600,Sütaş kaşar 600,100 g,100,325,24,1,25
+beyaz-cikolata-nestle,Beyaz Çikolata Nestle,100 g,100,547,9.1,57,32
+knorr-bouillon,KNORR BOUILLON,100 g,100,278,6.1,17.6,19
+sutlu-tane-misir-tat,Sütlü Tane Mısır Tat,100 g,100,62,1.8,10.9,1.7
+lifecode-mass-bar,Lifecode mass bar,100 g,100,207,15,22,6.5
+lezita-ac-ye-pilic-fileto,Lezita Aç ye Piliç Fileto,100 g,100,118,20,0.2,4.2
+mantarli-kuskuslu-tavuk-corbasi-knorr,Mantarlı Kuskuslu Tavuk Çorbası Knorr,100 g,100,348,16.6,62.2,3.2
+siyez-bulgur-pilavi-yayla,Siyez Bulgur Pilavı Yayla,100 g,100,181,4.6,28.7,5.7
+barbunya-pilaki-yayla,Barbunya Pilaki Yayla,100 g,100,150,5.8,13,7.6
+mas-fasulyeli-bowl-tat,Maş Fasulyeli Bowl Tat,100 g,100,171,6.3,16,9.8
+strawberry-jam,Strawberry jam,100 g,100,284,0,71,0
+muska-boregi-oz-yul,Muska böregi Oz-yul,100 g,100,248,15.4,39.6,1.7
+chunks-lait-tresor-de-chefs,Chunks lait Trésor de chefs,100 g,100,515,6.5,58.7,27
+seftuli-aromali-soguk-cay-didi,şeftüli aromalı soğuk çay Didi,100 g,100,33,0,8.1,0
+miel-cremeux-avec-gingembre-et-jus-de-citron-tre,Miel crémeux avec gingembre et jus de citron Trésors d’aille,100 g,100,320,0.3,79,0.2
+sutas-ucgen-peynir-light,Sütaş üçgen peynir light,100 g,100,156,16,5,8
+yaban-mersini-verita,Yaban mersini Verita,100 g,100,57,0.7,14.5,0.3
+pop-cik-kahve-dunyasi,Pop çik Kahve dünyası,100 g,100,509,7,60.4,28.6
+pratik-duru,Pratik Duru,100 g,100,207,7.7,21.7,9.1
+pismaniye,Pismaniye,100 g,100,454,2.4,79,6.9
+proteines-shoot-feed,Protéines shoot Feed,100 g,100,152,12,12,5.4
+pate-a-tzrtiner-amande-frapella,Pate a tzrtiner amande Frapella,100 g,100,125,1.4,11.2,7.5
+olive-oil-puff-dough,Olive oil puff dough,100 g,100,374,6.1,34,24
+pasta-jolesi-dr-oetker,Pasta Jölesi Dr. Oetker,100 g,100,71,0,17.7,0
+burn-berry,Burn Berry,100 g,100,47,0,11.4,0
+kuru-incir-turkiye-tarim-kredi-kooperatifleri,Kuru İncir Türkiye Tarım Kredi Kooperatifleri,100 g,100,289,3.3,63,0.5
+panettone-granducale,Panettone Granducale,100 g,100,370,6,56,13
+superfresh-patates,Superfresh Patates,100 g,100,156,2,28,3.5
+cake-fruits-ulker,Cake fruits Ülker,100 g,100,387,4.7,52,18
+creme-hadelnuss,Creme hadelnuss,100 g,100,574,7.7,50.1,37.7
+kadife-tatlisi,Kadife tatlısı,100 g,100,248,4.3,33.3,10.9
+bite,Bite,100 g,100,397,15.7,57.9,11.2
+citir-fileto,Çıtır fileto,100 g,100,202,15.2,15.5,8.8
+yayla-pesto-soslu-makarna,Yayla pesto soslu makarna,100 g,100,212,4.1,25,10.1
+premium-tortila-untad,Premium tortila Untad,100 g,100,286,11.6,47.4,6.3
+nescafe-xpress,Nescafe xpress,100 g,100,52,1.5,8.1,1.3
+vmax-pea-protein-hardline,Vmax pea protein Hardline,100 g,100,406,82,2.5,7.4
+soslu-fistik-s,Soslu fıstık s,100 g,100,502,12,36,32
+nesquik-duo,Nesquik duo,100 g,100,136,9.3,85.7,42.9
+helva-mit-kakao-suntat,Helva mit kakao Suntat,100 g,100,542,16,50,3
+chewing-gum-ananas-first,Chewing-gum ananas First,100 g,100,173,0.5,59,2.3
+dana-janbon,Dana janbon,100 g,100,394,13,8,1
+altinbasak-light-ciya-ve-hashasli,Altınbaşak light çiya ve haşhaşlı,100 g,100,180,11,63,12
+granola-richland,Granola Richland,100 g,100,136,3,7.1,4.7
+favola-eviza,Favola Eviza,100 g,100,448,5,30,11
+bisey,Bisey,100 g,100,100,10,6,5
+harras-hurma-topu,Harras hurma topu,100 g,100,349,6.3,60,13
+topkek,Topkek,100 g,100,395,5.5,52,20
+o-lala-bar-cake-koek-ulker,O'lala Bar Cake koek ÜLKER,100 g,100,435,6,53.5,22.5
+jambon-cheddar-sandvic,Jambon cheddar sandviç,100 g,100,244,10.9,19.7,13.3
+flamin-hot-lime,Flamin' hot lime,100 g,100,496,6.8,58,25
+onigiri-somon-teriyaki,Onigiri somon teriyaki,100 g,100,144,4.7,17.8,5.9
+pizza-kraker-eti,Pizza Kraker Eti,100 g,100,475,9.5,58,22
+tavuk-doner-besler,Tavuk Döner Besler,100 g,100,152,22.6,0,6.8
+trabzon-tereyagi-vakfikebir-yorem,Trabzon Tereyagi Vakfikebir Yörem,100 g,100,734,1,0.5,80.5
+popping-candy-cola-hleks,Popping candy cola Hleks,100 g,100,394,0.3,96.8,0
+mr-brown-coffee-drink,Mr.Brown coffee drink,100 g,100,50,1.5,9.1,0.8
+pizza-king-ince-hamur-mix-superfresh-foods,Pizza King İnce Hamur Mix Superfresh Foods,100 g,100,215,10,32,5.5
+soya-sos-carrefour,Soya Sos Carrefour,100 g,100,47,7.1,4.3,0
+ince-kesim-patates-superfresh-foods,İnce Kesim Patates Superfresh Foods,100 g,100,156,2,28,3.5
+portakal-receli-pol-s-gurme,Portakal Reçeli Pol's Gurme,100 g,100,295,0.6,70.8,0
+kepekli-ekmek-uno,Kepekli Ekmek Uno,100 g,100,216,6,44.5,1.5
+haslanmis-nohut-yayla,Haşlanmış Nohut Yayla,100 g,100,129,8,13.6,2.9

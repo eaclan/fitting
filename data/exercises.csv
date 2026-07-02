@@ -1,0 +1,147 @@
+id,ad,kas_grubu,ekipman,tip
+bench-press,Bench Press,Göğüs,Barbell,Güç
+incline-bench-press,Eğimli Bench Press,Göğüs,Barbell,Güç
+decline-bench-press,Ters Eğimli Bench Press,Göğüs,Barbell,Güç
+dumbbell-bench-press,Dumbbell Bench Press,Göğüs,Dumbbell,Güç
+incline-dumbbell-press,Eğimli Dumbbell Press,Göğüs,Dumbbell,Güç
+dumbbell-fly,Dumbbell Fly,Göğüs,Dumbbell,Güç
+incline-dumbbell-fly,Eğimli Dumbbell Fly,Göğüs,Dumbbell,Güç
+pec-deck,Pec Deck,Göğüs,Makine,Güç
+cable-crossover,Cable Crossover,Göğüs,Kablo,Güç
+machine-chest-press,Machine Chest Press,Göğüs,Makine,Güç
+sinav,Şınav,Göğüs,Vücut Ağırlığı,Güç
+diamond-sinav,Diamond Şınav,Göğüs,Vücut Ağırlığı,Güç
+incline-sinav,Eğimli Şınav,Göğüs,Vücut Ağırlığı,Güç
+dips-gogus,Dips (Göğüs),Göğüs,Vücut Ağırlığı,Güç
+pullover,Pullover,Göğüs,Dumbbell,Güç
+deadlift,Deadlift,Sırt,Barbell,Güç
+barfiks,Barfiks,Sırt,Vücut Ağırlığı,Güç
+chin-up,Chin-Up,Sırt,Vücut Ağırlığı,Güç
+lat-cekis-onden,Lat Çekiş (Önden),Sırt,Kablo,Güç
+lat-cekis-arkadan,Lat Çekiş (Arkadan),Sırt,Kablo,Güç
+lat-cekis-dar-tutus,Lat Çekiş (Dar Tutuş),Sırt,Kablo,Güç
+barbell-row,Barbell Row,Sırt,Barbell,Güç
+dumbbell-row,Dumbbell Row,Sırt,Dumbbell,Güç
+t-bar-row,T-Bar Row,Sırt,Barbell,Güç
+seated-cable-row,Seated Cable Row,Sırt,Kablo,Güç
+face-pull,Face Pull,Sırt,Kablo,Güç
+hyperextension,Hyperextension,Sırt,Vücut Ağırlığı,Güç
+rack-pull,Rack Pull,Sırt,Barbell,Güç
+good-morning,Good Morning,Sırt,Barbell,Güç
+shrug-barbell,Shrug (Barbell),Sırt,Barbell,Güç
+shrug-dumbbell,Shrug (Dumbbell),Sırt,Dumbbell,Güç
+pendlay-row,Pendlay Row,Sırt,Barbell,Güç
+inverted-row,Inverted Row,Sırt,Vücut Ağırlığı,Güç
+overhead-press-barbell,Overhead Press,Omuz,Barbell,Güç
+overhead-press-dumbbell,Dumbbell Omuz Press,Omuz,Dumbbell,Güç
+arnold-press,Arnold Press,Omuz,Dumbbell,Güç
+yan-lateral-raise,Yan Lateral Raise,Omuz,Dumbbell,Güç
+on-raise,Ön Raise,Omuz,Dumbbell,Güç
+arka-delt-fly,Arka Delt Fly,Omuz,Dumbbell,Güç
+upright-row,Upright Row,Omuz,Barbell,Güç
+cable-lateral-raise,Cable Lateral Raise,Omuz,Kablo,Güç
+machine-shoulder-press,Machine Shoulder Press,Omuz,Makine,Güç
+pike-sinav,Pike Şınav,Omuz,Vücut Ağırlığı,Güç
+reverse-pec-deck,Reverse Pec Deck,Omuz,Makine,Güç
+cable-front-raise,Cable Ön Raise,Omuz,Kablo,Güç
+smith-shoulder-press,Smith Omuz Press,Omuz,Smith,Güç
+landmine-press,Landmine Press,Omuz,Barbell,Güç
+seated-dumbbell-press,Oturarak Dumbbell Press,Omuz,Dumbbell,Güç
+barbell-curl,Barbell Curl,Biceps,Barbell,Güç
+dumbbell-curl,Dumbbell Curl,Biceps,Dumbbell,Güç
+hammer-curl,Hammer Curl,Biceps,Dumbbell,Güç
+preacher-curl,Preacher Curl,Biceps,EZ Bar,Güç
+concentration-curl,Concentration Curl,Biceps,Dumbbell,Güç
+cable-curl,Cable Curl,Biceps,Kablo,Güç
+ez-bar-curl,EZ Bar Curl,Biceps,EZ Bar,Güç
+incline-dumbbell-curl,Eğimli Dumbbell Curl,Biceps,Dumbbell,Güç
+spider-curl,Spider Curl,Biceps,Dumbbell,Güç
+machine-curl,Machine Curl,Biceps,Makine,Güç
+reverse-curl,Ters Curl,Biceps,EZ Bar,Güç
+zottman-curl,Zottman Curl,Biceps,Dumbbell,Güç
+triceps-pushdown,Triceps Pushdown,Triceps,Kablo,Güç
+overhead-triceps-extension,Overhead Triceps Extension,Triceps,Dumbbell,Güç
+skull-crusher,Skull Crusher,Triceps,EZ Bar,Güç
+dips-triceps,Dips (Triceps),Triceps,Vücut Ağırlığı,Güç
+close-grip-bench,Close Grip Bench Press,Triceps,Barbell,Güç
+triceps-kickback,Triceps Kickback,Triceps,Dumbbell,Güç
+cable-overhead-extension,Cable Overhead Extension,Triceps,Kablo,Güç
+diamond-sinav-triceps,Diamond Şınav (Triceps),Triceps,Vücut Ağırlığı,Güç
+rope-pushdown,Rope Pushdown,Triceps,Kablo,Güç
+bench-dips,Bench Dips,Triceps,Vücut Ağırlığı,Güç
+machine-triceps-extension,Machine Triceps Extension,Triceps,Makine,Güç
+single-arm-pushdown,Tek Kol Pushdown,Triceps,Kablo,Güç
+back-squat,Squat,Bacak,Barbell,Güç
+front-squat,Front Squat,Bacak,Barbell,Güç
+leg-press,Leg Press,Bacak,Makine,Güç
+hack-squat,Hack Squat,Bacak,Makine,Güç
+walking-lunge,Yürüyen Lunge,Bacak,Dumbbell,Güç
+static-lunge,Sabit Lunge,Bacak,Dumbbell,Güç
+bulgarian-split-squat,Bulgarian Split Squat,Bacak,Dumbbell,Güç
+leg-extension,Leg Extension,Bacak,Makine,Güç
+lying-leg-curl,Leg Curl (Yatarak),Bacak,Makine,Güç
+seated-leg-curl,Leg Curl (Oturarak),Bacak,Makine,Güç
+romanian-deadlift,Romanian Deadlift,Bacak,Barbell,Güç
+standing-calf-raise,Calf Raise (Ayakta),Kalf,Makine,Güç
+seated-calf-raise,Calf Raise (Oturarak),Kalf,Makine,Güç
+goblet-squat,Goblet Squat,Bacak,Kettlebell,Güç
+sumo-deadlift,Sumo Deadlift,Bacak,Barbell,Güç
+step-up,Step Up,Bacak,Dumbbell,Güç
+wall-sit,Wall Sit,Bacak,Vücut Ağırlığı,Güç
+smith-squat,Smith Squat,Bacak,Smith,Güç
+pistol-squat,Pistol Squat,Bacak,Vücut Ağırlığı,Güç
+box-squat,Box Squat,Bacak,Barbell,Güç
+donkey-calf-raise,Donkey Calf Raise,Kalf,Makine,Güç
+hip-thrust,Hip Thrust,Kalça,Barbell,Güç
+glute-bridge,Glute Bridge,Kalça,Vücut Ağırlığı,Güç
+cable-kickback,Cable Kickback,Kalça,Kablo,Güç
+abduction-machine,Abduction Makinesi,Kalça,Makine,Güç
+sumo-squat,Sumo Squat,Kalça,Dumbbell,Güç
+curtsy-lunge,Curtsy Lunge,Kalça,Dumbbell,Güç
+kickback-machine,Glute Kickback Makinesi,Kalça,Makine,Güç
+frog-pump,Frog Pump,Kalça,Vücut Ağırlığı,Güç
+mekik,Mekik,Karın,Vücut Ağırlığı,Güç
+plank,Plank,Karın,Vücut Ağırlığı,Güç
+side-plank,Yan Plank,Karın,Vücut Ağırlığı,Güç
+leg-raise,Bacak Kaldırma,Karın,Vücut Ağırlığı,Güç
+russian-twist,Russian Twist,Karın,Vücut Ağırlığı,Güç
+bisiklet-mekik,Bisiklet Mekik,Karın,Vücut Ağırlığı,Güç
+mountain-climber,Mountain Climber,Karın,Vücut Ağırlığı,Güç
+ab-wheel,Ab Wheel,Karın,Vücut Ağırlığı,Güç
+hanging-leg-raise,Hanging Leg Raise,Karın,Vücut Ağırlığı,Güç
+cable-crunch,Cable Crunch,Karın,Kablo,Güç
+dead-bug,Dead Bug,Karın,Vücut Ağırlığı,Güç
+v-up,V-Up,Karın,Vücut Ağırlığı,Güç
+flutter-kick,Flutter Kick,Karın,Vücut Ağırlığı,Güç
+toe-touch,Toe Touch,Karın,Vücut Ağırlığı,Güç
+machine-crunch,Machine Crunch,Karın,Makine,Güç
+kosu-treadmill,Koşu (Treadmill),Kardiyo,Makine,Kardiyo
+yuruyus,Yürüyüş,Kardiyo,Makine,Kardiyo
+bisiklet,Bisiklet,Kardiyo,Makine,Kardiyo
+eliptik,Eliptik,Kardiyo,Makine,Kardiyo
+kurek-rowing,Kürek (Rowing),Kardiyo,Makine,Kardiyo
+ip-atlama,İp Atlama,Kardiyo,Yok,Kardiyo
+hiit,HIIT,Kardiyo,Vücut Ağırlığı,Kardiyo
+burpee-kardiyo,Burpee,Kardiyo,Vücut Ağırlığı,Kardiyo
+jumping-jack,Jumping Jack,Kardiyo,Vücut Ağırlığı,Kardiyo
+merdiven,Merdiven Tırmanma,Kardiyo,Makine,Kardiyo
+yuzme,Yüzme,Kardiyo,Yok,Kardiyo
+boks,Boks,Kardiyo,Yok,Kardiyo
+spinning,Spinning,Kardiyo,Makine,Kardiyo
+high-knees,High Knees,Kardiyo,Vücut Ağırlığı,Kardiyo
+shadow-boxing,Shadow Boxing,Kardiyo,Yok,Kardiyo
+clean-and-jerk,Clean and Jerk,Tüm Vücut,Barbell,Güç
+snatch,Snatch,Tüm Vücut,Barbell,Güç
+kettlebell-swing,Kettlebell Swing,Tüm Vücut,Kettlebell,Güç
+thruster,Thruster,Tüm Vücut,Barbell,Güç
+burpee,Burpee (Fonksiyonel),Tüm Vücut,Vücut Ağırlığı,Güç
+turkish-get-up,Turkish Get-Up,Tüm Vücut,Kettlebell,Güç
+farmers-walk,Farmer's Walk,Tüm Vücut,Dumbbell,Güç
+battle-rope,Battle Rope,Tüm Vücut,Yok,Kardiyo
+box-jump,Box Jump,Tüm Vücut,Vücut Ağırlığı,Güç
+wall-ball,Wall Ball,Tüm Vücut,Yok,Güç
+dinamik-esneme,Dinamik Esneme,Esneme,Yok,Esneme
+statik-esneme,Statik Esneme,Esneme,Yok,Esneme
+foam-roller,Foam Roller,Esneme,Yok,Esneme
+yoga,Yoga,Esneme,Yok,Esneme
+mobility,Mobility Çalışması,Esneme,Yok,Esneme

@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1" />
+  <meta name="theme-color" content="#16a34a" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <title>Sağlık Takip</title>
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="icons/icon-180.png" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+
+  <!-- Açılış / yükleniyor -->
+  <div id="yukleniyor" class="yukleniyor">
+    <div class="yuk-logo">🥗</div>
+    <div class="yuk-baslik">Sağlık Takip</div>
+    <div id="yukleniyor-durum" class="yuk-durum">Başlatılıyor…</div>
+  </div>
+
+  <!-- ============ BESLENME ============ -->
+  <main id="sayfa-beslenme" class="sayfa aktif">
+    <div id="tarih-bar" class="tarih-bar">
+      <button id="geri-btn" class="tb-ok" aria-label="Önceki gün">‹</button>
+      <button id="bugun-btn" class="tb-etiket"><span id="tarih-etiket">Bugün</span></button>
+      <button id="ileri-btn" class="tb-ok" aria-label="Sonraki gün">›</button>
+    </div>
+
+    <div id="gun-ozet" class="gun-ozet"></div>
+
+    <div class="arac-bar">
+      <div class="arama-kutu">
+        <span class="arama-ikon">🔍</span>
+        <input id="arama" type="search" inputmode="search" autocomplete="off"
+               placeholder="Yemek ara… (ör. mercimek, tavuk)" />
+      </div>
+      <button id="dunu-kopyala" class="dun-btn">⧉ Dünü kopyala</button>
+    </div>
+
+    <div id="arama-sonuc" class="arama-sonuc gizli"></div>
+    <div id="sik-kullanilanlar" class="sik-kullanilanlar gizli"></div>
+
+    <div id="ogunler" class="ogunler"></div>
+    <div class="alt-bosluk"></div>
+  </main>
+
+  <!-- ============ ANTRENMAN ============ -->
+  <main id="sayfa-antrenman" class="sayfa">
+    <div id="w-tarih-bar" class="tarih-bar">
+      <button id="w-geri" class="tb-ok" aria-label="Önceki gün">‹</button>
+      <button id="w-bugun" class="tb-etiket"><span id="w-tarih-etiket">Bugün</span></button>
+      <button id="w-ileri" class="tb-ok" aria-label="Sonraki gün">›</button>
+    </div>
+
+    <div id="w-ozet-kart" class="w-ozet-kart"></div>
+
+    <div class="w-aksiyon-bar">
+      <button id="w-program-btn" class="dun-btn">▤ Program</button>
+      <button id="w-kopyala-btn" class="dun-btn">⧉ Önceki antrenmanı kopyala</button>
+    </div>
+
+    <div class="arama-kutu w-arama-kutu">
+      <span class="arama-ikon">🔍</span>
+      <input id="w-arama" type="search" inputmode="search" autocomplete="off"
+             placeholder="Hareket ekle… (ör. squat, bench, mekik)" />
+    </div>
+    <div id="w-arama-sonuc" class="arama-sonuc gizli"></div>
+    <div id="w-sik" class="w-sik gizli"></div>
+
+    <div id="w-kartlar" class="w-kartlar"></div>
+    <div class="alt-bosluk"></div>
+  </main>
+
+  <!-- ============ AYARLAR ============ -->
+  <main id="sayfa-ayarlar" class="sayfa">
+    <h1 class="sayfa-baslik">Ayarlar</h1>
+    <div class="ayar-grup">
+      <label class="ayar-satir">
+        <span>Günlük kalori hedefi</span>
+        <input id="s-kalori" type="number" inputmode="numeric" min="800" step="50" />
+      </label>
+      <div class="ayar-baslik">Makro oranları (%)</div>
+      <label class="ayar-satir"><span>Protein</span><input id="s-protein" type="number" inputmode="numeric" min="0" max="100" /></label>
+      <label class="ayar-satir"><span>Karbonhidrat</span><input id="s-karb" type="number" inputmode="numeric" min="0" max="100" /></label>
+      <label class="ayar-satir"><span>Yağ</span><input id="s-yag" type="number" inputmode="numeric" min="0" max="100" /></label>
+      <div id="s-toplam" class="s-toplam"></div>
+      <button id="s-kaydet" class="ekle-btn">Kaydet</button>
+    </div>
+    <div class="ayar-not">
+      Veriler cihazında (IndexedDB) saklanır. İnternet olmadan da çalışır.
+      İleride bulut senkronu ve Android uygulaması eklenecek.
+      <br /><br />
+      Paketli ürün verileri kısmen <a href="https://tr.openfoodfacts.org" target="_blank" rel="noopener">Open Food Facts</a>
+      katkıcılarından alınmıştır (ODbL lisansı).
+    </div>
+    <div class="alt-bosluk"></div>
+  </main>
+
+  <!-- Alt navigasyon -->
+  <nav class="alt-nav">
+    <button class="nav-btn aktif" data-sekme="beslenme">🍽️<span>Beslenme</span></button>
+    <button class="nav-btn" data-sekme="antrenman">🏋️<span>Antrenman</span></button>
+    <button class="nav-btn" data-sekme="ayarlar">⚙️<span>Ayarlar</span></button>
+  </nav>
+
+  <!-- Hızlı ekle alt paneli (beslenme) -->
+  <div id="perde" class="perde"></div>
+  <div id="panel" class="panel"></div>
+
+  <!-- Antrenman modalı (program / geçmiş) -->
+  <div id="w-perde" class="perde"></div>
+  <div id="w-modal" class="panel w-modal"></div>
+
+  <div id="toast" class="toast"></div>
+
+  <script src="vendor/dexie.min.js"></script>
+  <script src="js/search.js"></script>
+  <script src="js/db.js"></script>
+  <script src="js/sync.js"></script>
+  <script src="js/seed.js"></script>
+  <script src="js/offsearch.js"></script>
+  <script src="js/nutrition.js"></script>
+  <script src="js/workout.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
