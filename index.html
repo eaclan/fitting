@@ -77,6 +77,10 @@
   <!-- ============ AYARLAR ============ -->
   <main id="sayfa-ayarlar" class="sayfa">
     <h1 class="sayfa-baslik">Ayarlar</h1>
+
+    <!-- Hesap / Bulut senkron (app.js doldurur) -->
+    <div id="hesap-kart" class="ayar-grup hesap-kart"></div>
+
     <div class="ayar-grup">
       <label class="ayar-satir">
         <span>Günlük kalori hedefi</span>
@@ -116,9 +120,11 @@
 
   <div id="toast" class="toast"></div>
 
+  <script src="js/config.js"></script>
   <script src="vendor/dexie.min.js"></script>
   <script src="js/search.js"></script>
   <script src="js/db.js"></script>
+  <script src="js/supabase.js"></script>
   <script src="js/sync.js"></script>
   <script src="js/seed.js"></script>
   <script src="js/offsearch.js"></script>

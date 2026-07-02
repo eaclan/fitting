@@ -548,12 +548,31 @@
       return row ? row.value : { ...VARSAYILAN_AYARLAR };
     },
     async set(value) {
-      await db.user_settings.put({ key: 'main', value });
+      await db.user_settings.put({ key: 'main', value, updated_at: nowISO(), synced: 0 });
       return value;
     },
     async ensure() {
       const row = await db.user_settings.get('main');
       if (!row) await this.set({ ...VARSAYILAN_AYARLAR });
+    },
+    // ---- senkron ----
+    async rawGet() {
+      return db.user_settings.get('main');
+    },
+    async isaretle() {
+      const row = await db.user_settings.get('main');
+      if (row) await db.user_settings.put({ ...row, synced: 1 });
+    },
+    // Uzaktan gelen ayarı uygula (LWW). Dönüş: uygulandı mı?
+    async uzaktanUygula(value, updated_at) {
+      const row = await db.user_settings.get('main');
+      const ly = row ? Date.parse(row.updated_at) || 0 : -1;
+      const ry = Date.parse(updated_at) || 0;
+      if (!row || ly < ry) {
+        await db.user_settings.put({ key: 'main', value, updated_at, synced: 1 });
+        return true;
+      }
+      return false;
     }
   };
 
@@ -566,6 +585,66 @@
     },
     async set(key, value) {
       await db.meta.put({ key, value });
+    }
+  };
+
+  // ---- Senkron yardımcıları (Supabase köprüsü) -------------------------------
+  // Yerel tablo ↔ uzak tablo eşlemesi. foods'ta yalnızca kullanıcı gıdaları
+  // (kaynak dolu: online/özel) senkronlanır; seed katalog senkronlanmaz.
+  function sec(obj, anahtarlar) {
+    const o = {};
+    for (const k of anahtarlar) if (obj[k] !== undefined) o[k] = obj[k];
+    return o;
+  }
+  const SENKRON_TANIM = [
+    {
+      yerel: 'food_logs', uzak: 'food_logs', pk: 'id',
+      alanlar: ['id', 'tarih', 'food_id', 'gram', 'porsiyon_carpani', 'ogun', 'deleted', 'updated_at']
+    },
+    {
+      yerel: 'workout_logs', uzak: 'workout_logs', pk: 'id',
+      alanlar: ['id', 'tarih', 'exercise_id', 'hareket', 'set_no', 'tekrar', 'kilo', 'tamam', 'deleted', 'updated_at']
+    },
+    {
+      yerel: 'programs', uzak: 'programs', pk: 'id',
+      alanlar: ['id', 'ad', 'hareketler', 'deleted', 'updated_at']
+    },
+    {
+      yerel: 'foods', uzak: 'user_foods', pk: 'user_id,id', sadeceKullanici: true,
+      alanlar: ['id', 'ad', 'arama', 'kategori', 'porsiyon_adi', 'gram', 'kalori', 'protein', 'karb', 'yag', 'kaynak', 'deleted', 'updated_at']
+    }
+  ];
+
+  const Senkron = {
+    tanimlar: SENKRON_TANIM,
+    async bekleyenler(t) {
+      let arr = await db[t.yerel].toArray();
+      if (t.sadeceKullanici) arr = arr.filter((r) => r.kaynak);
+      return arr.filter((r) => r.synced === 0);
+    },
+    disariAktar(t, satirlar, userId) {
+      return satirlar.map((r) => ({ ...sec(r, t.alanlar), user_id: userId }));
+    },
+    async isaretle(t, idler) {
+      for (const id of idler) await db[t.yerel].update(id, { synced: 1 });
+    },
+    // Uzak satırları yerelde birleştir (last-write-wins). Dönüş: uygulanan sayısı.
+    // Karşılaştırma epoch (ms) üzerinden — yerel "...Z" ile Supabase "...+00:00"
+    // formatlarını string olarak yanlış sıralamamak için.
+    async iceriAl(t, uzakSatirlar) {
+      let n = 0;
+      for (const u of uzakSatirlar || []) {
+        const temiz = sec(u, t.alanlar);
+        if (!temiz.id) continue;
+        const yerel = await db[t.yerel].get(temiz.id);
+        const ly = yerel ? Date.parse(yerel.updated_at) || 0 : -1;
+        const ry = Date.parse(temiz.updated_at) || 0;
+        if (!yerel || ly < ry) {
+          await db[t.yerel].put({ ...(yerel || {}), ...temiz, synced: 1 });
+          n++;
+        }
+      }
+      return n;
     }
   };
 
@@ -586,6 +665,7 @@
     Programs,
     Settings,
     Meta,
+    Senkron,
     VARSAYILAN_AYARLAR
   };
 })(window);

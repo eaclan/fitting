@@ -274,6 +274,19 @@ input { font-family: inherit; font-size: 16px; }
 .s-toplam.hata { color: var(--y); }
 .ayar-not { color: var(--soluk); font-size: 13px; margin: 14px 4px; line-height: 1.5; }
 
+/* ---- Hesap / Bulut ---- */
+.hesap-kart { margin-bottom: 14px; }
+.hesap-input { width: 100%; height: 46px; border: 1px solid var(--cizgi); border-radius: 12px; padding: 0 14px; margin-bottom: 8px; outline: none; background: var(--zemin); color: var(--metin); }
+.hesap-input:focus { border-color: var(--yesil); background: var(--kart); }
+.hesap-btnlar { display: flex; gap: 8px; margin-top: 4px; }
+.hesap-btnlar .ekle-btn { height: 46px; font-size: 15px; }
+.hesap-cikis { flex: 0 0 auto; padding: 0 16px; height: 46px; border-radius: 12px; border: 1px solid var(--cizgi); color: var(--y); font-weight: 600; background: var(--kart); }
+.hesap-durum { display: flex; align-items: center; gap: 8px; font-weight: 600; padding: 4px 0 2px; }
+.hesap-nokta { width: 9px; height: 9px; border-radius: 50%; background: var(--yesil); box-shadow: 0 0 0 3px var(--yesil-acik); flex: 0 0 auto; }
+.senkron-durum { font-size: 13px; color: var(--soluk); margin: 2px 0 12px; }
+.hesap-hata { background: #fef2f2; color: #b91c1c; border-radius: 10px; padding: 9px 12px; font-size: 13px; margin-bottom: 8px; }
+@media (prefers-color-scheme: dark) { .hesap-hata { background: #3b1a1a; color: #fca5a5; } }
+
 /* ---- Toast ---- */
 .toast {
   position: fixed; left: 50%; bottom: calc(var(--nav-h) + 18px);

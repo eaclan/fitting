@@ -58,7 +58,11 @@
       kullanim_sayisi: 0,
       son_kullanim: null,
       son_gram: null,
-      kaynak: 'off'
+      kaynak: 'off',
+      // senkron alanları (kullanıcının eklediği gıda buluta gider)
+      deleted: 0,
+      synced: 0,
+      updated_at: global.DB.nowISO()
     };
   }
 
