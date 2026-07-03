@@ -5,7 +5,7 @@
 //   - Diğer GET istekleri: cache-first, ağdan gelince önbelleği güncelle.
 // Sürüm artınca (CACHE) eski önbellek temizlenir.
 
-const CACHE = 'saglik-takip-v5';
+const CACHE = 'saglik-takip-v6';
 
 // GitHub Pages alt yolunda (ör. /repo/) çalışsın diye göreli yollar.
 const KABUK = [

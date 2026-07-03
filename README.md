@@ -1,7 +1,14 @@
-# Sağlık Takip
+<p align="center">
+  <img src="icons/icon-192.png" width="104" height="104" alt="Sağlık Takip logosu" />
+</p>
+<h1 align="center">Sağlık Takip</h1>
+<p align="center">
+  Türkçe beslenme + antrenman takip PWA'sı ·
+  <a href="https://eaclan.github.io/fitting/">Canlı demo</a>
+</p>
 
-Türkçe beslenme + antrenman takip PWA'sı. Framework yok — vanilla HTML/CSS/JS.
-Veriler cihazda IndexedDB'de saklanır (Dexie.js), çevrimdışı çalışır (service worker).
+Framework yok — vanilla HTML/CSS/JS. Veriler cihazda IndexedDB'de saklanır (Dexie.js),
+çevrimdışı çalışır (service worker), Supabase ile buluta senkronlanır.
 
 ## Kapsam (tamamlandı)
 - **Veri modeli** (`js/db.js`): `foods`, `food_logs`, `workout_logs`, `exercises`,
