@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1" />
-  <meta name="theme-color" content="#16a34a" />
+  <meta name="theme-color" content="#f2f2f7" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="default" />
   <title>Sağlık Takip</title>
@@ -24,6 +24,14 @@
 
   <!-- ============ BESLENME ============ -->
   <main id="sayfa-beslenme" class="sayfa aktif">
+    <header class="sayfa-hero">
+      <div>
+        <span class="hero-kicker">Bugünün dengesi</span>
+        <h1>Beslenme</h1>
+      </div>
+      <div class="hero-mark hero-mark-beslenme" aria-hidden="true">✦</div>
+    </header>
+
     <div id="tarih-bar" class="tarih-bar">
       <button id="geri-btn" class="tb-ok" aria-label="Önceki gün">‹</button>
       <button id="bugun-btn" class="tb-etiket"><span id="tarih-etiket">Bugün</span></button>
@@ -50,6 +58,14 @@
 
   <!-- ============ ANTRENMAN ============ -->
   <main id="sayfa-antrenman" class="sayfa">
+    <header class="sayfa-hero">
+      <div>
+        <span class="hero-kicker">Gücünü takip et</span>
+        <h1>Antrenman</h1>
+      </div>
+      <div class="hero-mark hero-mark-antrenman" aria-hidden="true">↗</div>
+    </header>
+
     <div id="w-tarih-bar" class="tarih-bar">
       <button id="w-geri" class="tb-ok" aria-label="Önceki gün">‹</button>
       <button id="w-bugun" class="tb-etiket"><span id="w-tarih-etiket">Bugün</span></button>
@@ -77,7 +93,13 @@
 
   <!-- ============ AYARLAR ============ -->
   <main id="sayfa-ayarlar" class="sayfa">
-    <h1 class="sayfa-baslik">Ayarlar</h1>
+    <header class="sayfa-hero ayarlar-hero">
+      <div>
+        <span class="hero-kicker">Kişisel alanın</span>
+        <h1>Ayarlar</h1>
+      </div>
+      <div class="hero-mark hero-mark-ayarlar" aria-hidden="true">⌁</div>
+    </header>
 
     <!-- Hesap / Bulut senkron (app.js doldurur) -->
     <div id="hesap-kart" class="ayar-grup hesap-kart"></div>
@@ -96,7 +118,7 @@
     </div>
     <div class="ayar-not">
       Veriler cihazında (IndexedDB) saklanır. İnternet olmadan da çalışır.
-      İleride bulut senkronu ve Android uygulaması eklenecek.
+      Hesabın açıksa değişikliklerin güvenli biçimde bulutla eşitlenir.
       <br /><br />
       Paketli ürün verileri kısmen <a href="https://tr.openfoodfacts.org" target="_blank" rel="noopener">Open Food Facts</a>
       katkıcılarından alınmıştır (ODbL lisansı).
@@ -106,9 +128,18 @@
 
   <!-- Alt navigasyon -->
   <nav class="alt-nav">
-    <button class="nav-btn aktif" data-sekme="beslenme">🍽️<span>Beslenme</span></button>
-    <button class="nav-btn" data-sekme="antrenman">🏋️<span>Antrenman</span></button>
-    <button class="nav-btn" data-sekme="ayarlar">⚙️<span>Ayarlar</span></button>
+    <button class="nav-btn aktif" data-sekme="beslenme" aria-label="Beslenme">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 3v7M4 3v4.5A2.5 2.5 0 0 0 6.5 10H7v11M17 3c-2.4 1.8-3.5 4.3-3.5 7.4 0 2.1 1.2 3.6 3.5 3.6v7M17 3v11"/></svg>
+      <span>Beslenme</span>
+    </button>
+    <button class="nav-btn" data-sekme="antrenman" aria-label="Antrenman">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 8v8M3.5 9.5v5M18 8v8M20.5 9.5v5M6 12h12"/></svg>
+      <span>Antrenman</span>
+    </button>
+    <button class="nav-btn" data-sekme="ayarlar" aria-label="Ayarlar">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="3"/><path d="M19 12a7 7 0 0 0-.1-1l2-1.5-2-3.5-2.5 1A7 7 0 0 0 14.7 6L14.4 3h-4.8l-.3 3A7 7 0 0 0 7.6 7L5 6 3 9.5 5.1 11a7 7 0 0 0 0 2L3 14.5 5 18l2.6-1a7 7 0 0 0 1.7 1l.3 3h4.8l.3-3a7 7 0 0 0 1.7-1l2.6 1 2-3.5-2.1-1.5a7 7 0 0 0 .1-1Z"/></svg>
+      <span>Ayarlar</span>
+    </button>
   </nav>
 
   <!-- Hızlı ekle alt paneli (beslenme) -->
